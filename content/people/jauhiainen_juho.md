@@ -17,7 +17,7 @@ Päivätyö: Senior DFIR Consultant, [Nixu Corporation](https://www.nixu.com)
 
 Muuta:
 * Forensiikkakouluttaja, Maanpuolustuskoulutusyhdistys Ry (MPK Ry)
-* Puheenjotaja ja perustaja, HelSec Ry
+* Puheenjohtaja ja perustaja, HelSec Ry
 
 Sertifikaatit:
 * CISSP

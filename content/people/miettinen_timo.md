@@ -1,6 +1,6 @@
 ---
 title: "Timo Miettinen"
-nick: "timietti"
+nick: "timiett1"
 twitter: "https://twitter.com/timietti"
 linkedin: "https://www.linkedin.com/in/timo-miettinen-b743a896"
 profile_img: "/images/timo_miettinen.jpg"

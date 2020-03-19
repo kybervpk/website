@@ -1,6 +1,7 @@
 ---
 title: "Anssi Matti Helin"
 nick: "Shadikka"
+weight: -99
 twitter: ""
 linkedin: "https://www.linkedin.com/in/anssi-matti-helin-07437a40/"
 profile_img: "/images/anssi_matti_helin.jpg"

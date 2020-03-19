@@ -7,21 +7,21 @@ linkedin: "https://www.linkedin.com/in/iirouusitalo/"
 profile_img: "/images/iiro_uusitalo.jpg"
 ---
 
-Key competencies:
+Erityisosaaminen:
 * Linux
-* Cloud
-* Monitoring / Centralized Log Management
-* Pentesting (Web, Mobile, IoT)
+* Pilvipalvelut
+* Monitorointi / Keskitetty loginhallinta
+* Penetraatiotestaus (Web, Mobile, IoT)
 * OSINT
 
 
-Day job: Cloud and Security Specialist  at [Solita](https://www.solita.fi)
+Päivätyö: Cloud and Security Specialist, [Solita](https://www.solita.fi)
 
-Other:
+Muuta:
 * Bug bounty hunter
-* Hacker at Team ROT
-* Hacker at Team Whack
-* Co-Founder at TallinnSec MTÜ
+* Team ROTin hakkeri
+* Team Whackin hakkeri
+* TallinnSec MTÜ perustaja
 
-Certifications:
+Sertifikaatit:
 * OSCP

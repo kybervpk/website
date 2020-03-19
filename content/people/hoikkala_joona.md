@@ -1,6 +1,7 @@
 ---
 title: "Joona Hoikkala"
 nick: "joohoi"
+weight: -97
 twitter: "https://twitter.com/joohoi"
 linkedin: ""
 profile_img: "/images/joona_hoikkala.jpg"

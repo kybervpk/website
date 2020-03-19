@@ -10,7 +10,7 @@ profile_img: "/images/markus_jaron_raty.jpg"
 Erityisosaaminen:
 * Verkot ja järjestelmäarkkitehtuuri
 * Linux
-* Pääsynhallintajärjestelmät
+* Pääsynhallinta- ja valvontajärjestelmät
 * Tilannejohtaminen ja kommunikointi 
 * Ihmisten kanssa toimiminen ja tilanteiden purkaminen
 

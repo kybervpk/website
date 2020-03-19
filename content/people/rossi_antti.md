@@ -1,6 +1,7 @@
 ---
 title: "Antti Rössi"
 nick: "anamus"
+weight: -98
 twitter: "https://twitter.com/anamus_"
 linkedin: "https://www.linkedin.com/in/antti-r%C3%B6ssi-682593b8/"
 profile_img: "/images/antti_rossi.jpg"
