@@ -4,21 +4,21 @@ nick: "notmynick"
 weight: -103
 twitter: "https://twitter.com/Notquiteyou"
 linkedin: "https://www.linkedin.com/in/igotroot/"
-profile_img: ""
+profile_img: "/images/benjamin_sarkka.jpg"
 ---
 
-Key competencies:
+Erityisosaaminen:
 * Digital Forensics & Incident Response (DFIR)
-* Threat Intelligence and capability mapping 
-* Crisis Management and communication 
+* Threat Intelligence & capability mapping 
+* Kriisinhallinta ja kommunikointi
 
-Day job: Head of Cyber Intelligence Analytics at [Nordea Bank](https://www.nordea.com)
+Päivätyö: Head of Cyber Intelligence Analytics, [Nordea Bank](https://www.nordea.com)
 
-Other:
-* Founder Disobey Hacking Conference 
+Muuta:
+* Perustaja, Disobey Hacking Conference 
 * CEO 10100.fi 
 * Memeber Team Whack 
 
-Certifications:
+Sertifikaatit:
 * CISSP
 * GCFA
