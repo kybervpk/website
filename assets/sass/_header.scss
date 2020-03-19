@@ -1,0 +1,18 @@
+header {
+    .kybervpk-heading img {
+        max-width: 100%;
+        @media (min-width: $bp-md) {
+            max-width: 20rem;
+        }
+    }
+
+    .lead {
+        font-size: 2rem;
+        font-weight: 700;
+        margin: 2rem 0;
+
+        @media (min-width: $bp-md) {
+            margin: 1rem 0;
+        }
+    }
+}

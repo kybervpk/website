@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+{{- partial "head.html" . -}}
+<body class="site">
+{{- partial "header.html" . -}}
+<div class="container overflow-hidden my-4">
+    <div class="row">
+        <div class="col">
+            {{- block "main" . }}{{- end }}
+        </div>
+    </div>
+</div>
+{{- partial "footer.html" . -}}
+</body>
+</html>
