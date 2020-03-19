@@ -16,6 +16,9 @@ KyberVPK on vapaaehtoisvoimin toimiva kyberajan tulipalojen sammuttaja.
 #### Mitä KyberVPK tavoittelee?
 Yhteisöjen, kansakunnan, EU:n ja maailman hyvää. Haluamme mahdollistaa muita auttavien tahojen keskittymisen omiin tehtäviinsä kaikkia koskettavan uhan alla, minimoiden kyberhäiriöistä ja -häiriköistä aiheutuvat haitat.
 
+#### Mitä KyberVPK:n tarjoamat palvelut maksaa?
+Palvelut ovat maksuttomia ja tehdään vapaaehtoisten toimesta heidän vapaa-ajallaan.
+
 #### Keitä KyberVPK:hon kuuluu? 
 KyberVPK koostuu vapaaehtoisista tietoturva-alan asiantuntijoista, jotka toimivat organisaatiossa yksityishenkilöinä, eivätkä edusta työnantajiaan. 
 
