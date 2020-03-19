@@ -10,5 +10,3 @@ Erityisosaaminen:
 * Threat Intelligence
 
 Päivätyö: Vanhempi tietoturvakonsultti [Nixu Oyj](https://www.nixu.com)
-
-

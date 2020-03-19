@@ -14,7 +14,7 @@ KyberVPK on perustettu maaliskuussa 2020.
 KyberVPK on vapaaehtoisvoimin toimiva kyberajan tulipalojen sammuttaja.
 
 #### Mitä KyberVPK tavoittelee?
-Yhteisöjen, kansakunnan, EU:n ja maailman hyvää. Haluamme mahdollistaa muita auttavien tahojen keskittymisen omiin tehtäviinsä kaikkia koskettavan uhan alla, minimoiden kyberhäiriöistä ja -häiriköistä aiheutuvat haitat.
+Yhteisöjen, yhteiskunnan, EU:n ja maailman hyvää. Haluamme mahdollistaa muita auttavien tahojen keskittymisen omiin tehtäviinsä kaikkia koskettavan uhan alla, minimoiden kyberhäiriöistä ja -häiriköistä aiheutuvat haitat.
 
 #### Mitä KyberVPK:n tarjoamat palvelut maksaa?
 Palvelut ovat maksuttomia ja tehdään vapaaehtoisten toimesta heidän vapaa-ajallaan.
