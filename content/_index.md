@@ -13,3 +13,8 @@ Apua pyytävän organisaation tarpeista riippuen KyberVPK voi auttaa ennaltaehk�
 * Yrityksiä, joilla ei ole taloudellista mahdollisuutta pyytää apua kyberhyökkäyksiin
 * Kuntia, kouluja tai muuta teknistä apua tarvitsevia yhteisöjä
 
+**Kuinka saan apua:**
+
+* [Ota yhteyttä](/contact/).
+* Arvioimme jokaisen tapauksen yksitellen ja luottamuksella.
+* Tarjoamamme apu ei maksa sinulle tai yrityksellesi mitään.
