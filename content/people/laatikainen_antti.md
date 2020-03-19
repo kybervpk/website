@@ -10,7 +10,7 @@ Erityisosaaminen:
 * Kriisijohtaminen ja palautuminen
 * Verkkojen turvallisuus, suunnittelusta toteutukseen
 * Riskienhallinta ja uhkamallinnus
-* Henkilötietojen käsittely, GPRD ja HIPAA
+* Henkilötietojen käsittely, GDPR ja HIPAA
 
 Päivätyö: Senior Security Consultant, [F-Secure Consulting](https://www.f-secure.com/en/consulting)
 
