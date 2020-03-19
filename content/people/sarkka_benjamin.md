@@ -5,6 +5,7 @@ weight: -103
 twitter: "https://twitter.com/Notquiteyou"
 linkedin: "https://www.linkedin.com/in/igotroot/"
 profile_img: "/images/benjamin_sarkka.jpg"
+photo_credit: "2020 Mikael Peltomaa"
 ---
 
 Erityisosaaminen:
