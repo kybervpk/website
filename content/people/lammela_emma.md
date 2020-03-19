@@ -7,13 +7,13 @@ linkedin: "https://www.linkedin.com/in/emma-lammela-050501bb"
 profile_img: "/images/emma_lammela.jpg"
 ---
 
-Key competencies:
-* Media relations & PR
-* Crisis communication & issues management
-* Media coaching and interview training
-* Organic and paid social media
+Erityisosaaminen:
+* Mediasuhteet & PR
+* Kriisikommunikointi & tehtävien hallinta
+* Media- ja haastatteluvalmennus
+* Orgaaninen ja kaupallinen sosiaalinen media
 
-Day job: Communications Specialist at K-ryhmä (https://www.kesko.fi) 
+Päivätyö: Communications Specialist, [K-ryhmä](https://www.kesko.fi) 
 
-Other:
-* Active at The National Defence Training Association of Finland (MPK Ry)
+Muuta:
+* Aktiivi, Maanpuolustuskoulutusyhdistys ry (MPK ry)

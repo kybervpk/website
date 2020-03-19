@@ -11,7 +11,7 @@ Erityisosaaminen:
 * Web-sovellusturvallisuus
 * Penetraatiotestaaminen
 
-Päivätyö: Turvallisuus auditoija at [Nixu Corporation](https://www.nixu.com)
+Päivätyö: Turvallisuusauditoija, [Nixu Corporation](https://www.nixu.com)
 
 Other:
 * [LeftOvers](https://leftovers.xyz)-hakkeritiimin jäsen
