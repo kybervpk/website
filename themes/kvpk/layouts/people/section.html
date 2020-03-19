@@ -1,0 +1,20 @@
+{{ define "main" }}
+{{ .Content }}
+
+{{ with .Site.GetPage "section" "people" }}
+<div class="members">
+    {{ range .Pages }}
+    <div class="member">
+        <a class="avatar-wrapper" href="{{ .Permalink }}">
+            {{ with .Params.profile_img }}
+            <img class="avatar" src="{{ . }}">
+            {{ else }}
+            <img class="avatar" src="/images/missing.jpg">
+            {{ end }}
+        </a>
+        <a class="name" href="{{ .Permalink }}"><h5>{{ .Title }}</h5></a>
+    </div>
+    {{ end }}
+</div>
+{{ end }}
+{{ end }}

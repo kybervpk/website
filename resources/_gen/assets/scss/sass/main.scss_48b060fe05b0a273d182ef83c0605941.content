@@ -1,0 +1,1 @@
+.site header.kybervpk{padding-bottom:1.5rem}.site .members{display:flex;flex-wrap:wrap}.site .members .member{flex:1 0 21%;display:flex;flex-direction:column;text-align:center;padding:.5rem}.site .members .member a{color:#c40886;margin-top:.5rem}.site .members .member .avatar{max-width:10rem;align-self:center}
