@@ -3,7 +3,7 @@ title: "Jarmo Puttonen"
 nick: "putsi"
 twitter: "https://twitter.com/putsi"
 linkedin: "https://www.linkedin.com/in/jarmoputtonen/"
-profile_img: ""
+profile_img: "/images/jarmo_puttonen.jpg"
 ---
 
 Erityisosaaminen:
