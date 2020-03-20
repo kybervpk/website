@@ -9,7 +9,7 @@ profile_img: "/images/emma_lammela.jpg"
 
 Erityisosaaminen:
 * Mediasuhteet & PR
-* Kriisikommunikointi & tehtävien hallinta
+* Kriisiviestintä ja riskienhallinta
 * Media- ja haastatteluvalmennus
 * Orgaaninen ja kaupallinen sosiaalinen media
 

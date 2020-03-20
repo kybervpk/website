@@ -4,7 +4,7 @@ nick: "iamjake"
 weight: 
 twitter: "https://twitter.com/iamj3k"
 linkedin: ""
-profile_img: ""
+profile_img: "/images/jake-matti_lahtinen.jpg"
 ---
 
 Erityisosaaminen:
