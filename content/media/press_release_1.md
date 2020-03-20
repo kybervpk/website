@@ -42,9 +42,9 @@ Lisätietoa:
 \
 [media@kybervpk.fi](mailto:media@kybervpk.fi)
 
-Taneli Kaivola, KyberVPK:n perustaja, [taneli.kaivola@kybervpk.fi](mailto:taneli.kaivola@kybervpk.fi), +358 46 689 4561
+Taneli Kaivola, KyberVPK:n perustaja, [taneli.kaivola@kybervpk.fi](mailto:taneli.kaivola@kybervpk.fi)
 \
-Laura Kankaala, [laura.kankaala@kybervpk.fi](mailto:laura.kankaala@kybervpk.fi), +358 45 204 3991 
+Laura Kankaala, [laura.kankaala@kybervpk.fi](mailto:laura.kankaala@kybervpk.fi)
 
 
 
