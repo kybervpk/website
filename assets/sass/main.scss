@@ -1,4 +1,4 @@
-$main-color: #f50aa7;
+$main-color: #D32B88;
 $dark-color: darken($main-color, 10%);
 $font-dark: #212529;
 
@@ -27,6 +27,10 @@ html {
     h3, h4 {
         margin-bottom: 0.5rem;
         font-weight: 700;
+    }
+
+    img {
+        max-width: 100%;
     }
 
     .site {
