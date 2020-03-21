@@ -1,19 +1,20 @@
 ---
 title: "Harri Kuosmanen"
 nick: "faller"
-twitter: ""
+twitter: "https://twitter.com/Faltti"
 linkedin: ""
-profile_img: ""
+profile_img: "/images/harri_kuosmanen.jpg"
 ---
 
 Erityisosaaminen:
 * Digital Forensics & Incident Response (DFIR)
-* Windows-verkot
+* Penetraatiotestaus (Web ja Mobile)
 
 Päivätyö: Cybersecurity Analyst, [Metso Corporation](https://www.metso.com)
 
 Muuta:
-* Team ROT -valkohattuhakkeritiimin jäsen
+* [Team ROT](https://teamrot.fi) -valkohattuhakkeritiimin jäsen
+* Perustajakumppani, Rotco Oy
 
 Sertifikaatit:
 * CISA
