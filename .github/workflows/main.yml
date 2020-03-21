@@ -1,0 +1,20 @@
+name: Build and deploy Hugo project to GitHub pages
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout master
+        uses: actions/checkout@v1
+
+      - name: Deploy the site
+        uses: joohoi/hugo-deploy@master
+        env:
+          DEPLOY_REPO: kybervpk/kybervpk.github.io
+          DEPLOY_SSH_KEY: ${{ secrets.DEPLOY_SSH_KEY }}
+          DEPLOY_USER: vpk-buildbot

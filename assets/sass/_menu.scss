@@ -1,0 +1,33 @@
+.menu {
+    a {
+        margin: 0.15rem;
+    }
+
+    .btn {
+        border-color: $font-dark;
+        color: $font-dark;
+    }
+
+    .btn-primary {
+        color: white;
+    }
+
+    .btn-outline-secondary {
+        &:active {
+            color: $font-dark;
+            font-weight: 700;
+        }
+        &:hover {
+            box-shadow: 0px 2px 12px -3px rgba(33,37,41,0.5);
+        }
+    }
+
+    .btn-primary {
+        &:active {
+            background-color: $dark-color;
+        }
+        &:focus {
+            box-shadow: 0 0 0 0.2rem lighten($main-color, 25);
+        }
+    }
+}

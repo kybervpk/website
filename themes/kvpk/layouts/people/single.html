@@ -1,0 +1,20 @@
+{{ define "main" }}
+<div class="people_page align-items-center flex flex-column">
+    <h1>{{ .Title }}</h1>
+    {{ if .Params.profile_img }}
+    <figure>
+        <img class="avatar" src="{{ .Params.profile_img }}">
+        {{ with .Params.photo_credit }}
+        <figcaption class="text-muted">&copy; {{ . }}</figcaption>
+        {{ end }}
+    </figure>
+    {{ else }}
+    <img class="avatar" src="/images/missing.jpg">
+    {{ end }}
+    <div class="content w-100">
+        {{ .Content }}
+        {{ with .Params.twitter }}<a href="{{ . }}">[twitter]</a>{{ end }}
+        {{ with .Params.linkedin }}<a href="{{ . }}">[linkedin]</a>{{ end }}
+    </div>
+</div>
+{{ end }}
