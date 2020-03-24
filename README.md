@@ -4,10 +4,7 @@ A quick introduction to the repository:
 
 ## Adding a new profile
 
-* Copy a file `content/people/jauhiainen_juho.md` -> `content/people/yourlastname_yourfirstname.md`
-* Edit the content if you are not Juho. Delete the line with `weight` variable if you are not an admin.
-* Upload your profile image to `static/images/yourname.jpg`
-
+Check the private `media` repo.
 
 ## Project structure
 * `public/` is the static web site root and is where the static site is generated to
@@ -42,7 +39,7 @@ A quick introduction to the repository:
 
 ### Installation hugo
 
-* Download hugo for your OS from [https://github.com/gohugoio/hugo/releases](https://github.com/gohugoio/hugo/releases)
+* Download hugo-extended for your OS from [https://github.com/gohugoio/hugo/releases](https://github.com/gohugoio/hugo/releases)
 * Unarchive the package and place hugo binary on your `$PATH`
 
 ### Running development server with liveupdate
@@ -61,4 +58,5 @@ In project root:
 
 ## LOL apua
 
-Ping @joona / @joohoi
+Come to #web
+Ping @joona / @joohoi, @Jaroneko, @anamus or @shadikka
