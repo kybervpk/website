@@ -2,7 +2,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="icon" type="image/png" href="/favicon.png">
 <link rel="stylesheet" type="text/css" href="/stylesheet.css">
-{{ $options := (dict "targetPath" "style.css" "outputStyle" "compressed") }}
+{{- if .IsTranslated -}}
+  {{ range .Translations }}
+<link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}">
+  {{- end -}}
+{{- end -}}
+{{- $options := (dict "targetPath" "style.css" "outputStyle" "compressed") -}}
 {{ $style := resources.Get "/sass/main.scss" | toCSS $options | fingerprint }}
 <link rel="stylesheet" href="{{ $style.Permalink }}">
 <title>KyberVPK</title>

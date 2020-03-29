@@ -1,6 +1,7 @@
 ---
 title: "Etusivu"
 weight: -110
+menu: "main"
 ---
 
 COVID-19-pandemian aikana kyberhyökkäyksiä on kohdistunut enenevissä määrin muun muassa terveydenhuollon organisaatioihin. Suomalainen hakkerikollektiivi **KyberVPK** on perustettu auttamaan kriittisten toimintojen tuottajia taistelussa hyökkäyksiä vastaan ja palautumaan niistä.

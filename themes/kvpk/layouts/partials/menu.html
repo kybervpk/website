@@ -1,15 +1,22 @@
 <nav class="menu">
-	{{ $currentPage := . }}
-	{{ range .Site.Menus.main }}
-		{{ $hidden := false }}
-		{{ with .Page }}
-			{{ $hidden = .Page.Params.hidden }}
-		{{ end }}
-		{{ if not $hidden }}
-			{{ $class := "btn-outline-secondary bg-white" }}
-			{{ if $currentPage.IsMenuCurrent "main" . }}
-				{{ $class = "btn-primary" }}
-			{{ end }}
-			<a href="{{ .URL }}" class="btn {{ $class }}">{{ .Title }}</a>{{ end }}
-	{{ end }}
+  {{- $currentPage := . -}}
+  {{ range .Site.Menus.main }}
+    {{- $hidden := false -}}
+    {{- with .Page -}}
+      {{- $hidden = .Page.Params.hidden -}}
+    {{- end -}}
+    {{ if not $hidden }}
+      {{ $class := "btn-outline-secondary bg-white" }}
+      {{- if $currentPage.IsMenuCurrent "main" . -}}
+        {{- $class = "btn-primary" -}}
+      {{- end -}}
+      <a href="{{ .URL }}" class="btn {{ $class }}">{{ .Title }}</a>
+    {{- end -}}
+  {{ end }}
+  <p class="lang-nav">
+    {{- $activeLanguage := .Language -}}
+    {{- range $.Site.Home.AllTranslations -}}
+      <a href="{{ .Permalink }}"{{ if eq .Language $activeLanguage }}class="active"{{ end }}>{{ .Language.Params.LinkText }}</a>
+    {{- end -}}
+  </p>
 </nav>
