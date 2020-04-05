@@ -7,19 +7,19 @@ linkedin: "https://www.linkedin.com/in/jauhiainen"
 profile_img: "/images/juho_jauhiainen.jpg"
 ---
 
-Erityisosaaminen:
-* Digitaalinen forensiikka ja tietoturvapoikkemien hallitseminen (eng. DFIR)
-* Haittaohjelma-analyysi
-* Tietoturvapoikkeamahallinnan johtaminen
+Key competencies:
+* Digital Forensics & Incident Response (DFIR)
+* Malware analysis
+* Incident management / Major incident management
 * Windows & Linux
 
-Päivätyö: Senior DFIR Consultant, [Nixu Corporation](https://www.nixu.com)
+Day job: Senior DFIR Consultant at [Nixu Corporation](https://www.nixu.com)
 
-Muuta:
-* Forensiikkakouluttaja, Maanpuolustuskoulutusyhdistys Ry (MPK Ry)
-* Puheenjohtaja ja perustaja, HelSec Ry
+Other:
+* Forensic instructor at The National Defence Training Association of Finland (MPK Ry)
+* Co-Founder, chairman at HelSec Ry
 
-Sertifikaatit:
+Certifications:
 * CISSP
 * GMON
 * GCFA

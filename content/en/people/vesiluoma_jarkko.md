@@ -6,21 +6,21 @@ linkedin: "https://www.linkedin.com/in/vesiluoma"
 profile_img: "/images/jarkko_vesiluoma.jpg"
 ---
 
-Erityisosaaminen:
-* Penetraatiotestaus
-* Web, Mobiili, IoT
+Key competencies:
+* Penetration testing
+* Web, Mobile, IoT
 * OSINT
 * Windows & Linux
 
-Päivätyö: Cyber Security Architect, [Elisa Oyj](https://www.elisa.fi)
+Day job: Cyber Security Architect, [Elisa Oyj](https://www.elisa.fi)
 
-Muuta:
+Other:
 * Bug bounty hunter
 * Hacker, Team ROT
 * Whitehat Hacker at RedTest Security
 * Rotco Oy
 
-Sertifikaatit:
+Certifications:
 * OSCP
 * OSCE
 * OSWE

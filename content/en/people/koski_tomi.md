@@ -6,10 +6,10 @@ linkedin: "https://www.linkedin.com/in/tomikoski/"
 profile_img: "/images/tomi_koski.jpg"
 ---
 
-Erityisosaaminen:
-* Penetraatiotestaus
+Key competencies:
+* Penetration testing
 * Web, Mobile, IoT
 * OSINT
 
-Päivätyö: Senior Security Specialist, [Nixu Corporation](https://www.nixu.com)
+Day job: Senior Security Specialist at [Nixu Corporation](https://www.nixu.com)
 

@@ -7,20 +7,20 @@ linkedin: ""
 profile_img: "/images/jake-matti_lahtinen.jpg"
 ---
 
-Erityisosaaminen:
+Key competencies:
 * Digital Forensics & Incident Response (DFIR)
-* Haittaohjelma-analyysi
-* Tietoturvapoikkeamien hallinta
+* Malware Analysis
+* Incident management / Major incident management
 * Windows & Linux
-* Penetraatiotestaus
+* Penetration Testing
 
-Päivätyö: Senior Security Specialist, [Elisa Oyj](https://www.elisa.fi)
+Day job: Senior Security Specialist at [Elisa Oyj](https://www.elisa.fi)
 
-Muuta:
-* Hakkeri Team ROTissa
-* Perustajakumppani, Rotco Oy
+Other:
+* Hacker at Team ROT
+* Co-Founder, Rotco Oy
 
-Sertifikaatit:
+Certifications:
 * GREM
 * OSCP
 * OSCE

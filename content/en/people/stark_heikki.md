@@ -6,15 +6,16 @@ linkedin: "https://www.linkedin.com/in/heikkistark"
 profile_img: "/images/heikki_stark.jpg"
 ---
 
-Erityisosaaminen:
-* Tietoturvan hallinta ja auditointi
-* Web-sovellusturvallisuus
-* Penetraatiotestaaminen
+Key competencies:
+* Security management & auditing
+* Web application security
+* Penetration testing
 
-Päivätyö: Turvallisuusauditoija, [Nixu Corporation](https://www.nixu.com)
+Day job: Security auditor at [Nixu Corporation](https://www.nixu.com)
 
 Other:
-* [LeftOvers](https://leftovers.xyz)-hakkeritiimin jäsen
+* Member of [LeftOvers](https://leftovers.xyz) hacking team
 
-Sertifikaatit:
+Certifications:
 * OSCP
+

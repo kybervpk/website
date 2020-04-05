@@ -8,13 +8,13 @@ profile_img: "/images/taneli_kaivola.jpg"
 photo_credit: "2010 Stefan Rimaila"
 ---
 
-Erityisosaaminen:
+Key competencies:
 * Digital Forensics & Incident Response (DFIR)
-* Tietoturvapoikkeamien selvitystyön koordinointi
-* Penetraatiotestaus
-* Ohjelmistokehitys
+* Incident Response coordination
+* Penetration testing
+* Software development
 
-Päivätyö: Senior Security Specialist, [Nixu Corporation](https://www.nixu.com)
+Day job: Senior Security Specialist at [Nixu Corporation](https://www.nixu.com)
 
-Muuta:
-* Perustajajäsen ja aktivisti, Helsinki Hacklab
+Other:
+* Member and activist of Helsinki Hacklab

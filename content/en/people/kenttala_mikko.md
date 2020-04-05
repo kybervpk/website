@@ -7,17 +7,18 @@ linkedin: "https://www.linkedin.com/in/mikkokenttala/"
 profile_img: "/images/mikko_kenttala.jpg"
 ---
 
-Erityisosaaminen:
-* Kokenut ryhmänvetäjä  
+Key competencies:
+* Experienced Team leader
+* Information Security
 * BlueTeam / RedTeam
-* Tekniset tietoturvatarkastukset
-* Tietoverkot
-* Kyber sekatyömies 
+* Technical Security Audits
+* Computer Networking
+* Cyber workman
 
-Päivätyö: Perustaja ja toimitusjohtaja, [SensorFu](https://www.sensorfu.com)
+Day job: Founder and CEO of [SensorFu](https://www.sensorfu.com)
 
-Muuta:
-* [Effi](https://effi.org/) Hallituksen jäsen
-* [JK.ry](https://www.jkry.org/) Puheenjotaja
-* [Tarlab](http://tarlab.fi/) Perustaja ja aktiivi 
+Other:
+* [Effi](https://effi.org/) Board
+* [JK.ry](https://www.jkry.org/) Board
+* Founder and Happy Hacker at: [Tarlab](http://tarlab.fi/)
 

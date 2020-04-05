@@ -4,18 +4,18 @@ weight: -110
 menu: "main"
 ---
 
-COVID-19-pandemian aikana kyberhyökkäyksiä on kohdistunut enenevissä määrin muun muassa terveydenhuollon organisaatioihin. Suomalainen hakkerikollektiivi **KyberVPK** on perustettu auttamaan kriittisten toimintojen tuottajia taistelussa hyökkäyksiä vastaan ja palautumaan niistä.
+During the COVID-19 pandemic, cyber-attacks have increasingly targeted health care organizations, among others. The Finnish hacker collective **KyberVPK - Community Cyber Response Force** was established to help providers of critical services in the fight against attacks and to recover from them.
 
-Apua pyytävän organisaation tarpeista riippuen KyberVPK voi auttaa ennaltaehkäisemään tietoturvaongelmia, testata ympäristön turvallisuutta, ratkoa yhdessä tietoturvapoikkeamia tai esimerkiksi auttaa järjestelmien turvallisessa käyttöönotossa.
+Depending on the needs of the organization requesting assistance, KyberVPK can help prevent security issues, test the security of customer environments, work together to resolve security breaches, or help with the secure deployment of systems, for example.
 
-**KyberVPK auttaa ensisijaisesti:**
+**KyberVPK primarily assists:**
 
-* Terveydenhuoltoa ja muita kriittisiä palveluita ja toimintoja tuottavia yrityksiä ja organisaatioita
-* Yrityksiä, joilla ei ole taloudellista mahdollisuutta pyytää apua kyberhyökkäyksiin
-* Kuntia, kouluja tai muuta teknistä apua tarvitsevia yhteisöjä
+* Companies and organizations that provide healthcare and other critical services and functions
+* Companies that do not have the financial ability to seek commercial help with cyber attacks
+* Municipalities, schools or other communities in need of technical assistance
 
-**Kuinka saan apua:**
+**How do I get help:**
 
-* [Ota yhteyttä](/contact/).
-* Arvioimme jokaisen tapauksen yksitellen ja luottamuksella.
-* Tarjoamamme apu ei maksa sinulle tai yrityksellesi mitään.
+* [Contact](/contact/).
+* We evaluate each case individually and confidentially.
+* The help we provide does not cost you or your business anything.

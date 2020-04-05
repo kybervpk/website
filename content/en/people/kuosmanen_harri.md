@@ -6,17 +6,17 @@ linkedin: ""
 profile_img: "/images/harri_kuosmanen.jpg"
 ---
 
-Erityisosaaminen:
+Key competencies:
 * Digital Forensics & Incident Response (DFIR)
-* Penetraatiotestaus (Web ja Mobile)
+* Penetration testing (Web & Mobile)
 
-Päivätyö: Cybersecurity Analyst, [Metso Corporation](https://www.metso.com)
+Day job: Cybersecurity Analyst at [Metso Corporation](https://www.metso.com)
 
-Muuta:
-* [Team ROT](https://teamrot.fi) -valkohattuhakkeritiimin jäsen
-* Perustajakumppani, Rotco Oy
+Other:
+* Member of white hack hacking team Team ROT
+* Co-Founder, Rotco Oy
 
-Sertifikaatit:
+Certifications:
 * CISA
 * CISSP
 * GCFA

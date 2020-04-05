@@ -5,19 +5,19 @@ linkedin: https://www.linkedin.com/in/anttilaatikainen/"
 profile_img: "/images/antti_laatikainen.jpg"
 ---
 
-Erityisosaaminen:
-* Hallinnollinen tietoturva, toimintakulttuuri, ihmisten ohjaaminen
-* Kriisijohtaminen ja palautuminen
-* Verkkojen turvallisuus, suunnittelusta toteutukseen
-* Riskienhallinta ja uhkamallinnus
-* Henkilötietojen käsittely, GDPR ja HIPAA
+Key competencies:
+* Information Security management, operational readiness and culture, people management
+* Crisis management and recovery
+* Network security, from planning to implementation
+* Risk management and threat modeling
+* Handling of personally identifiable information, GDPR and HIPAA
 
-Päivätyö: Senior Security Consultant, [F-Secure Consulting](https://www.f-secure.com/en/consulting)
+Day job: Senior Security Consultant, [F-Secure Consulting](https://www.f-secure.com/en/consulting)
 
-Muuta:
-* Työura lääketeollisuuden parista tietoturvapäällikön roolissa, tästä johtuen hyvin käytännönläheinen lähestyminen kaikkeen tekemiseen. 
+Other:
+* A very practical and into-the-point approach from a working background in the medical industry as an Information Security manager
 
-Sertifikaatit:
+Certifications:
 * CISA
-* PCI DSS ja 3DS
+* PCI DSS and 3DS
 * ISO27001

@@ -7,20 +7,20 @@ linkedin: "https://www.linkedin.com/in/antti-r%C3%B6ssi-682593b8/"
 profile_img: "/images/antti_rossi.jpg"
 ---
 
-Erityisosaaminen:
-* Ohjelmistokehitys
-* Verkko-ohelmistojen tietoturva
-* Tietoturvatestaus
-* Linux-palvelinympäristöt
-* Verkot ja järjestelmäarkkitehtuuri
-* Pilvipalvelut (GCP, AWS, DigitalOcean, jne)
+Key competencies:
+* Software development
+* Web application security
+* Penetration testing
+* Linux servers
+* Networks and systems architecture
+* Public cloud (GCP, AWS, Digitalocean, etc)
 
-Päivätyö: CTO, [Jobilla](https://jobilla.com)
+Day job: CTO at [Jobilla](https://jobilla.com)
 
-Muuta:
-* Aktiivinen jäsen yhdistyksessä HelSec Ry
-* HTB Helsinki Meetup -ryhmän perustaja ja ylläpitäjä
-* Kiertävä riippumaton luennoitsija ja kouluttaja, aiheena verkko-ohjelmistojen tietoturvatestaus 
+Other:
+* Member and activist of HelSec Ry
+* Organiser of HTB Helsinki Meetup Group
+* Workshop instructor and software conference speaker, penetration testing web applications 
 
-Sertifikaatit:
+Certifications:
 * OSCP

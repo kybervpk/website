@@ -4,8 +4,8 @@ weight: 100
 hidden: false
 menu: "main"
 ---
-Avunpyynnöt ja yleiset tiedustelut: contact@kybervpk.fi
+Requests for assistance and general contact: contact@kybervpk.fi
 
-Mediatiedustelut: media@kybervpk.fi
+Media inquiries: media@kybervpk.fi
 
 Twitter: https://twitter.com/kybervpk

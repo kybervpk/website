@@ -7,11 +7,11 @@ linkedin: "https://www.linkedin.com/in/laura-kankaala/"
 profile_img: "/images/laura_kankaala.jpg"
 ---
 
-Erityisosaaminen:
+Key competencies:
 * DFIR
-* Pilvipalvelut 
-* WebAppien tietoturva
+* Cloud 
+* WebApp security
 
-Muuta:
-* Disobey hallituksen jäsen
+Other:
+* Disobey board member
 * Podcaster

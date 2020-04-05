@@ -5,46 +5,46 @@ hidden: false
 menu: "main"
 ---
 
-#### Miksi KyberVPK on perustettu?
-Suomalainen hakkerikollektiivi KyberVPK on perustettu auttamaan kriittisten toimintojen tuottajia taistelussa kyberhyökkäyksiä vastaan ja palautumaan niistä.
+#### Why was KyberVPK founded?
+The Finnish hacker collective KyberVPK - Community Cyber Response Force was established to help providers of critical services in the fight against and recovering from cyber attacks.
 
-#### Koska KyberVPK on perustettu?
-KyberVPK on perustettu maaliskuussa 2020.
+#### When was KyberVPK founded?
+KyberVPK was established in March 2020.
 
-#### Mitä KyberVPK nimenä tarkoittaa?
-KyberVPK on vapaaehtoisvoimin toimiva kyberajan tulipalojen sammuttaja.
+#### What does KyberVPK mean?
+KyberVPK is a voluntary cyber response force, extinguishing cyber fires with community resources.
 
-#### Mitä KyberVPK tavoittelee?
-Yhteisöjen, yhteiskunnan, EU:n ja maailman hyvää. Haluamme mahdollistaa muita auttavien tahojen keskittymisen omiin tehtäviinsä kaikkia koskettavan uhan alla, minimoiden kyberhäiriöistä ja -häiriköistä aiheutuvat haitat.
+#### What does KyberVPK aim for?
+The good of communities, society, the EU and the world. We want to enable those who help others to focus on their own tasks under a threat that affects everyone, minimizing the inconvenience caused by cyber disruptions and disruptors.
 
-#### Mitä KyberVPK:n tarjoamat palvelut maksaa?
-Palvelut ovat maksuttomia ja tehdään vapaaehtoisten toimesta heidän vapaa-ajallaan.
+#### What do the services provided by KyberVPK cost?
+Our services are free of charge and provided by volunteers in their spare time.
 
-#### Keitä KyberVPK:hon kuuluu? 
-KyberVPK koostuu vapaaehtoisista tietoturva-alan asiantuntijoista, jotka toimivat organisaatiossa yksityishenkilöinä, eivätkä edusta työnantajiaan. 
+#### Who are the members of KyberVPK?
+KyberVPK is made up of volunteering security experts who work in the organization as individuals and do not represent their employers.
 
-#### Millä ajalla nämä asiantuntijat työskentelevät avustettavan organisaation kyberuhkia vastaan?
-Asiantuntijat työskentelevät KyberVPK:n asioissa vapaa-ajallaan.
+#### How long do these experts work against the cyber threats of the assisted organization?
+Our members operate on KyberVPK matters in their spare time.
 
-#### Millaisia organisaatioita ja yrityksiä KyberVPK auttaa?
-* Terveydenhuoltoa ja muita kriittisiä palveluita ja toimintoja tuottavia yrityksiä ja organisaatioita
-* Yrityksiä, joilla ei ole taloudellista mahdollisuutta pyytää apua kyberhyökkäyksiin.
-* Kuntia, kouluja tai muuta teknistä apua tarvitsevia yhteisöjä.
+#### What kind of organizations and companies does KyberVPK help?
+* Companies and organizations that provide healthcare and other critical services and functions
+* Companies that do not have the financial ability to seek commercial help with cyber attacks.
+* Municipalities, schools or other communities in need of technical assistance.
 
-#### Miten kollektiivi käytännössä pystyy auttamaan?
-Asiakkaan tarpeista riippuen kollektiivi voi auttaa ennaltaehkäisemään tietoturvaongelmia, testata asiakkaan ympäristön turvallisuutta, ratkoa yhdessä tietoturvapoikkeamia tai esimerkiksi auttaa järjestelmien turvallisessa käyttöönotossa.
+#### How can the collective help in practice?
+Depending on the customer's needs, the team can help prevent security problems, test the security of the customer's environment, jointly resolve security breaches or, for example, help with the safe implementation of systems.
 
-Jokaisella jäsenellä on omat osaamisalueensa ja intressinsä. Jokaista jäsentä yhdistää kuitenkin halu auttaa. 
+Each member has their own areas of expertise and interests. However, each member is united by a desire to help those in need.
 
-#### Miten varmistutaan, ettei KyberVPK vuoda avustettavan yrityksen/organisaation tietoja eteenpäin?
-Lähtökohtaisesti kollektiivi on muodostettu tietoturva-alan ammattilaisista ja luotetuista tietoturvaan liittyvien yhteisöjen henkilöistä. Nettisivuiltamme näet esittelyt tiimimme jäsenistä.
+#### How does KyberVPK ensure that information from the assisted company / organization does not leak outside?
+The team is fundamentally made up of information security professionals and trusted individuals from information security communities. On our website you can see our team members and read their introductions.
 
-Jokaista asiakasta varten luodaan oma, tietoturvallinen työtila, johon tuodaan tarpeelliset henkilöt mukaan asiakkaan toiveiden mukaan.
+For each customer we create a separate, secure workspace, in which the necessary people are brought together according to the customer's wishes.
 
-#### Kuinka KyberVPK huolehtii tietoturvasta?
-Työtila ja tietojen siirto tapahtuu salatusti. Käytämme turvallisia keskusteluyhteyksiä.
+#### How does KyberVPK take care of data security?
+Our workspaces and data transfers are encrypted. We use secure communication channels.
 
-KyberVPK ylläpitää jäsenistölleen tietoturvallista yhteistyöympäristöä ja ryhmän jäsenet auttavat toisiaan varmistamaan myös henkilökohtaisen tietoturvansa.
+KyberVPK maintains a secure collaboration environment for its members, and the members of the group also help each other ascertain their personal information security.
 
-#### Miten KyberVPK:n toimintaan pääsee mukaan? 
-Kerromme heti, kun olemme valmiita laajentamaan rivejämme. 
+#### How to get involved in KyberVPK?
+We will let people know as soon as we are ready to expand our ranks.

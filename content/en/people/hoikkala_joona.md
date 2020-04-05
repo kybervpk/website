@@ -7,19 +7,19 @@ linkedin: ""
 profile_img: "/images/joona_hoikkala.jpg"
 ---
 
-Erityisosaaminen:
+Key competencies:
 * Systems & software architecture
 * System administration and networks
 * Code review
 * Penetration testing
 * Secure software development
 
-Päivätyö: Software engineering contractor
+Day job: Software engineering contractor
 
-Muuta:
-* TurkuSec Ry hallituksen jäsen
-* Aktiivinen avoimen lähdekoodin kehittäjä, mukana mm: [Certbot](https://github.com/certbot/certbot/), [acme-dns](https://github.com/joohoi/acme-dns), [ffuf](https://github.com/ffuf/ffuf)
-* Luo aktiivisesti sisältöjä tietoturvayhteisön käyttöön luentojen ja workshopien muodossa.
+Other:
+* Memeber of board - TurkuSec Ry
+* Active open source developer: [Certbot](https://github.com/certbot/certbot/), [acme-dns](https://github.com/joohoi/acme-dns), [ffuf](https://github.com/ffuf/ffuf)
+* Creating content in forms workshops and public speaking for information security field
 
 Certifications:
 * OSCP

@@ -6,10 +6,10 @@ linkedin: "https://www.linkedin.com/in/jarmoputtonen/"
 profile_img: "/images/jarmo_puttonen.jpg"
 ---
 
-Erityisosaaminen:
-* Penetraatiotestaus
-* Web, Mobiili, IoT
+Key competencies:
+* Penetration testing
+* Web, Mobile, IoT
 * OSINT
 
-Päivätyö: Bug bounty hunter, White hat hacker at ROT, CEO at Rotco Oy
+Day job: Bug bounty hunter, White hat hacker at ROT, CEO at Rotco Oy
 

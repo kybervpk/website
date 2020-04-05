@@ -6,13 +6,13 @@ linkedin: "https://www.linkedin.com/in/vallittu"
 profile_img: "/images/karo_vallittu.jpg"
 ---
 
-Erityisosaaminen:
-* Turvallisuusjohtaminen
-* Turvallinen ohjelmistokehitys
-* Teollisuus- ja automaatiojärjestelmien turvallisuus
-* Liikenne- ja merenkulkujärjestelmien turvallisuus
+Key competencies:
+* Security management
+* Secure software development
+* Industrial and automation systems security
+* Transportation and maritime security
 
-Päivätyö: Head of Security, [Awake.ai](https://www.awake.ai)
+Day job: Head of Security at [Awake.ai](https://www.awake.ai)
 
-Muuta:
-* Kurssijohtaja, Maanpuolustuskoulutusyhdistys ry (MPK ry)
+Other:
+* Lead instructor at the National Defence Training Association of Finland (MPK ry)

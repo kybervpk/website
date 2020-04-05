@@ -6,13 +6,13 @@ linkedin: ""
 profile_img: "/images/tapio_vuorinen.jpg"
 ---
 
-Erityisosaaminen:
-* Pilviympäristöt (erit. AWS)
-* Linux ja tietoverkot
-* Penetraatiotestaaminen
+Key competencies:
+* Cloud (mainly AWS)
+* Linux and networks
+* Penetration testing
 
-Päivätyö: Tietoturvakonsultti [Goforella](https://www.gofore.com)
+Day job: Security/systems specialist at [Gofore](https://www.gofore.com)
 
-Muuta:
-* TammerSec-apuorganisaattori
-* Disobey-hakkerikonferenssin ydintiimin jäsen
+Other:
+* Co-organiser of TammerSec
+* Disobey infosec conference core team member

@@ -6,13 +6,13 @@ linkedin: ""
 profile_img: "/images/otto_makela.jpg"
 ---
 
-Erityisosaaminen:
-* Sähköpostijärjestelmät, roskaposti
-* Abuse-päivystysoperaatiot
+Key competencies:
+* Email systems, spam
+* Abuse desk operations
 * Linux
 
-Päivätyö: It specialist, CSC, Funet CERT and email administrator
+Day job: It specialist at CSC, Funet CERT and email administrator
 
-Muuta:
-* Helsinki Hacklab hallitus
-* Skepsis hallitus
+Other:
+* Helsinki Hacklab board
+* Finnish skeptics board

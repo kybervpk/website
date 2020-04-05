@@ -11,7 +11,7 @@ Apua pyytävän organisaation tarpeista riippuen KyberVPK voi auttaa ennaltaehk�
 **KyberVPK auttaa ensisijaisesti:**
 
 * Terveydenhuoltoa ja muita kriittisiä palveluita ja toimintoja tuottavia yrityksiä ja organisaatioita
-* Yrityksiä, joilla ei ole taloudellista mahdollisuutta pyytää apua kyberhyökkäyksiin
+* Yrityksiä, joilla ei ole taloudellista mahdollisuutta hankkia kaupallista apua kyberhyökkäyksiin
 * Kuntia, kouluja tai muuta teknistä apua tarvitsevia yhteisöjä
 
 **Kuinka saan apua:**

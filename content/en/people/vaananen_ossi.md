@@ -6,18 +6,19 @@ linkedin: "https://www.linkedin.com/in/ossivaananen"
 profile_img: "/images/ossi_vaananen.jpg"
 ---
 
-Erityisosaaminen:
-* Penetraatiotestaus
-* Web-sovellusten tietoturva
+Key competencies:
+* Penetration testing
+* Web application security
 * Linux
-* Ohjelmistokehitys (myös mobiili-)
+* Software development
+* Mobile app development
 * OSINT
 
-Päivätyö: Tietoturvapäällikkö, [Sanoma Media Finland](https://www.sanoma.com/)
+Day job: Chief Security Engineer at [Sanoma Media Finland](https://www.sanoma.com/)
 
-Muuta:
-* HelSec ry:n perustajajäsen ja järjestäjä
-* Tietoturvakurssien vetäjä (penetraatiomenetelmät, verkkoympäristöt)
+Other:
+* Co-founder of HelSec ry
+* Frequent instructor on pentesting and cybersecurity self study workshops and courses
 
-Sertifioinnit:
+Certifications:
 * OSCP

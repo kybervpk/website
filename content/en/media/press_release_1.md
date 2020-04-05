@@ -1,55 +1,51 @@
 ---
-title: "Lehdistötiedote 19.03.2020"
+title: "Press Release 19.03.2020"
 ---
 
 
-### COVID-19 synnyttää uusia uhkia – suomalainen eettinen hakkerikollektiivi auttaa terveydenhuollon alan yrityksiä kyberhaasteissa 
+### COVID-19 creates new threats - Finnish ethical hacker team helps healthcare companies with cyber challenges
 
-&nbsp;
+![](https://kybervpk.fi/images/tied01.jpg)
 
-![](/images/tied01.jpg)
+#### During the pandemic, an increasing number of cyber attacks have targeted healthcare organizations and others. The Finnish hacker collective KyberVPK was founded to help providers of critical services in the fight against cyber attacks and in recovering from them.
 
-&nbsp;
+KyberVPK - Community Cyber Response Force is a voluntary organization established to help health care providers and providers of other critical services address and prevent cyber threats. Depending on the needs of the entity requesting assistance, KyberVPK can help prevent security problems, test the security of customer environments, work together to resolve security breaches, or help with the secure deployment of systems, for example. The help KyberVPK provides is completely free of charge.
 
-#### Pandemian aikana kyberhyökkäyksiä on kohdistunut enenevissä määrin muun muassa terveydenhuollon organisaatioihin. Suomalainen hakkerikollektiivi KyberVPK on perustettu auttamaan kriittisten toimintojen tuottajia taistelussa hyökkäyksiä vastaan ja palautumaan niistä.
+_”Cyber-attacks have traditionally sought economic gain or even to directly damage society’s ability to function. During a pandemic, the targets may include e.g. healthcare and other critical services. At worst, a successful attack can lead to an inability to provide services. The aim of KyberVPK is to help companies that, say for financial reasons, do not have access to commercial help. All of us are volunteers and private individuals, and we do not represent our employers, only KyberVPK.”_,\
+explains the summoner of KyberVPK, **Taneli Kaivola**.
 
-KyberVPK on vapaaehtoisorganisaatio, joka perustettiin auttamaan terveydenhuollon toimijoita ja muiden kriittisten toimintojen tuottajia kyberuhkien ratkaisemisessa ja ennaltaehkäisemisessä. Apua pyytävän tahon tarpeista riippuen KyberVPK voi auttaa ennaltaehkäisemään tietoturvaongelmia, testata ympäristön turvallisuutta, ratkoa yhdessä tietoturvapoikkeamia tai esimerkiksi auttaa järjestelmien turvallisessa käyttöönotossa. KyberVPK:n apu on täysin maksutonta.
+Operating in the free time of these experts, KyberVPK is made up of thirty security professionals, ethical hackers. In their day-to-day work, the members work in Finland's leading IT companies.
 
-_”Kyberhyökkäyksillä tavoitellaan perinteisesti taloudellista hyötyä tai jopa suoraan yhteiskunnan toimintakyvyn vahingoittamista. Pandemian aikana tähtäimessä voivat olla mm. terveydenhuolto ja muut kriittiset palvelut. Pahimmillaan onnistunut hyökkäys voi johtaa toiminnan estymiseen. KyberVPK:n tavoite on auttaa yrityksiä, joilla ei ole esimerkiksi taloudellisista syistä mahdollisuutta hankkia apua. Olemme kaikki mukana vapaaehtoisina ja yksityishenkilöinä, emmekä edusta työnantajiamme vaan ainoastaan KyberVPK:ta”_,\
-kertoo KyberVPK:n koollekutsuja **Taneli Kaivola**.
+#### Support not only for cyber attacks but also IT challenges posed by a pandemic
 
-Asiantuntijoiden vapaa-ajalla työskentelevän KyberVPK:n muodostavat kolmisenkymmentä tietoturva-alan ammattilaista, eettistä hakkeria. Jäsenet työskentelevät päivätyössään Suomen eturivin IT-alan yrityksissä. 
+There are numerous denial-of-service attacks every day around the world, and the coronavirus has not reduced this number. To date, the largest cyber attack during the COVID-19 pandemic targeted the Czech University Hospital in Brno, which also houses one of the largest coronavirus research laboratories in the country.
 
-#### Tukea kyberhyökkäyksien lisäksi myös pandemian aiheuttamissa IT-haasteissa
+_”The idea of ​​providing free help has been in the discussions for a small group for a long time and organizing around this has developed in our thoughts. As the pandemic progressed, we followed developments around the world and the international currents of information security. It took only one tweet to find out that the idea was supported by many other cyber professionals, and thus KyberVPK - Community Cyber Response Force was born. At the latest, watching the Brno attack, we decided it was time to take action and offer our help to others grappling with similar situations. It is entirely possible that a similar attack could befall for example a Finnish hospital. Cyber-attacks can be prevented through long-term and professional work, and harnessing our skills for the benefit of society is the best way to give back.”_,\
+Kaivola says.
 
-Maailmassa tehdään lukuisia palvelunestohyökkäyksiä joka päivä, eikä koronavirus ole vähentänyt määrää. Toistaiseksi suurin COVID-19-pandemian aikainen kyberhyökkäys on kohdistettu tsekkiläiseen Brnon yliopistolliseen sairaalaan, jossa sijaitsee myös yksi maan suurimmista koronavirusta tutkivista laboratorioista.
+KyberVPK accepts requests for assistance through its website ([kybervpk.fi](https://kybervpk.fi/)). Priority will be given to providers of healthcare and other services that are critical to society.
 
-_”Ajatus maksuttoman avun tarjoamiseen on ollut pienellä porukalla keskusteluissa jo pitkään ja organisoituminen kytenyt ajatuksissa. Pandemian edetessä seurasimme maailman tilanteen kehittymistä ja kansainvälisiä tietoturvan tuulia. Vaati vain yhden twiitin selvittää, että ideaa kannatti moni muukin kyberammatilainen, ja näin KyberVPK syntyi. Viimeistään Brnon hyökkäystä katsellessa totesimme olevan aika tarttua toimeen ja tarjota apua vastaavissa tilanteissa painiville. On täysin mahdollista, että samanlainen hyökkäys voisi kohdistua vaikkapa suomalaiseen sairaalaan. Kyberhyökkäyksiä voidaan estää pitkäjänteisellä ja ammattimaisella työllä, ja ammattitaitomme valjastaminen yhteiskunnan hyväksi on paras tapa antaa takaisin”_,\
-Kaivola sanoo.
-
-Avunpyyntöjä KyberVPK vastaanottaa nettisivunsa ([kybervpk.fi](https://kybervpk.fi/)) kautta. Etusijalla ovat terveydenhuollon ja muiden yhteiskunnalle kriittisten palveluiden tuottajat.
-
-_“Priorisoimme kriittisten palveluiden tuottajat muiden edelle, mutta voimme tarvittaessa auttaa myös muita yrityksiä ja organisaatioita, joilla ei ole taloudellista mahdollisuutta hakea kaupallista apua. Voimme auttaa IT-haasteissa myös kuntia esimerkiksi koulujen etätöiden ja -opiskelun järjestämisessä”_,\
-Kaivola kertoo.
+_“We prioritize critical service providers over others, but we can also help other companies and organizations that don’t have the financial ability to seek commercial help if needed. We can also help municipalities with IT challenges, for instance by organizing teleworking and studying in schools.”_,\
+notes Kaivola.
 
 &nbsp;
 
 &nbsp;
 
-Lisätietoa:
+More information:
 
 [kybervpk.fi](https://kybervpk.fi/)
 \
 [media@kybervpk.fi](mailto:media@kybervpk.fi)
 
-Taneli Kaivola, KyberVPK:n perustaja, [taneli.kaivola@kybervpk.fi](mailto:taneli.kaivola@kybervpk.fi)
+Taneli Kaivola, founder of KyberVPK, [taneli.kaivola@kybervpk.fi](mailto:taneli.kaivola@kybervpk.fi)
 \
-Laura Kankaala, [laura.kankaala@kybervpk.fi](mailto:laura.kankaala@kybervpk.fi)
+Laura Kankaala, [laura.kankaala@kybervpk.fi](mailto:laura.kankaala@kybervpk.fi) 
 
 
 
-Liitteet: 
+Attachments: 
 \
-Kuva: Halutessanne voitte käyttää kuvituksena kuvaa, joka löytyy osoitteesta [https://kybervpk.fi/images/tied01.jpg](https://kybervpk.fi/images/tied01.jpg)
+Picture: You may use the image found at [https://kybervpk.fi/images/tied01.jpg](https://kybervpk.fi/images/tied01.jpg)
 
 © Anu Laitila

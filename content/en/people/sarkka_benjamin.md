@@ -8,18 +8,18 @@ profile_img: "/images/benjamin_sarkka.jpg"
 photo_credit: "2020 Mikael Peltomaa"
 ---
 
-Erityisosaaminen:
+Key competencies:
 * Digital Forensics & Incident Response (DFIR)
-* Threat Intelligence & capability mapping 
-* Kriisinhallinta ja kommunikointi
+* Threat Intelligence and capability mapping 
+* Crisis Management and communication 
 
-Päivätyö: Head of Cyber Intelligence Analytics, [Nordea Bank](https://www.nordea.com)
+Day job: Head of Cyber Intelligence Analytics at [Nordea Bank](https://www.nordea.com)
 
-Muuta:
-* Perustaja, Disobey Hacking Conference 
+Other:
+* Founder Disobey Hacking Conference 
 * CEO 10100.fi 
 * Memeber Team Whack 
 
-Sertifikaatit:
+Certifications:
 * CISSP
 * GCFA

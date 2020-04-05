@@ -6,11 +6,11 @@ linkedin: "https://www.linkedin.com/in/jonihasanen"
 profile_img: "/images/joni_hasanen.jpg"
 ---
 
-Erityisosaaminen:
-* Ohjelmistokehitys
+Key competencies:
+* Software development
 
-Päivätyö: Kehittäjä / itsenäinen, [Zerocopter B.V](https://www.zerocopter.com/)
+Day job: Software engineering / self-employed, [Zerocopter B.V](https://www.zerocopter.com/)
 
-Muuta:
-* Hallituksen jäsen, HelSec Ry
-* Disobey Badge-tiimin jäsen
+Other:
+* Board member, HelSec Ry
+* Disobey Badge team member

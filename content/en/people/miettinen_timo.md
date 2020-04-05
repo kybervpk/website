@@ -1,19 +1,19 @@
 ---
 title: "Timo Miettinen"
-nick: "timiett1"
+nick: "timietti"
 twitter: "https://twitter.com/timietti"
 linkedin: "https://www.linkedin.com/in/timo-miettinen-b743a896"
 profile_img: "/images/timo_miettinen.jpg"
 ---
 
-Erityisosaaminen:
+Key competencies:
 * Digital Forensics & Incident Response (DFIR)
-* Mobiiliforensiikka
-* Tietoturvapoikkeamien hallinta
+* Mobile Forensics
+* Incident Management
 
-Päivätyö: Senior DFIR Consultant, [Nixu Corporation](https://www.nixu.com)
+Day job: Senior DFIR Consultant at [Nixu Corporation](https://www.nixu.com)
 
-Sertifikaatit:
+Certifications:
 * GCIH
 * CHFI
 * CEH

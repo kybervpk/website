@@ -6,13 +6,13 @@ linkedin: ""
 profile_img: "/images/antti_virtanen.jpg"
 ---
 
-Erityisosaaminen:
-* Penetraatiotestaus
-* Web-applikaatioiden turvallisuus
-* Ohjelmointi, ohjelmistosuunnittelu / -arkkitehtuuri
+Key competencies:
+* Penetration testing
+* Web app security
+* Programming, software design / architecture
 
-Päivätyö: CISO, [Solita](https://www.solita.fi)
+Day job: CISO at [Solita](https://www.solita.fi)
 
-Muuta:
-* Perustajajäsen / järjestäjä, TammerSec
-* Hacker @ Team ROT, Perustajakumppani, Rotco Oy
+Other:
+* Co-founder / organiser of TammerSec
+* Hacker @ Team ROT, Co-founder of Rotco Oy
