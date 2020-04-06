@@ -2,6 +2,7 @@
 title: "Usein kysytyt kysymykset"
 weight: 90
 hidden: false
+menu: "main"
 ---
 
 #### Miksi KyberVPK on perustettu?

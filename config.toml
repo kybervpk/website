@@ -1,13 +1,21 @@
 baseURL = "https://kybervpk.fi"
-languageCode = "fi-fi"
 title = "KyberVPK"
-defaultContentLanguage = "fi"
 theme = "kvpk"
-sectionPagesMenu = "main"
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    title = "Etusivu"
-    url = "/"
-    weight = -110
-    hidden = false
+
+defaultContentLanguage = "fi"
+[languages]
+  [languages.fi]
+    weight = 1
+    contentDir = "content/fi"
+    languageCode = "fi-fi"
+    languageName = "suomi"
+    [languages.fi.params]
+      linkText = "Suomeksi"
+
+  [languages.en]
+    weight = 3
+    contentDir = "content/en"
+    languageCode = "en-gb"
+    languageName = "English"
+    [languages.en.params]
+      linkText = "In English"
