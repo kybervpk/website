@@ -1,5 +1,6 @@
 ---
 title: "Press Release 19.03.2020"
+description: COVID-19 creates new threats - Finnish ethical hacker team helps healthcare companies with cyber challenges. The Finnish hacker collective KyberVPK was founded to help providers of critical services in the fight against cyber attacks and in recovering from them.
 ---
 
 

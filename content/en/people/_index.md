@@ -1,6 +1,6 @@
 ---
 title: "About us"
-weight: 90
+weight: 80
 menu: "main"
 ---
 
