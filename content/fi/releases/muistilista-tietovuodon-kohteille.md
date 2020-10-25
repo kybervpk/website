@@ -63,6 +63,10 @@ Kaikki ylläolevat tiedot [luokitellaan henkilötiedoiksi](https://tietosuoja.fi
 *   Bisnoden luottokielto maksaa 15,95 €, ja sen voi ottaa [Bisnoden verkkopalvelussa](https://my.bisnode.fi/protection).
 *   Luottokielloilla voit ennaltaehkäistä henkilötietojesi väärinkäytöllä tehtäviä petoksia. Henkilötunnuksella ja muilla henkilötiedoilla rikoksen tekijä voi onnistua tekemään esimerkiksi osamaksukauppoja tai ottamaan muuta luottoa uhrin nimiin. Luottokieltojen tekemisellä voit ehkäistä näitä petoksia. Tämä omaehtoinen määräaikainen luottokielto ei estä sinua itseäsi tekemästä osamaksukauppaa tai ottamaan muuta luottoa. Saat erillisen tositteen, jolla osoitat luottokelpoisuutesi omaehtoisesta luottokiellosta huolimatta.
 
+### Tarkista pankkitilisi turvarajat
+
+*   Tililläsi on todennäköisesti vuorokausikohtaiset käyttörajat, jotka kannattaa käydä tarkastamassa ja asettamassa tilanteeseen sopivalle tasolle. Näin varmistat, ettei mahdollisessa tilin väärinkäyttötilanteessa varojasi katoa liiallisesti kerralla.
+
 ### Tee osoitteenmuutoskielto Postiin, palvelu on maksuton
 
 *   Voit estää henkilötiedoillasi tehtävät osoitteenmuutokset pyytämällä [muuttosuojauksen Postilta](https://www.posti.fi/fi/henkiloille/kirjeet-ja-postipalvelut/jakelu-ja-muuttaminen/tietojen-luovuttamisen-kieltaminen).
