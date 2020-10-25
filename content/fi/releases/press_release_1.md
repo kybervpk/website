@@ -1,5 +1,8 @@
 ---
 title: "Lehdistötiedote 19.03.2020"
+description: Suomalainen eettinen hakkerikollektiivi auttaa terveydenhuollon alan yrityksiä kyberhaasteissa. KyberVPK on vapaaehtoisorganisaatio, joka perustettiin auttamaan terveydenhuollon toimijoita ja muiden kriittisten toimintojen tuottajia kyberuhkien ratkaisemisessa ja ennaltaehkäisemisessä.
+aliases:
+  - /media/press_release_1/
 ---
 
 

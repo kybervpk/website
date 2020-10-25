@@ -1,6 +1,6 @@
 ---
 title: "Usein kysytyt kysymykset"
-weight: 90
+weight: 99
 hidden: false
 menu: "main"
 ---

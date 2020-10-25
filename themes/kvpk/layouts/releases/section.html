@@ -1,0 +1,15 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+
+{{- with .Site.GetPage "section" "releases" }}
+    {{ range .Pages.ByDate.Reverse -}}
+        <a class="name" href="{{ .Permalink }}"><h5>{{ .Title }}</h5></a>
+        {{ if .Description -}}
+        <p>
+            {{ .Description }} (<a class="name" href="{{ .Permalink }}">{{ i18n "read_more" }}</a>)
+        </p>
+        {{- end }}
+    {{ end }}
+{{- end }}
+{{- end }}
