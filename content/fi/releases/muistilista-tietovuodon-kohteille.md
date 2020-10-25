@@ -2,7 +2,7 @@
 title: "Muistilista tietovuodon kohteille"
 description: Keräsimme kattavan listauksen ohjeita erityisesti Vastaamon tietomurron kohteille. Mikäli olet ollut Vastaamon asiakkaana ennen 2018, tietosi ovat voineet joutua vääriin käsiin. Vastaamon mukaan kopioituja ja tarkasteltuja asiakastietoja voi kuitenkin olla myös alkuvuodelta 2019, ilmeisesti maaliskuulle 2019 saakka.
 aliases:
-  - /ajankohtaista/muistilista-tietovuodon-uhreille/
+  - /ajankohtaista/muistilista-tietovuodon-kohteille/
 ---
 
 Keräsimme kattavan listauksen erityisesti Vastaamon tietomurron uhreille. Mikäli olet ollut Vastaamon asiakkaana ennen vuotta 2019, ovat tietosi voineet joutua vääriin käsiin.
@@ -58,7 +58,7 @@ Kaikki ylläolevat tiedot [luokitellaan henkilötiedoiksi](https://tietosuoja.fi
 
 ### Ota henkilökohtainen luottokielto
 
-*   Näin varmistut, että kukaan ei voi ottaa lainoja nimissäsi. Luottorekistereitä ylläpitää Suomessa kaksi eri tahoa: Asiakastieto ja Bisnode, ja suosittelemme tekemään luottokiellon molempiin. Huomiothan, että luottokielto on voimassa kaksi vuotta kerrallaan ja se pitää muistaa uusia itse. 
+*   Näin varmistut, että kukaan ei voi ottaa lainoja nimissäsi. Luottorekistereitä ylläpitää Suomessa kaksi eri tahoa: Asiakastieto ja Bisnode, ja suosittelemme tekemään luottokiellon molempiin. Huomioithan, että luottokielto on voimassa kaksi vuotta kerrallaan ja se pitää muistaa uusia itse. 
 *   Asiakastiedon oma luottokiellon turvamerkintä maksaa 19,95 €, ja sen voi ottaa [Asiakastiedon verkkopalvelussa](https://www.asiakastieto.fi/omatieto/fi/tuotteet/oma-luottokielto).
 *   Bisnoden luottokielto maksaa 15,95 €, ja sen voi ottaa [Bisnoden verkkopalvelussa](https://my.bisnode.fi/protection).
 *   Luottokielloilla voit ennaltaehkäistä henkilötietojesi väärinkäytöllä tehtäviä petoksia. Henkilötunnuksella ja muilla henkilötiedoilla rikoksen tekijä voi onnistua tekemään esimerkiksi osamaksukauppoja tai ottamaan muuta luottoa uhrin nimiin. Luottokieltojen tekemisellä voit ehkäistä näitä petoksia. Tämä omaehtoinen määräaikainen luottokielto ei estä sinua itseäsi tekemästä osamaksukauppaa tai ottamaan muuta luottoa. Saat erillisen tositteen, jolla osoitat luottokelpoisuutesi omaehtoisesta luottokiellosta huolimatta.
@@ -81,8 +81,8 @@ Kaikki ylläolevat tiedot [luokitellaan henkilötiedoiksi](https://tietosuoja.fi
 
 ### Salasanat ja kaksivaiheinen tunnistautuminen
 
-*   Tietojenkalastelu- ja roskapostiviestit saattavat lisääntyä. Sinua voi myös kiristää useampi taho suoraan. Kyberrikollinen on saanut käsiinsä suuren määrän sähköpostitietoja. Se tarkoittaa, että ne saattavat päättää muiden rikollisten käsiin ja joku voi lähteä testaamaan niiden salasanoja. Varmista, että sinulla on pitkä salasana käytössä kaikissa palveluissa ja ota käyttöön kaksivaiheinen tunnistautuminen, mikäli mahdollista. Vaihda myös vuotaneen sähköpostiosoitteen salasana.
-*   Ohjeet hyvää salasanaan: 
+*   Tietojenkalastelu- ja roskapostiviestit saattavat lisääntyä, ja sinua voi myös kiristää useampi taho suoraan. Kyberrikollinen on saanut käsiinsä suuren määrän sähköpostitietoja. Se tarkoittaa, että ne saattavat päätyä muiden rikollisten käsiin ja joku voi lähteä testaamaan niiden salasanoja. Varmista, että sinulla on pitkä salasana käytössä kaikissa palveluissa ja ota käyttöön kaksivaiheinen tunnistautuminen, mikäli mahdollista. Vaihda myös vuotaneen sähköpostiosoitteen salasana.
+*   Ohjeet hyvään salasanaan: 
     1. Mitä pidempi salasana on, sitä turvallisempi se on. Hyvä vähimmäispituus salasanalle on 16 merkkiä.
     2. Käytä salasanassasi isoja kirjaimia ja erikoismerkkejä.
     3. Kirjoitusvirheet, murre, puhekielen ilmaisut ja muu sanojen rikkominen vahventavat salasanaa.
@@ -101,17 +101,13 @@ Kaikki ylläolevat tiedot [luokitellaan henkilötiedoiksi](https://tietosuoja.fi
 
 *   Sinulla on tietosuoja-asetuksen mukaan oikeus saada tietoa siitä, mitä tietoja Vastaamo on sinusta tallentanut. Näiden tietojen selvittäminen voi auttaa sinua harkitsemaan mitä toimia voit tehdä välttyäksesi lisävahingoilta. 
 *   Ota yhteyttä Vastaamoon [tarkastuspyyntölomakkeella](https://vastaamo.fi/files/rekisteritietojen_tarkastuspyynto.pdf). Lisätietoja Vastaamon tietosuojasta saa [Vastaamon verkkosivuilta](https://vastaamo.fi/tietosuoja/).
-*   Huomiothan, että vastaamiseen saattaa mennä useampia viikkoja.
+*   Huomioithan, että vastaamiseen saattaa mennä useampia viikkoja.
 
 ### Tee suoramarkkinointikielto Traficomiin ja ASML:lle
 
 *   Kuluttaja voi rajoittaa puhelinmyyntiä soittamalla palvelunumeroon 0600 13404 ma-pe klo 8-18. Puhelun hinta 0,39 € / min+pvm, jonotus on maksutonta. (Huom. palvelunumeroon ei voi soittaa ulkomailta.)
 *   ASML ei veloita muita maksuja rajoituspalveluun soittajalta. Lisätiedot [ASML:n verkkosivuilta](https://www.asml.fi/kieltopalvelut/).
 *   Traficomin tietojenluovutuskiellon [voi tehdä Traficomin verkkopalvelussa](https://www.traficom.fi/fi/asioi-kanssamme/tee-tiedonluovutuskielto).
-
-### Jos sait kiristysviestin, raportoi kiristäjän Bitcoin-osoite
-
-*   Jos sait kiristysviestin sähköpostiisi, voit raportoida kiristäjän Bitcoin-osoitteen [julkiseen Bitcoin Abuse -tietokantaan](https://www.bitcoinabuse.com/reports/create).
 
 ### Oikeus tulla unohdetuksi hakukoneissa
 
@@ -126,8 +122,8 @@ Kaikki ylläolevat tiedot [luokitellaan henkilötiedoiksi](https://tietosuoja.fi
 
 ### Muita vinkkejä
 
-*   Vuosiko tietomurrossa työsähköposti henkilökohtaisen sähköpostiin sijaan? Ota yhteyttä työnantajasi esim. henkilöstöpäälliikköön. Parhaimmillaan saat tukea myös työnantajaltasi tämän vaikean tilanteen kanssa. 
-*   Arvioi turvakiellon tarvetta. Kiellon perusteeksi käyvät esimerkiksi todistajien suojelu, perheväkivaltatilanne- tai ammatti, jossa joutuu kokemaan säännöllisesti fyysisen väkivallan uhkaa. Voit arvioida tarvetta esim. poliisin kanssa
+*   Vuosiko tietomurrossa työsähköposti henkilökohtaisen sähköpostin sijaan? Ota yhteyttä työnantajaasi, esim. henkilöstöpäällikköön. Parhaimmillaan saat tukea myös työnantajaltasi tämän vaikean tilanteen kanssa. 
+*   Arvioi turvakiellon tarvetta. Kiellon perusteeksi käyvät esimerkiksi todistajien suojelu, perheväkivaltatilanne tai ammatti, jossa joutuu kokemaan säännöllisesti fyysisen väkivallan uhkaa. Voit arvioida tarvetta esim. poliisin kanssa.
 *   Tarkkaile digitaalista jalanjälkeä aktiivisesti tulevaisuudessa. Voit ottaa käyttöön [Have I been pwned?](https://haveibeenpwned.com/)  -palvelun, joka ilmoittaa, jos sähköpostisi on vuotanut julkisesti. Palvelu on tietoturva-asiantuntija Troy Huntin ylläpitämä. Vaihtoehtoisesti voit ottaa käyttöön kotimaisen [F-Securen suomenkielisen palvelun](https://www.f-secure.com/fi/home/free-tools/identity-theft-checker) tai myös kotimaisen [Badrap.io](https://badrap.io/)-palvelun.
 *   Voit halutessasi ottaa käyttöön [Google Alerts -palvelun](https://www.google.fi/alerts) omalle nimellesi. Palvelu lähettää sähköpostin, jos valitsemasi hakusana ilmestyy Googlen hakutuloksiin. Hakusanoina voivat olla esim. oma puhelinnumero, nimi ja sähköpostiosoite.
 *   Jos saat kirjatun kirjeen, varmista lähettäjä ennen kuin kuittaat sen vastaanotetuksi. Lähettäjä saattaa olla rikollinen, joka haluaa vahvistaa osoitteesi voimassaolon. 
