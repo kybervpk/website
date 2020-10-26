@@ -24,3 +24,4 @@ Muuta:
 
 Sertifikaatit:
 * OSCP
+* CISSP

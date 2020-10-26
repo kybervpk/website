@@ -1,1 +1,17 @@
-{{ define "main" }}{{ .Content }}{{ end }}
+{{ define "main" }}
+{{- with .Site.GetPage "section" "releases" }}
+    <h2>{{ $.Params.heading }}</h2>
+    {{ range first 1 .Pages.ByDate.Reverse -}}
+        <a class="name" href="{{ .Permalink }}">
+            <h5>{{ .Title }}</h5>
+        </a>
+        {{ if .Description -}}
+        <p>
+            {{ .Description }} (<a class="name" href="{{ .Permalink }}">{{ i18n "read_more" }}</a>)
+        </p>
+        {{- end }}
+    {{ end }}
+{{- end }}
+<hr>
+{{ .Content }}
+{{ end }}
