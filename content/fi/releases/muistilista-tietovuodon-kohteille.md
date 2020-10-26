@@ -107,7 +107,7 @@ Kaikki ylläolevat tiedot [luokitellaan henkilötiedoiksi](https://tietosuoja.fi
 
 *   Kuluttaja voi rajoittaa puhelinmyyntiä soittamalla palvelunumeroon 0600 13404 ma-pe klo 8-18. Puhelun hinta 0,39 € / min+pvm, jonotus on maksutonta. (Huom. palvelunumeroon ei voi soittaa ulkomailta.)
 *   ASML ei veloita muita maksuja rajoituspalveluun soittajalta. Lisätiedot [ASML:n verkkosivuilta](https://www.asml.fi/kieltopalvelut/).
-*   Traficomin tietojenluovutuskiellon [voi tehdä Traficomin verkkopalvelussa](https://www.traficom.fi/fi/asioi-kanssamme/tee-tiedonluovutuskielto).
+*   Jos sinulla on rekisteröity ajoneuvo tai taksilupa, voit tehdä Traficomin tietojenluovutuskiellon liikenteen rekistereistä [Traficomin verkkopalvelussa](https://www.traficom.fi/fi/asioi-kanssamme/tee-tiedonluovutuskielto).
 
 ### Oikeus tulla unohdetuksi hakukoneissa
 
