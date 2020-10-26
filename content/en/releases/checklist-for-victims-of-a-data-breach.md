@@ -37,12 +37,12 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
 *   Screenshots are important evidence for the authorities. The screenshot should include the sender address.
 *   How to take screenshots in Windows 10: [Instructions from Microsoft](https://support.microsoft.com/en-us/windows/open-snipping-tool-and-take-a-screenshot-a35ac9ff-4a58-24c9-3253-f12bac9f9d44)
 *   How to take screenshots in Apple macOS: [Instructions from Apple](https://support.apple.com/en-us/HT201361)
-*   You can also take a photo of your computer's screen. Make sure that the text is readable from the photo.
-*   Keep receipts from all incurred expenses. For example, services related to credit prohibitions.
+*   You can also take a photo of your computer's screen. Make sure that the text is readable from the photo. If it helps you can take multiple pictures to cover the whole screen in enough detail.
+*   Keep receipts from all incurred expenses. For example, services related to credit prohibitions, phone calls to credit agency, bank etc.
 
 ### Do not pay the ransom or communicate with the blackmailer
 
-*   The extortion messages contain one's name and identification number. Similar messages have been sent to thousands of other people as well.
+*   The extortion message(s) will contain your name and identification number. Similar messages have been sent to thousands of other people as well.
 *   Paying the ransom funds organized crime and the criminals may extort you again or alternatively, publish your information despite payment. Do not communicate with the criminal. The information has most likely been leaked to other parties already.
 
 ### File a criminal complaint with the police for data leak and/or extortion
@@ -98,7 +98,7 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
 
 *   Many home insurances provide limited legal assistance for victims of an identity fraud. The data privacy legislation may give you a right for damage compensation.
 
-### Make a request to access your personal data from Vastaamo
+### Make a Subject Access Request to get a copy of your persona data from Vastaamo
 
 *   According to European General Data Protection Regulation (GDPR), you have the right to know what data Vastaamo has collected about you. This can help you decide what you want to do next.
 *   Contact Vastaamo with their [request for access to personal data](https://vastaamo.fi/files/rekisteritietojen_tarkastuspyynto.pdf) -form. More information about Vastaamo Data Protection is available from [their website](https://vastaamo.fi/tietosuoja/). (currently only in Finnish)
