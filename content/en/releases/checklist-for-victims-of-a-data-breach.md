@@ -1,6 +1,6 @@
 ---
 title: "Checklist for the victims of a data breach"
-description: We collected a comprehensive list of notes especially for the victims of the Vastaamo data breach. If you have been a client of Vastaamo before the year 2018, your confidential information may have been stolen. According to Vastaamo, copies and accessed customer records might exist from early 2019, likely until March 2019.
+description: We have collected a comprehensive list of information for the victims of the Vastaamo data breach. If you have been a client of Vastaamo before March 2019 your confidential information may have been stolen. Current information about the data breach can be found at Vastaamo's web pages.
 ---
 
 (This is a translation of [this Finnish KyberVPK article](https://kybervpk.fi/releases/muistilista-tietovuodon-kohteille/), 26th October, 2020)
@@ -11,7 +11,7 @@ Based on current knowledge, Vastaamo's client registry was breached in November 
 
 You can follow Vastaamo's official updates [at their website](https://vastaamo.fi/ajankohtaista/). (currently only in Finnish)
 
-## Presumably, the stolen data contains the following:
+## The stolen data contains the following:
 
 *   First name and surname
 *   Address (Street address, postal code, city, country)
@@ -22,11 +22,11 @@ You can follow Vastaamo's official updates [at their website](https://vastaamo.f
 
 All of the above are classified as [personal information](https://tietosuoja.fi/en/what-is-personal-data). It is possible that your information has not been stolen or that only portions of it have leaked.
 
-## If you suspect you have been a victim of the breach or you have received a personal ransom request, follow these steps:
+## If you suspect you have been a victim of the breach or you have received a personal ransom request, please follow these steps:
 
 ### Keep a diary of your actions
 
-*   Write down your actions. What you do, when and to whom. For example: _Filed a criminal complaint with the police on 24th of October 2020 at 10:05, requested prohibition of credit from Asiakastieto 24th of October at 5pm._
+*   Write down your actions: What you do, when and to whom. For example: _Filed a criminal complaint with the police on 24th of October 2020 at 10:05, requested prohibition of credit from Asiakastieto 24th of October at 5pm._
 *   You can also write down how much time every action took from you.
 *   This information can play a pivotal role in police investigations or when claiming for damages.
 *   Keeping a diary helps you to keep track of what you have done. One's personal memory tends to work poorly under crisis and it is easy to forget things. After a few months, it's hard to recall in what order you took actions without notes.
