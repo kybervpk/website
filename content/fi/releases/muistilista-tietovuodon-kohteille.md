@@ -1,13 +1,13 @@
 ---
 title: "Muistilista tietovuodon kohteille"
-description: Keräsimme kattavan listauksen ohjeita erityisesti Vastaamon tietomurron kohteille. Mikäli olet ollut Vastaamon asiakkaana ennen 2018, tietosi ovat voineet joutua vääriin käsiin. Vastaamon mukaan kopioituja ja tarkasteltuja asiakastietoja voi kuitenkin olla myös alkuvuodelta 2019, ilmeisesti maaliskuulle 2019 saakka.
+description: Keräsimme kattavan listauksen ohjeita erityisesti Vastaamon tietomurron kohteille. Nykytiedon mukaan tietomurron kohteena oli Vastaamon asiakasrekisteri marraskuussa 2018. Tietomurron seurauksena asiakkaiden luottamuksellisia tietoja marraskuun loppua 2018 edeltävältä ajalta on vuotanut. On todennäköistä, että Vastaamon järjestelmään on tunkeuduttu myös marraskuun lopun 2018 ja maaliskuun 2019 välisenä aikana.
 aliases:
   - /ajankohtaista/muistilista-tietovuodon-kohteille/
 ---
 
-Keräsimme kattavan listauksen erityisesti Vastaamon tietomurron uhreille. Mikäli olet ollut Vastaamon asiakkaana ennen vuotta 2019, ovat tietosi voineet joutua vääriin käsiin.
+Keräsimme kattavan listauksen erityisesti Vastaamon tietomurron uhreille. Muistilista on päivitetty 26.10.2020.
 
-Nykytiedon mukaan tietomurron kohteena oli Vastaamon asiakasrekisteri marraskuussa 2018. 
+Nykytiedon mukaan tietomurron kohteena oli Vastaamon asiakasrekisteri marraskuussa 2018. Tietomurron seurauksena asiakkaiden luottamuksellisia tietoja marraskuun loppua 2018 edeltävältä ajalta on vuotanut. On todennäköistä, että Vastaamon järjestelmään on tunkeuduttu myös marraskuun lopun 2018 ja maaliskuun 2019 välisenä aikana. Vastaamon tiedossa ei ole, että tässä yhteydessä tietokanta olisi varastettu, mutta on mahdollista, että yksittäisiä tietoja on tarkasteltu tai kopioitu tuossa aikavälissä.
 
 Vastaamon antamia tietoja voit seurata [heidän verkkosivuiltaan](https://vastaamo.fi/ajankohtaista/).
 
@@ -24,6 +24,12 @@ Kaikki ylläolevat tiedot [luokitellaan henkilötiedoiksi](https://tietosuoja.fi
 
 ## Jos epäilet joutuneesi tietovuodon kohteeksi tai sait henkilökohtaisen kiristysviestin, toimi seuraavasti:
 
+### Pidä huolta itsestäsi
+
+*   Älä hätäänny. Välttämättä juuri sinusta ei ole vuotanut kaikkia yllä mainittuja henkilötietoja.  
+*   Katso otsikon [Mistä saat apua henkiseen kriisinkestävyyteen](#mistä-saat-apua-henkiseen-kriisinkestävyyteen) alta listaus tahoista, joiden kanssa voit keskustella asioista. Et ole yksin tämän ikävän asian kanssa. 
+*   Et ole yksin tämän ikävän asian kanssa, pyydä rohkeasti apua myös omalta lähipiiriltäsi. Myös verkosta löytyy vertaistukiryhmiä esim. [Facebookista](https://www.facebook.com/groups/1157856877945684/).
+
 ### Pidä yllä päiväkirjaa tekemistä toimistasi
 
 *   Kirjoita ylös tekemäsi toimenpiteet eli mitä, milloin, kenelle. Esimerkiksi: _Rikosilmoitus tehty poliisille 24.10.2020 klo 10.05, Asiakastiedon luottokielto tehty 24.10. klo 17.00._
@@ -37,19 +43,31 @@ Kaikki ylläolevat tiedot [luokitellaan henkilötiedoiksi](https://tietosuoja.fi
 *   Kuvakaappaukset ovat tärkeää todisteaineistoa viranomaisille. Kuvakaappauksessa tulee näkyä myös lähettäjän osoite. 
 *   Näin otat kuvakaappauksen Windows 10:ssä: [Microsoftin ohjeet](https://support.microsoft.com/fi-fi/windows/kuvakaappausty%C3%B6kalun-avaaminen-ja-n%C3%A4ytt%C3%B6kuvan-ottaminen-a35ac9ff-4a58-24c9-3253-f12bac9f9d44).
 *   Näin otat kuvakaappauksen Applen tietokoneella: [Applen ohjeet](https://support.apple.com/fi-fi/HT201361).
+*   Voit myös tallentaa sähköpostin PDF-tiedostona.
+    * Ohjeet Microsoft Officelle [Microsoftin verkkosivuilla](https://support.microsoft.com/fi-fi/office/tallentaminen-tai-muuntaminen-pdf-tai-xps-muotoon-projectin-ty%C3%B6p%C3%B6yt%C3%A4versiossa-d85416c5-7d77-4fd6-a216-6f4bf7c7c110).
+    * Ohjeet Applen tietokoneelle [Applen verkkosivuilla](https://support.apple.com/kb/PH26118?viewlocale=fi_FI&locale=fi_FI).
+*   Kuvakaappauksissa ja PDF-tiedostossa tulee näkyä tarkka aikaleima, eli milloin sähköposti on saapunut.
 *   Voit ottaa valokuvan myös tietokoneesi näytöstä. Varmista, että kuvan laatu on hyvä ja teksti on luettavissa kuvasta.
 *   Säilytä kuitit kaikista aiheutuneista kuluista, esim. luottokieltoihin liittyvistä palveluista.
 
 ### Älä maksa lunnaita, äläkä kommunikoi kiristäjän kanssa
 
-*   Kiristäjän sähköpostiviestit sisältävät nimen ja henkilötunnuksen, samanlaisia viestejä on lähetetty kymmenille tuhansille muillekin. 
-*   Maksaminen ruokkii rikollisuutta ja kukaan ei voi taata ettei kyberrikollinen kiristäisi uudestaan tai vaihtoehtoisesti julkaisisi tietoja maksusta huolimatta. Älä kommunikoi kiristäjän kanssa, tiedot ovat todennäköisesti vuotaneet jo muillekin tahoille.  
+*   Kiristäjän sähköpostiviestit sisältävät nimen ja henkilötunnuksen, samanlaisia viestejä on lähetetty kymmenille tuhansille muillekin. Älä maksa lunnaita, sillä se ei takaa henkilötietojen poistamista eikä estä väärinkäytöksiä.
+*   Lisäksi maksaminen ruokkii rikollisuutta ja kukaan ei voi taata, ettei kyberrikollinen kiristäisi uudestaan tai vaihtoehtoisesti julkaisisi tietoja maksusta huolimatta. Älä kommunikoi kiristäjän kanssa, tiedot ovat saattaneet vuotaa muillekin tahoille ja maksun saadessa kiristäjä saattaa pyytää uutta maksua muutaman viikon päästä.  
 
 ### Tee poliisille rikosilmoitus tietovuodosta ja/tai kiristyksestä
 
-*   Voit tehdä sähköisen rikosilmoituksen [Poliisin verkkosivuilla](https://www.poliisi.fi/rikokset/sahkoinen_rikosilmoitus). Palvelu on käytössä joka päivä klo 06.00 - 22.45. Mikäli et heti pääse tekemään ilmoitusta, kokeile myöhemmin uudestaan. Mikäli olet saanut kiristysviestin, liitä se sähköiseen rikosilmoitukseen kuvakaappauksena.
+*   Voit tehdä sähköisen rikosilmoituksen [Poliisin verkkosivuilla](https://www.poliisi.fi/rikokset/sahkoinen_rikosilmoitus). Palvelu on käytössä joka päivä klo 06.00 - 22.45. Mikäli et heti pääse tekemään ilmoitusta, kokeile myöhemmin uudestaan. Poliisin sivusto on ollut tavallista hitaampi suuren käyttäjämäärän takia, eikä rikosilmoitusta ole välttämätöntä tehdä saman tien. Rikostutkinta jatkuu, vaikkei yksittäinen ihminen tekisi rikosilmoitusta heti.
+*   Rikosilmoituksen tekeminen vaatii tunnistautumisen yksityishenkilöksi. Lomakepohja ohjaa tarvittavien tietojen täyttämisessä. Vastaamon tietomurto kuuluu poliisin luokittelussa kohtaan "Muut rikokset", ja rikoksen tekopaikka on "Internet".
+*   Mikäli olet saanut kiristysviestin, liitä se sähköiseen rikosilmoitukseen kuvakaappauksena.
 *   Mikä sinulla ei ole mahdollista tehdä rikosilmoitusta verkossa, voi tehdä sen paikallisella Poliisilaitoksella.
 *   Poliisi ohjeistaa olemaan soittamatta hätäkeskukseen.
+*   Poliisi painottaa, että rikosilmoituksessa on mainittava seuraavat asiat:
+    * Sana ”Vastaamo”.
+    * Kenelle mahdollinen kiristysviesti on osoitettu.
+    * Missä yksityisiä tietoja on ollut nähtävillä, jos niitä on vuotanut ja tiedät minne.
+    * Mahdollinen lunnasvaatimus ja toimitustapa tilinumeroineen sekä tieto, onko lunnaita maksettu.
+*   Poliisi korostaa, ettei lunnaita pidä maksaa, sillä se ei takaa henkilötietojen poistamista eikä estä väärinkäytöksiä.
 
 ### Tee ilmoitus Kyberturvallisuuskeskukselle
 
@@ -67,17 +85,18 @@ Kaikki ylläolevat tiedot [luokitellaan henkilötiedoiksi](https://tietosuoja.fi
 
 *   Voit estää henkilötiedoillasi tehtävät osoitteenmuutokset pyytämällä [muuttosuojauksen Postilta](https://www.posti.fi/fi/henkiloille/kirjeet-ja-postipalvelut/jakelu-ja-muuttaminen/tietojen-luovuttamisen-kieltaminen).
 *   Suojatulle ei voi tallentaa minkäänlaista osoitteenmuutosta tai jakelun keskeytystä niin kauan kuin suojaus on päällä. Näin sinun nimissäsi ei voida myöskään tilata mitään tavaraa toiseen osoitteeseen.
-*   Lue myös [Postin ohjeet muuttoilmoituksesta ja tietoturvasta](https://www.posti.fi/fi/asiakastuki/tiedotteet/20200615_muuttoilmoitus_ja_tietoturva)
+*   Tee myös kielto paperiseen osoitteenmuutokseen, kielto onnistuu Postin verkkopalvelun kautta [Postin tiedotteessa olevien ohjeiden avulla](https://www.posti.fi/fi/asiakastuki/tiedotteet/postin-ohje-psykoterapiakeskus-vastaamon-tietomurtoon-liittyen-nain-teet).
+*   Lue myös [Postin ohjeet muuttoilmoituksesta ja tietoturvasta](https://www.posti.fi/fi/asiakastuki/tiedotteet/20200615_muuttoilmoitus_ja_tietoturva).
 
 ### Tee rekisteröintikielto (PRH), palvelu on maksuton
 
-*   Rekisteröintikiellon tekemisellä voit ennaltaehkäistä sitä, että henkilötiedoillasi sinut merkittäisiin esimerkiksi kaupparekisteriin jonkun yrityksen vastuuhenkilöksi. Kun teet rekisteröintikiellon Patentti- ja rekisterihallitukselle (PRH), sinua ei saa merkitä henkilötiedoillasi mihinkään yrityksen tai yhteisön vastuuhenkilöksi
-*   Tee rekisteröintikielto verkossa [Patentti- ja rekisterihallituksen ohjeiden mukaisesti](https://www.prh.fi/fi/kaupparekisteri/valty_huijauksilta/rekisterointikielto.html)
+*   Rekisteröintikiellon tekemisellä voit ennaltaehkäistä sitä, että henkilötiedoillasi sinut merkittäisiin esimerkiksi kaupparekisteriin jonkun yrityksen vastuuhenkilöksi. Kun teet rekisteröintikiellon Patentti- ja rekisterihallitukselle (PRH), sinua ei saa merkitä henkilötiedoillasi mihinkään yrityksen tai yhteisön vastuuhenkilöksi.
+*   Tee rekisteröintikielto verkossa [Patentti- ja rekisterihallituksen ohjeiden mukaisesti](https://www.prh.fi/fi/kaupparekisteri/valty_huijauksilta/rekisterointikielto.html).
 
 ### Harkitse myös tietojen luovuttamisen kieltämistä Väestötietojärjestelmään.
 
 *   Jos tietovuodon aikaiset osoitetietosi tai muut tietosi ovat muuttuneet, olisi hyvä suojata nykyiset tietosi. 
-*   Digi- ja väestötietovirasto: [Tietojen luovuttamisen kieltäminen](https://dvv.fi/tietojen-luovuttamisen-kieltaminen)
+*   Digi- ja väestötietovirasto: [Tietojen luovuttamisen kieltäminen](https://dvv.fi/tietojen-luovuttamisen-kieltaminen).
 
 ### Salasanat ja kaksivaiheinen tunnistautuminen
 
@@ -103,11 +122,20 @@ Kaikki ylläolevat tiedot [luokitellaan henkilötiedoiksi](https://tietosuoja.fi
 *   Ota yhteyttä Vastaamoon [tarkastuspyyntölomakkeella](https://vastaamo.fi/files/rekisteritietojen_tarkastuspyynto.pdf). Lisätietoja Vastaamon tietosuojasta saa [Vastaamon verkkosivuilta](https://vastaamo.fi/tietosuoja/).
 *   Huomioithan, että vastaamiseen saattaa mennä useampia viikkoja.
 
-### Tee suoramarkkinointikielto Traficomiin ja ASML:lle
+### Poista nykyiset tiedot ja kiellä palvelun käyttö: Klarna ja vastaavat laskutuspalvelut
 
-*   Kuluttaja voi rajoittaa puhelinmyyntiä soittamalla palvelunumeroon 0600 13404 ma-pe klo 8-18. Puhelun hinta 0,39 € / min+pvm, jonotus on maksutonta. (Huom. palvelunumeroon ei voi soittaa ulkomailta.)
-*   ASML ei veloita muita maksuja rajoituspalveluun soittajalta. Lisätiedot [ASML:n verkkosivuilta](https://www.asml.fi/kieltopalvelut/).
-*   Traficomin tietojenluovutuskiellon [voi tehdä Traficomin verkkopalvelussa](https://www.traficom.fi/fi/asioi-kanssamme/tee-tiedonluovutuskielto).
+*   Laskutuspalvelut saattavat sallia hyvin vähäisillä tiedoilla automaattisesti tuotteiden oston laskua vastaan. Pyydä laskutuspalveluja poistamaan tietosi, voit vedota tietosuoja-asetuksen unohtamisoikeuteen.
+*   Klarnalle voi tehdä pyynnön sähköpostilla osoitteeseen [tietosuoja@klarna.fi](mailto:tietosuoja@klarna.fi) tai [lomakkeella](https://www.klarna.com/fi/tietosuojapyyntoni-lomake/). Muiden laskutuspalveluiden yhteystiedot löytyvät usein heidän verkkosivuiltaan, viimeistään esim. tietosuojaselosteesta.
+
+### Tee osoitetietojen luovutuskielto teleoperaattoreille ja pyydä muutoskieltoa ilman henkilöllisyystodistusta
+
+*   Voit tehdä teleoperaattorillesi (esim. DNA, Telia, Elisa) tietojenluovutuskiellon.
+*   Suositeltavaa on piilottaa ainakin osoitetiedot.
+*   Henkilöllisyystodistuksen vaatimiseen liittyvät muutokset voit tehdä ainoastaan operaattorin toimipisteellä henkilökohtaisesti.
+*   Yhteystiedot: 
+    * Elisa: 0600 900 70, Ark. 8-21, la 9-17 2,50 €/puhelu + 2,50 €/alkava min + mpm  
+    * DNA: muutokset voi tehdä Minun Palvelussani tai olemalla yhteydessä asiakaspalveluun puhelimitse [044 144 044](+35844144044) tai Oma DNA -sovelluksen viestipalvelun kautta.
+    * Telia: Voit muuttaa tietojasi kirjautumalla [Telian palveluun](https://www.telia.fi/asiakastuki/liittymat/puhelinliittymat/numero-ja-asiakastiedot).
 
 ### Oikeus tulla unohdetuksi hakukoneissa
 
@@ -115,16 +143,11 @@ Kaikki ylläolevat tiedot [luokitellaan henkilötiedoiksi](https://tietosuoja.fi
 *   [Googlen poistopyyntölomake](https://www.google.com/webmasters/tools/legal-removal-request?complaint_type=rtbf&hl=fi&rd=1)
 *   [Bingin poistopyyntölomake](https://www.bing.com/webmaster/tools/eu-privacy-request)
 
-### Pidä huolta itsestäsi
-
-*   Älä hätäänny. Välttämättä juuri sinusta ei ole vuotanut kaikkia yllä mainittuja henkilötietoja.  
-*   Katso otsikon _Mistä saat apuja henkiseen kriisinkestävyyteen_ alta listaus tahoista, joiden kanssa voit keskustella asioista. Et ole yksin tämän ikävän asian kanssa. 
-
 ### Muita vinkkejä
 
 *   Vuosiko tietomurrossa työsähköposti henkilökohtaisen sähköpostin sijaan? Ota yhteyttä työnantajaasi, esim. henkilöstöpäällikköön. Parhaimmillaan saat tukea myös työnantajaltasi tämän vaikean tilanteen kanssa. 
 *   Arvioi turvakiellon tarvetta. Kiellon perusteeksi käyvät esimerkiksi todistajien suojelu, perheväkivaltatilanne tai ammatti, jossa joutuu kokemaan säännöllisesti fyysisen väkivallan uhkaa. Voit arvioida tarvetta esim. poliisin kanssa.
-*   Tarkkaile digitaalista jalanjälkeä aktiivisesti tulevaisuudessa. Voit ottaa käyttöön [Have I been pwned?](https://haveibeenpwned.com/)  -palvelun, joka ilmoittaa, jos sähköpostisi on vuotanut julkisesti. Palvelu on tietoturva-asiantuntija Troy Huntin ylläpitämä. Vaihtoehtoisesti voit ottaa käyttöön kotimaisen [F-Securen suomenkielisen palvelun](https://www.f-secure.com/fi/home/free-tools/identity-theft-checker) tai myös kotimaisen [Badrap.io](https://badrap.io/)-palvelun.
+*   Tarkkaile digitaalista jalanjälkeä aktiivisesti tulevaisuudessa. Voit ottaa käyttöön [Have I been pwned?](https://haveibeenpwned.com/) -palvelun, joka ilmoittaa, jos sähköpostisi on vuotanut julkisesti. Palvelu on tietoturva-asiantuntija Troy Huntin ylläpitämä. Vaihtoehtoisesti voit ottaa käyttöön kotimaisen [F-Securen suomenkielisen palvelun](https://www.f-secure.com/fi/home/free-tools/identity-theft-checker) tai myös kotimaisen [Badrap.io](https://badrap.io/)-palvelun.
 *   Voit halutessasi ottaa käyttöön [Google Alerts -palvelun](https://www.google.fi/alerts) omalle nimellesi. Palvelu lähettää sähköpostin, jos valitsemasi hakusana ilmestyy Googlen hakutuloksiin. Hakusanoina voivat olla esim. oma puhelinnumero, nimi ja sähköpostiosoite.
 *   Jos saat kirjatun kirjeen, varmista lähettäjä ennen kuin kuittaat sen vastaanotetuksi. Lähettäjä saattaa olla rikollinen, joka haluaa vahvistaa osoitteesi voimassaolon. 
 
@@ -132,30 +155,29 @@ Kaikki ylläolevat tiedot [luokitellaan henkilötiedoiksi](https://tietosuoja.fi
  
 ### Vastaamon kriisipuhelin
 
-*   Yhteystiedot: [044 4141 997](tel:+358444141997), avoinna pe 21 asti, la 10-14 ja 17-21 ja su 10–21
+*   Yhteystiedot: [044 4141 997](tel:+358444141997), avoinna pe 21 asti, la 10-14 ja 17-21 ja su 10–21.
 
 ### Valtakunnallinen kriisipuhelin
 
-*   Valtakunnallinen kriisipuhelin päivystää ympäri vuorokauden numerossa [09 2525 0111](tel:+358925250111)
-*   Lisätietoja [Suomen mielenterveys ry:n verkkosivuilta](https://mieli.fi/fi/tukea-ja-apua/kriisipuhelin-keskusteluapua-numerossa-09-2525-0111)
+*   Valtakunnallinen kriisipuhelin päivystää ympäri vuorokauden numerossa [09 2525 0111](tel:+358925250111).
+*   Lisätietoja [Suomen mielenterveys ry:n verkkosivuilta](https://mieli.fi/fi/tukea-ja-apua/kriisipuhelin-keskusteluapua-numerossa-09-2525-0111).
 
 ### Kirkon keskusteluapu
 
 *   [Kirkon keskusteluapu](https://kirkonkeskusteluapua.fi/) on käytettävissäsi puhelimen, chatin, sähköpostin tai kirjeen välityksellä. 
 *   Palveleva kirje: Kirjoita kirje ja lähetä se osoitteella: Palveleva kirje, PL 210, 00131 Helsinki. Jos haluat vastauksen, liitä mukaan nimi- ja osoitetietosi.
-*   Palveleva puhelin [0400 22 11 80](tel:+358400221180), avoinna joka ilta klo 18 - 24. Operaattori veloittaa puhelusta liittymäsopimuksesi mukaisen hinnan (pvm/mpm).
+*   Palveleva puhelin [0400 22 11 80](tel:+358400221180), avoinna joka ilta klo 18-24. Operaattori veloittaa puhelusta liittymäsopimuksesi mukaisen hinnan (pvm/mpm).
 *   Palveleva chat: Keskustelut ovat kahdenkeskisiä. Yhteydenottaja näkyy päivystäjälle nimettomänä. Chat palvelee ma-pe klo 12-20. Linkin chattiin löydät [Kirkon keskusteluavun verkkosivuilta](https://kirkonkeskusteluapua.fi/).
 
 ### Rikosuhripäivystys
 
 *   Verkkorikollisuuden uhrit voivat saada käytännön neuvoja rikosasiassa ja keskusteluapua Rikosuhripäivystyksen palveluissa:
 *   Rikosuhripäivystys numerossa [116 006](tel:+358116006) palvelee suomeksi ma–pe kello 9–20 ja ruotsiksi kello 12–14. Puhelu on maksuton.
-*   RIKUchat on auki arkisin kello 9–15 ja lisäksi maanantaisin klo 17–19. Chat on osoitteessa riku.fi/chat
+*   RIKUchat on auki arkisin kello 9–15 ja lisäksi maanantaisin klo 17–19 osoitteessa [riku.fi/chat](https://riku.fi/chat).
 
 ### Suomen Punainen Risti
 
-*   SPR avaa kriisipalvelunsa numerossa [0800 100 200](tel:+358800100200) sunnuntaina 25.10.2020.
-*   Auki su 25.10. klo 15.00 - 21.00 ja maanantaista 26.10. alkaen 9.00 - 21.00.
+*   SPR:n kriisipalvelu palvelee numerossa [0800 100 200](tel:+358800100200) klo 9-21.
 *   Lisätietoja [SPR:n tiedotteesta](https://www.punainenristi.fi/uutiset/20201025/punainen-risti-avaa-auttavan-puhelimen-vastaamon-asiakkaiden-tueksi).
 
 ### Helsingin sosiaali- ja terveyspalvelut tarjoaa apua helsinkiläisille tarvittaessa ympäri vuorokauden
@@ -163,7 +185,20 @@ Kaikki ylläolevat tiedot [luokitellaan henkilötiedoiksi](https://tietosuoja.fi
 *   Terveyspalvelujen neuvonta, p. [09 10023](tel:+358910023).
 *   Helsingin kriisipäivystys, p. [09 310 44222](tel:+358931044222).
 *   Lisätietoja [Helsingin kaupungin verkkosivuilta](https://www.hel.fi/uutiset/fi/sosiaali-ja-terveysvirasto/apua-ja-tukea-on-tarjolla-tietomurron-uhriksi-joutuneille).
-*   Tarkista kriisiavun saatavuus kotikunnaltasi.
+
+### Länsi-Uudenmaan kuntien asukkaita auttaa sosiaali- ja kriisipäivystys
+
+*   Kriisipäivystyksen tavoitat numerosta [09 816 42439](tel:+358981642439).
+*   Palvelu on tarkoitettu Espoon, Hangon, Inkoon, Karkkilan, Kauniaisten, Kirkkonummen, Lohjan, Raaseporin, Siuntion ja Vihdin asukkaille sekä näissä kunnissa oleskeleville joka päivä ympäri vuorokauden.
+
+### Kuluttajaliiton kaikille avoin kuluttajan ja potilaan lakineuvonta 
+
+*   Lakineuvonta palvelee ma–pe klo 9–12 ja klo 13–16 numerossa [09 454 22150](tel:+358945422150) (mpm/pvm)
+*   Lisätietoja [Kuluttajaliiton verkkosivuilta](https://www.kuluttajaliitto.fi/edunvalvonta/ajankohtaista/tiedote-vastaamon-tietosuojamurron-uhreille-kuluttajaliiton-lakineuvontaa/)
+
+### Tutustu myös oman kuntasi kriisipäivystykseen
+
+*   Tarkista oman kotikuntasi kriisipäivystyksen saatavuus esim. kotikuntasi verkkosivuilta.
 
 ### Kysymyksiä ja vastauksia uhreille 
 
@@ -175,11 +210,12 @@ Kaikki ylläolevat tiedot [luokitellaan henkilötiedoiksi](https://tietosuoja.fi
 *   [Tietosuojavaltuutetun toimiston ohjeet](https://tietosuoja.fi/jos-joudut-tietoturvaloukkauksen-kohteeksi).
 *   [Rikosuhripäivystyksen ohjeet](https://www.riku.fi/toimi-nain-jos-tietojasi-on-vuodettu-verkkoon/).
 *   [Elinkeinoelämän keskusliiton ohjeet](https://ek.fi/ajankohtaista/uutiset/tietovuodon-kohteeksi-joutuneen-muistilista/).
+*   [Kyberturvallisuuskeskuksen tietovuotoapu](https://www.tietovuotoapu.fi/fi/tietovuotoapu).
 
 Mikäli sinulla on tietoja, joista voisi poliisille olla jotakin hyötyä, voit lähettää poliisille nettivinkin. Huomioithan, että nettivinkki ei ole rikosilmoitus! Nettivinkin voit tehdä [poliisin verkkosivuilla](https://www.poliisi.fi/nettivinkki).
 
 Yhteenveto on laadittu mm. poliisin, Rikosseuraamuslaitoksen, Kyberturvallisuuskeskuksen ja Elinkeinoelämän keskusliiton ohjeistuksien pohjalta sekä KyberVPK:n tietoturva-asiantuntijoiden avustuksella.
 
-Puuttuuko listalta mielestäsi jotakin? Muuta kommentoitavaa? Ota yhteyttä: [media@kybervpk.fi](mailto:media@kybervpk.fi)
+Puuttuuko listalta mielestäsi jotakin? Muuta kommentoitavaa? Ota yhteyttä: [media@kybervpk.fi](mailto:media@kybervpk.fi).
 
 _Tätä artikkelia päivitetään tarpeen mukaan._
