@@ -16,7 +16,7 @@
   <p class="lang-nav">
     {{- $activeLanguage := .Language -}}
     {{- range $.Site.Home.AllTranslations -}}
-      <a href="{{ .Permalink }}"{{ if eq .Language $activeLanguage }}class="active"{{ end }}>{{ .Language.Params.LinkText }}</a>
+      <a href="{{ .Permalink }}"{{ if eq .Language $activeLanguage }} class="active"{{ end }}>{{ .Language.Params.LinkText }}</a>
     {{- end -}}
   </p>
 </nav>
