@@ -7,7 +7,7 @@ description: We collected a comprehensive list of notes especially for the victi
 
 We collected a comprehensive list of notes especially for the victims of the [Vastaamo data breach](https://yle.fi/uutiset/osasto/news/psychotherapy_centres_database_hacked_patient_info_held_ransom/11605460). If you have been a client of Vastaamo before the year 2019, your confidential information might have been stolen.
 
-Based on current knowledge, Vastaamo's client registry was breached in November 2018.
+Based on current knowledge, Vastaamo's client registry was breached in November 2018 and there has been a second smaller breach in 2019.
 
 You can follow Vastaamo's official updates [at their website](https://vastaamo.fi/ajankohtaista/). (currently only in Finnish)
 
@@ -33,21 +33,21 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
 
 ### Collect evidence
 
-*   If you have received a ransom blackmail, take a screenshot of it and store it in your computer for investigation. Store the original message as well.
+*   If you have received a ransom blackmail, take a screenshot of it and store it on your computer for investigation. Store the original message as well.
 *   Screenshots are important evidence for the authorities. The screenshot should include the sender address.
 *   How to take screenshots in Windows 10: [Instructions from Microsoft](https://support.microsoft.com/en-us/windows/open-snipping-tool-and-take-a-screenshot-a35ac9ff-4a58-24c9-3253-f12bac9f9d44)
-*   How to take screenshots in Apple MacOS: [Instructions from Apple](https://support.apple.com/en-us/HT201361)
+*   How to take screenshots in Apple macOS: [Instructions from Apple](https://support.apple.com/en-us/HT201361)
 *   You can also take a photo of your computer's screen. Make sure that the text is readable from the photo.
 *   Keep receipts from all incurred expenses. For example, services related to credit prohibitions.
 
 ### Do not pay the ransom or communicate with the blackmailer
 
 *   The extortion messages contain one's name and identification number. Similar messages have been sent to thousands of other people as well.
-*   Paying the ransom fuels organized crime and no-one can guarantee you that the criminals would not extort you again or alternatively, publish your information despite payment. Do not communicate with the criminal. The information has most likely been leaked to other parties already.
+*   Paying the ransom funds organized crime and the criminals may extort you again or alternatively, publish your information despite payment. Do not communicate with the criminal. The information has most likely been leaked to other parties already.
 
 ### File a criminal complaint with the police for data leak and/or extortion
 
-*   You can create a report an offence online on the [website of the Finnish Police](https://www.poliisi.fi/crimes/reporting_an_offence_online). The service is available every day from 6AM to 10:45PM. If you are not able to do a report immediately, try again later. If you have received a ransom note, include a screenshot of it as an attachment.
+*   You can report an offence online on the [website of the Finnish Police](https://www.poliisi.fi/crimes/reporting_an_offence_online). The service is available every day from 6AM to 10:45PM. If you are not able to do a report immediately, try again later. If you have received a ransom note, include a screenshot of it as an attachment.
 *   If you can't report an offence online, do it at your local police station.
 *   Police has instructed to not call the Emergency Response Centers.
 
@@ -61,7 +61,7 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
 *   This ensures that nobody can take a loan in your name. Finland has two companies maintaining credit registries: Asiakastieto and Bisnode. We recommend you request for a credit ban from both. Note that the credit ban lasts for two years at a time and you will have to renew it if you wish to continue it.
 *   Asiakastieto will charge 19,95€ for the ban. [You can request it online from Asiakastieto](https://www.asiakastieto.fi/omatieto/en/tuotteet/oma-luottokielto) (currently only in Finnish)
 *   Bisnode credit ban costs 15,95€. [You can request it online from Bisnode](https://my.bisnode.fi/protection) (currently only in Finnish)
-*   A credit ban can prevent frauds using your personal information. Using the personal identification number and other personal information, a criminal may be able to make small purchases or open other lines of credit on behalf of the victim. This voluntary credit ban does not prevent you personally from buying in installments or requesting other credit. You'll receive a separate certificate, which you can personally use to prove your creditworthiness despite the voluntary credit ban.
+*   A credit ban can prevent frauds using your personal information. Using the personal identification number and other personal information, a criminal may be able to make small purchases or open other lines of credit in your name. This voluntary credit ban does not prevent you from buying in installments or requesting other credit. You'll receive a separate certificate, which you can personally use to prove your creditworthiness despite the voluntary credit ban.
 
 ### Request prohibition for address change with Posti free-of-charge
 
