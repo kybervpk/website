@@ -88,7 +88,7 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
     2. Use both small and capital letters combined with special and numeric characters.
     3. Typos, dialects, spoken idioms and other "broken words" make your password stronger.
     4. Use a unique password for every service.
-    5. Be especially careful with important passwords, like the email account passwort that can be used to reset other passwords.
+    5. Be especially careful with important passwords, like the email account password that can be used to reset other passwords.
     6. Never reveal your passwords to anyone! Official authorities will never ask you to disclose your password!
     7. Start using a password manager software so you won't need to remember your passwords. For example, the Finnish [F-Secure ID Protection](https://www.f-secure.com/fi/home/products/id-protection) or open source [KeePassX](https://www.keepassx.org) are solid programs for this.
     *   [More information on password security from the Finnish National Cyber Security Centre](https://www.kyberturvallisuuskeskus.fi/en/ncsc-news/instructions-and-guides/longer-better-how-create-strong-password)
@@ -157,8 +157,8 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
 
 ### The Finnish Red Cross
 
-*   Finnish Red Cross (SPR) crisis helpline at [0800 100 200](tel:+358800100200) from 9 to 21.
-*   More information from [SPR announcement](https://www.punainenristi.fi/uutiset/20201025/punainen-risti-avaa-auttavan-puhelimen-vastaamon-asiakkaiden-tueksi). (currently only in Finnish)
+*   Finnish Red Cross (FRC) crisis helpline at [0800 100 200](tel:+358800100200) from 9 to 21.
+*   More information from [FRC announcement](https://www.punainenristi.fi/uutiset/20201025/punainen-risti-avaa-auttavan-puhelimen-vastaamon-asiakkaiden-tueksi). (currently only in Finnish)
 
 ### City of Helsinki provides help for residents around the clock
 
