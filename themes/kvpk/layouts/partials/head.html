@@ -1,13 +1,23 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+{{ if .Description -}}
+<meta name="description" content="{{ .Description }}">
+<meta name="og:description" content="{{ .Description }}">
+{{- end }}
 <link rel="icon" type="image/png" href="/favicon.png">
 <link rel="stylesheet" type="text/css" href="/stylesheet.css">
-{{- if .IsTranslated -}}
-  {{ range .Translations }}
+{{- if .IsTranslated }}
+  {{- range .Translations }}
 <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}">
-  {{- end -}}
-{{- end -}}
+  {{ end -}}
+{{ end -}}
 {{- $options := (dict "targetPath" "style.css" "outputStyle" "compressed") -}}
 {{ $style := resources.Get "/sass/main.scss" | toCSS $options | fingerprint }}
 <link rel="stylesheet" href="{{ $style.Permalink }}">
+{{- if .Title }}
+<meta property="og:title" content="{{ .Title }} | KyberVPK">
+<title>{{ .Title }} | KyberVPK</title>
+{{- else -}}
+<meta property="og:title" content="KyberVPK">
 <title>KyberVPK</title>
+{{ end -}}
