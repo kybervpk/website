@@ -26,7 +26,7 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
 
 ### Keep a diary of your actions
 
-*   Write down your actions. What you do, when and to whom. For example: _Filed a criminal complaint with the police on 24th of October 2020 at 10:05AM, requested prohibition of credit from Asiakastieto 24th of October at 5pm._
+*   Write down your actions. What you do, when and to whom. For example: _Filed a criminal complaint with the police on 24th of October 2020 at 10:05, requested prohibition of credit from Asiakastieto 24th of October at 5pm._
 *   You can also write down how much time every action took from you.
 *   This information can play a pivotal role in police investigations or when claiming for damages.
 *   Keeping a diary helps you to keep track of what you have done. One's personal memory tends to work poorly under crisis and it is easy to forget things. After a few months, it's hard to recall in what order you took actions without notes.
@@ -47,7 +47,7 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
 
 ### File a criminal complaint with the police for data leak and/or extortion
 
-*   You can report an offence online on the [website of the Finnish Police](https://www.poliisi.fi/crimes/reporting_an_offence_online). The service is available every day from 6AM to 10:45PM. If you are not able to do a report immediately, try again later. If you have received a ransom note, include a screenshot of it as an attachment.
+*   You can report an offence online on the [website of the Finnish Police](https://www.poliisi.fi/crimes/reporting_an_offence_online). The service is available every day from 6 to 22:45. If you are not able to do a report immediately, try again later. If you have received a ransom note, include a screenshot of it as an attachment.
 *   If you can't report an offence online, do it at your local police station.
 *   Police has instructed to not call the Emergency Response Centers.
 
@@ -106,7 +106,7 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
 
 ### Request a prohibition of direct marketing from Traficom and Data & Marketing Association of Finland (ASML)
 
-*   A consumer can limit phone marketing by calling Data & Marketing Association of Finland (ASML) service number 0600 13404 from Monday to Friday between 8AM and 6PM. The service costs 0,39€ / minute + operator service charges. Queuing is free-of-charge. (Note. You can't call from abroad.)
+*   A consumer can limit phone marketing by calling Data & Marketing Association of Finland (ASML) service number 0600 13404 from Monday to Friday between 8 and 18. The service costs 0,39€ / minute + operator service charges. Queuing is free-of-charge. (Note. You can't call from abroad.)
 *   ASML does not charge any other fees from the caller. More information available from [ASML website](https://www.asml.fi/kieltopalvelut/). (currently only in Finnish)
 *   Prohibition of data disclosure from Finnish Transport and Communications Agency Traficom registries can be made from [Traficom website](https://www.traficom.fi/en/services/how-prohibit-disclosure-your-data).
 
@@ -134,30 +134,30 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
 
 ### Vastaamo crisis phone
 
-*   Contact number: [044 4141 997](tel:+358444141997), open on Monday to Friday 9PM, Saturday 10AM to 2PM, 5PM to 9PM and Sunday 10PM to 9PM
+*   Contact number: [044 4141 997](tel:+358444141997), open on Monday to Friday 21, Saturday 10 to 14, 17 to 21 and Sunday 10 to 21
 
 ### National crisis helpline
 
-*   National Crisis Helpline in Arabic and English available Monday and Tuesday at 11AM to 3PM, Wednesday from 1PM to 4PM and 5PM to 9PM, Thursday from 10AM to 3PM at [09 2525 0113](tel:+358925250113)
+*   National Crisis Helpline in Arabic and English available Monday and Tuesday from 11 to 15, Wednesday from 13 to 16 and 17 to 21, Thursday from 10 to 15 at [09 2525 0113](tel:+358925250113)
 *   More information from [Mental Health Finland website](https://mieli.fi/en/support-and-help/support-and-help-foreigners)
 
 ### Church conversational help
 
 *   [Church conversational help](https://kirkonkeskusteluapua.fi/) is available through phone, chat, email or letters.
 *   Via Letter: Write a letter and send it to address: Palveleva kirje, PL 210, 00131 Helsinki. If you want a reply, please include your name and address information.
-*   Via Phone: [0400 22 11 80](tel:+358400221180), available every night from 6PM to 12PM. Your operator will charge normal phone call fees.
-*   Via Chat: Conversations are confidential. The person contacting is seen by the duty officer as anonymous. Chat is available from Monday to Friday from 12AM to 12PM. Link to the chat is available at [Church conversational help website](https://kirkonkeskusteluapua.fi/).
+*   Via Phone: [0400 22 11 80](tel:+358400221180), available every night from 18 to 24. Your operator will charge normal phone call fees.
+*   Via Chat: Conversations are confidential. The person contacting is seen by the duty officer as anonymous. Chat is available from Monday to Friday from 12 to 24. Link to the chat is available at [Church conversational help website](https://kirkonkeskusteluapua.fi/).
 
 ### Victim Support Finland
 
 *   Victims of cyber crime can receive practical guidance and conversational help from Victim Support Finland on-call services:
 *   Victim Support Finland is available via phone at [116 006](tel:+358116006) Call is free of charge.
 *   [VSF provides a Contact Request Form as well](https://link.webropolsurveys.com/S/2DC107F19F3A2E71).
-*   [One can contact VSF via chat service](https://www.riku.fi/en/services/rikuchat-online-service/) which is available on weekdays from 9AM to 3PM.
+*   [One can contact VSF via chat service](https://www.riku.fi/en/services/rikuchat-online-service/) which is available on weekdays from 9 to 15.
 
 ### The Finnish Red Cross
 
-*   Finnish Red Cross (SPR) crisis helpline at [0800 100 200](tel:+358800100200) from 9AM to 9PM.
+*   Finnish Red Cross (SPR) crisis helpline at [0800 100 200](tel:+358800100200) from 9 to 21.
 *   More information from [SPR announcement](https://www.punainenristi.fi/uutiset/20201025/punainen-risti-avaa-auttavan-puhelimen-vastaamon-asiakkaiden-tueksi). (currently only in Finnish)
 
 ### City of Helsinki provides help for residents around the clock
