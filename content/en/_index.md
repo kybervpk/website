@@ -2,7 +2,9 @@
 title: "Front page"
 weight: -110
 menu: "main"
+heading: "Latest post"
 ---
+**What is KyberVPK?**
 
 During the COVID-19 pandemic, cyber attacks have increasingly targeted health care organizations, among others. The Finnish hacker collective **KyberVPK - Community Cyber Response Force** was established to help providers of critical services in the fight against attacks and to recover from them.
 

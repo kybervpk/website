@@ -24,3 +24,4 @@ Other:
 
 Certifications:
 * OSCP
+* CISSP

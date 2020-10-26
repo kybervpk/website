@@ -41,6 +41,10 @@ html {
         max-width: 100%;
     }
 
+    hr {
+        margin: 2rem 0;
+    }
+
     .site {
         @import 'footer';
         @import 'header';
