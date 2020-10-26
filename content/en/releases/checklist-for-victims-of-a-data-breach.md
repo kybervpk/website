@@ -126,7 +126,7 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
 
 *   Was it your work email instead of your personal email? Contact your employer. For example, talk with your human resources manager. You may get support.
 *   Consider special [non-disclosure for personal safety](https://dvv.fi/en/non-disclosure-for-personal-safety). This is a special protection for cases with a serious threat of physical violence. Talk with the police.
-*   Monitor your digital footprint actively in the future. You can use [Have I been pwned?](https://haveibeenpwned.com/)  -service to notify you if your information has been leaked publicly. The service is maintained by the security expert Troy Hunt. Alternatively, you can use the [Identity Theft Checker from Finnish F-Secure](https://www.f-secure.com/fi/home/free-tools/identity-theft-checker) or the Finnish [Badrap.io](https://badrap./io) service.
+*   Monitor your digital footprint actively in the future. You can use [Have I been pwned?](https://haveibeenpwned.com/)  -service to notify you if your information has been leaked publicly. The service is maintained by the security expert Troy Hunt. Alternatively, you can use the [Identity Theft Checker from Finnish F-Secure](https://www.f-secure.com/fi/home/free-tools/identity-theft-checker) or the Finnish [Badrap.io](https://badrap.io/) service.
 *   You can use [Google Alerts](https://www.google.fi/alerts) for your own name. The service sends an email if the keyword you provide it appears in Google Search results. Keywords to be used can be e.g. your own phone number, name and email address.
 *   If you receive a registered letter, authenticate it's sender before you sign it as received. The sender might be a criminal who wants to verify your address.
 
@@ -163,7 +163,7 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
 ### City of Helsinki provides help for residents around the clock
 
 *   Telephone health advice phone [09 10023](tel:+358910023).
-*   Crisis Emergency Support of the City of Helsink phone. [09 310 44222](tel:+358931044222).
+*   Crisis Emergency Support of the City of Helsinki phone. [09 310 44222](tel:+358931044222).
 *   More information from [City of Helsinki website](https://www.hel.fi/uutiset/en/social-services-and-health-care/help-and-support-available-for-data-breach-victims).
 *   Check your home municipality for availability of crisis help.
 
