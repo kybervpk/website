@@ -111,11 +111,29 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
 
 *   Many home insurances provide limited legal assistance for victims of an identity fraud. The data privacy legislation may give you a right for damage compensation.
 
-### Make a Subject Access Request to get a copy of your persona data from Vastaamo
+### Make a Subject Access Request to get a copy of your personal data from Vastaamo
 
 *   According to European General Data Protection Regulation (GDPR), you have the right to know what data Vastaamo has collected about you. This can help you decide what you want to do next.
 *   Contact Vastaamo with their [request for access to personal data](https://vastaamo.fi/files/rekisteritietojen_tarkastuspyynto.pdf) -form. More information about Vastaamo Data Protection is available from [their website](https://vastaamo.fi/tietosuoja/). (currently only in Finnish)
 *   Understand that it may take several weeks to get an answer.
+
+
+### Remove your information and prohibit service usage: Klarna and similar billing services
+
+Billing service companies may allow making purchases with very little authenticating information about the invoiced person. Ask the billing service company to remove your personal information, as is your right under GDPR regulations. Klarna is very widely used in Finland by the merchants for online purchases.
+
+You can make this request to Klarna by sending email to tietosuoja@klarna.fi or you can use a web form. For other billing service companies, consult their privacy documents and web pages.
+
+### Prohibit passing of information from the teleoperator and prohibit changing this without a official identification (Passport or ID card)
+
+You can prohibit the operator (DNA, Telia, Elisa and others) from passing your address and other information. 
+To limit changes without official identification, you will have to visit their service point in person. 
+Contact information:
+
+Elisa: 010 190 240 weekdays 8-18 (mpm/pvm), also online through OmaElisa service.
+DNA: online at Minun Palvelu or by calling customer service at044 144 044 or using Oma DNA messages.
+Telia: Chang your information by signing into Telia services
+
 
 ### Your Right to be Forgotten from search results
 
