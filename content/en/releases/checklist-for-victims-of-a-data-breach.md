@@ -48,7 +48,7 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
 ### Do not pay the ransom or communicate with the blackmailer
 
 *   The extortion message(s) will contain your name and identification number. Similar messages have been sent to thousands of other people as well.
-*   Paying the ransom funds organized crime and the criminals may extort you again or alternatively, publish your information despite payment. Do not communicate with the criminal. The information has most likely been leaked to other parties already.
+*   Paying the ransom funds organized crime and the criminals may extort you again or alternatively, publish your information despite payment. Do not communicate with the criminal. The information may have been leaked to other parties already.
 
 ### File a criminal complaint with the police for data leak and/or extortion
 
@@ -122,17 +122,17 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
 
 Billing service companies may allow making purchases with very little authenticating information about the invoiced person. Ask the billing service company to remove your personal information, as is your right under GDPR regulations. Klarna is very widely used in Finland by the merchants for online purchases.
 
-You can make this request to Klarna by sending email to tietosuoja@klarna.fi or you can use a web form. For other billing service companies, consult their privacy documents and web pages.
+You can make this request to Klarna by sending email to tietosuoja@klarna.fi or you can use a [web form](https://www.klarna.com/uk/my-privacy-request-form/). For other billing service companies, consult their privacy documentation and web pages.
 
-### Prohibit passing of information from the teleoperator and prohibit changing this without a official identification (Passport or ID card)
+### Prohibit teleoperators from providing your information and prohibit changing this without an official ID (Passport or ID card)
 
 You can prohibit the operator (DNA, Telia, Elisa and others) from passing your address and other information. 
 To limit changes without official identification, you will have to visit their service point in person. 
 Contact information:
 
 Elisa: 010 190 240 weekdays 8-18 (mpm/pvm), also online through OmaElisa service.
-DNA: online at Minun Palvelu or by calling customer service at044 144 044 or using Oma DNA messages.
-Telia: Chang your information by signing into Telia services
+DNA: online at Minun Palvelu or by calling customer service at 044 144 044 or using Oma DNA messages.
+Telia: Change your information by signing into Telia services
 
 
 ### Your Right to be Forgotten from search results
