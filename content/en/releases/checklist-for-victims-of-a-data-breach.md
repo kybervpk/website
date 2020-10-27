@@ -1,5 +1,7 @@
 ---
 title: "Checklist for the victims of a data breach"
+date: 2020-10-25T21:00:00+03:00
+lastmod: 2020-10-27T15:00:00+03:00
 description: We have collected a comprehensive list of information for the victims of the Vastaamo data breach. If you have been a client of Vastaamo before March 2019 your confidential information may have been stolen. Current information about the data breach can be found at Vastaamo's web pages.
 ---
 
