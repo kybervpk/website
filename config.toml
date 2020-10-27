@@ -17,7 +17,7 @@ defaultContentLanguage = "fi"
     contentDir = "content/sv"
     languageCode = "sv-fi"
     languageName = "svenska"
-    [languages.en.params]
+    [languages.sv.params]
       linkText = "På svenska"
 
   [languages.en]
