@@ -124,7 +124,7 @@ Billing service companies may allow making purchases with very little authentica
 
 You can make this request to Klarna by sending email to tietosuoja@klarna.fi or you can use a [web form](https://www.klarna.com/uk/my-privacy-request-form/). For other billing service companies, consult their privacy documentation and web pages.
 
-### Prohibit teleoperators from providing your information and prohibit changing this without an official ID (Passport or ID card)
+### Prohibit telecom operators from providing your information and prohibit changing this without an official ID (Passport or ID card)
 
 You can prohibit the operator (DNA, Telia, Elisa and others) from passing your address and other information. 
 To limit changes without official identification, you will have to visit their service point in person. 
