@@ -12,6 +12,14 @@ defaultContentLanguage = "fi"
     [languages.fi.params]
       linkText = "Suomeksi"
 
+  [languages.sv]
+    weight = 2
+    contentDir = "content/sv"
+    languageCode = "sv-fi"
+    languageName = "svenska"
+    [languages.en.params]
+      linkText = "På svenska"
+
   [languages.en]
     weight = 3
     contentDir = "content/en"
