@@ -7,7 +7,7 @@ description: We have collected a comprehensive list of information for the victi
 
 We collected a comprehensive list of notes especially for the victims of the [Vastaamo data breach](https://yle.fi/uutiset/osasto/news/psychotherapy_centres_database_hacked_patient_info_held_ransom/11605460). If you have been a client of Vastaamo before the year 2019, your confidential information might have been stolen.
 
-Based on current knowledge, Vastaamo's client registry was breached in November 2018 and there has been a second smaller breach in 2019.
+Based on current knowledge, Vastaamo's client registry was breached in November 2018 and there has been a second smaller breach in 2019 before March 2019. According to Vastaamo, there is no indication that the whole database has been leaked in 2019 incident, but it is possible that information regarding some individuals has been copied.
 
 You can follow Vastaamo's official updates [at their website](https://vastaamo.fi/ajankohtaista/). (currently only in Finnish)
 
@@ -23,6 +23,11 @@ You can follow Vastaamo's official updates [at their website](https://vastaamo.f
 All of the above are classified as [personal information](https://tietosuoja.fi/en/what-is-personal-data). It is possible that your information has not been stolen or that only portions of it have leaked.
 
 ## If you suspect you have been a victim of the breach or you have received a personal ransom request, please follow these steps:
+
+### Take care of yourself
+
+*   Don't panic. It's possible that only some of your data has been leaked.
+*   See below under "_Where to get help under crisis?_" for a list of organizations you can talk with about your issues. You are not alone.
 
 ### Keep a diary of your actions
 
@@ -50,6 +55,12 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
 *   You can report an offence online on the [website of the Finnish Police](https://www.poliisi.fi/crimes/reporting_an_offence_online). The service is available every day from 6 to 22:45. If you are not able to do a report immediately, try again later. If you have received a ransom note, include a screenshot of it as an attachment.
 *   If you can't report an offence online, do it at your local police station.
 *   Police has instructed to not call the Emergency Response Centers.
+*   If you file a criminal complaint, you must mention the following:
+**  Word "Vastaamo"
+**  Who was the recipient of the ransom note
+**  Where information has been distributed, if you know
+**  Possible ransom request, account number, bitcoin address and whether you have paid the ransom.
+*   The Police wants to stress that you should not pay the ransom because it will not guarantee that your information is safe.
 
 ### Report the incident to National Cyber Security Centre 
 
@@ -116,11 +127,6 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
 *   [Google Personal Information Removal Request Form](https://www.google.com/webmasters/tools/legal-removal-request?complaint_type=rtbf&hl=en&rd=1)
 *   [Bing Request to Block Bing Search Results In Europe](https://www.bing.com/webmaster/tools/eu-privacy-request)
 
-
-### Take care of yourself
-
-*   Don't panic. It's possible that only some of your data has been leaked.
-*   See below under "_Where to get help under crisis?_" for a list of organizations you can talk with about your issues. You are not alone.
 
 ### Other tips
 
