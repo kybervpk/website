@@ -52,15 +52,17 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
 
 ### File a criminal complaint with the police for data leak and/or extortion
 
-*   You can report an offence online on the [website of the Finnish Police](https://www.poliisi.fi/crimes/reporting_an_offence_online). The service is available every day from 6 to 22:45. If you are not able to do a report immediately, try again later. If you have received a ransom note, include a screenshot of it as an attachment.
-*   If you can't report an offence online, do it at your local police station.
-*   Police has instructed to not call the Emergency Response Centers.
+*   You can report an offence online on the [website of the Finnish Police](https://www.poliisi.fi/crimes/reporting_an_offence_online). The service is available every day from 6:00 to 22:45. If you are unable to file a report immediately, please try again later. The police website has been under heavier load than usual and it's not necessary to file a report immediately. The investigation will still continue even if all the individuals involved are not able to file a report at once.
+*   Reporting an offence online requires identifying yourself with online banking codes, a chip enabled official ID card, or mobile verification.
+*   If you have received a ransom note, include a screenshot of it as an attachment.
+*   If you're unable to report an offence online, please visit your nearest police station.
+*   The police have instructed to not call the Emergency Response Centers.
 *   If you file a criminal complaint, you must mention the following:
 **  Word "Vastaamo"
 **  Who was the recipient of the ransom note
 **  Where information has been distributed, if you know
 **  Possible ransom request, account number, bitcoin address and whether you have paid the ransom.
-*   The Police wants to stress that you should not pay the ransom because it will not guarantee that your information is safe.
+*   The police wants to stress that you should not pay the ransom because it will not guarantee that your information is safe nor prevent misuse of the information.
 
 ### Report the incident to National Cyber Security Centre 
 
@@ -114,12 +116,6 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
 *   According to European General Data Protection Regulation (GDPR), you have the right to know what data Vastaamo has collected about you. This can help you decide what you want to do next.
 *   Contact Vastaamo with their [request for access to personal data](https://vastaamo.fi/files/rekisteritietojen_tarkastuspyynto.pdf) -form. More information about Vastaamo Data Protection is available from [their website](https://vastaamo.fi/tietosuoja/). (currently only in Finnish)
 *   Understand that it may take several weeks to get an answer.
-
-### Request a prohibition of direct marketing from Traficom and Data & Marketing Association of Finland (ASML)
-
-*   A consumer can limit phone marketing by calling Data & Marketing Association of Finland (ASML) service number 0600 13404 from Monday to Friday between 8 and 18. The service costs 0,39€ / minute + operator service charges. Queuing is free-of-charge. (Note. You can't call from abroad.)
-*   ASML does not charge any other fees from the caller. More information available from [ASML website](https://www.asml.fi/kieltopalvelut/). (currently only in Finnish)
-*   Prohibition of data disclosure from Finnish Transport and Communications Agency Traficom registries can be made from [Traficom website](https://www.traficom.fi/en/services/how-prohibit-disclosure-your-data).
 
 ### Your Right to be Forgotten from search results
 
