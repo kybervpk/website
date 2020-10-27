@@ -1,7 +1,7 @@
 ---
 title: "Checklist for the victims of a data breach"
 date: 2020-10-25T21:00:00+03:00
-lastmod: 2020-10-27T15:00:00+03:00
+lastmod: 2020-10-27T22:35:00+03:00
 description: We have collected a comprehensive list of information for the victims of the Vastaamo data breach. If you have been a client of Vastaamo before March 2019 your confidential information may have been stolen. Current information about the data breach can be found at Vastaamo's web pages.
 ---
 
@@ -75,6 +75,7 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
 
 *   This ensures that nobody can take a loan in your name. Finland has two companies maintaining credit registries: Asiakastieto and Bisnode. We recommend you request for a credit ban from both. Note that the credit ban lasts for two years at a time and you will have to renew it if you wish to continue it.
 *   Asiakastieto will charge 19,95€ for the ban. [You can request it online from Asiakastieto](https://www.asiakastieto.fi/omatieto/en/tuotteet/oma-luottokielto) (currently only in Finnish)
+*   Vastaamo promises to reimburse the victims of the data breach for the costs incurred by Asiakastieto's credit ban and the Tietovahti service, which notifies a customer of credit information inquiries. A form for the reimbursement procedure will be made available at the Vastaamo website later. For more information, check the [Vastaamo website](https://vastaamo.fi/ajankohtaista/en.html).
 *   Bisnode credit ban costs 15,95€. [You can request it online from Bisnode](https://my.bisnode.fi/protection) (currently only in Finnish)
 *   A credit ban can prevent criminals from using your personal information for frauds. Using the personal identification number and other personal information, a criminal may be able to make small purchases or open other lines of credit in your name. This voluntary credit ban does not prevent you from buying in installments or requesting other credit. You'll receive a separate certificate, which you can personally use to prove your creditworthiness despite the voluntary credit ban.
 
