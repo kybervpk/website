@@ -74,13 +74,13 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
 *   This ensures that nobody can take a loan in your name. Finland has two companies maintaining credit registries: Asiakastieto and Bisnode. We recommend you request for a credit ban from both. Note that the credit ban lasts for two years at a time and you will have to renew it if you wish to continue it.
 *   Asiakastieto will charge 19,95€ for the ban. [You can request it online from Asiakastieto](https://www.asiakastieto.fi/omatieto/en/tuotteet/oma-luottokielto) (currently only in Finnish)
 *   Bisnode credit ban costs 15,95€. [You can request it online from Bisnode](https://my.bisnode.fi/protection) (currently only in Finnish)
-*   A credit ban can prevent frauds using your personal information. Using the personal identification number and other personal information, a criminal may be able to make small purchases or open other lines of credit in your name. This voluntary credit ban does not prevent you from buying in installments or requesting other credit. You'll receive a separate certificate, which you can personally use to prove your creditworthiness despite the voluntary credit ban.
+*   A credit ban can prevent criminals from using your personal information for frauds. Using the personal identification number and other personal information, a criminal may be able to make small purchases or open other lines of credit in your name. This voluntary credit ban does not prevent you from buying in installments or requesting other credit. You'll receive a separate certificate, which you can personally use to prove your creditworthiness despite the voluntary credit ban.
 
 ### Request prohibition for address change with Posti free-of-charge
 
 *   You can prevent address changes by activating [address change protection from Posti](https://www.posti.fi/fi/asiakastuki/tiedotteet/postin-ohje-psykoterapiakeskus-vastaamon-tietomurtoon-liittyen-nain-teet). (currently only in Finnish)
 *   The ban is requested from [Posti's online customer service portal](https://www.posti.fi/omatpalvelut/feedback?lang=fi) under "Address change protection, Feedback about Mail forwarding or Nearby Mailbox."
-*   The protection prevents address changes and mail delivery suspensions as long as the protection is enabled. A criminal can't then order deliveries or invoices under your name to another address.
+*   The protection prevents address changes and mail delivery suspensions as long as the protection is enabled. A criminal can not then order deliveries or invoices under your name to another address.
 *   [Posti's hints on address changes and improving one's data security](https://www.posti.fi/fi/asiakastuki/tiedotteet/20200615_muuttoilmoitus_ja_tietoturva) (currently only in Finnish)
 
 ### Request a registration ban from Finnish Patent and Registration Office (PRH) free-of-charge
