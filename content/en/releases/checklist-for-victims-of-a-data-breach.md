@@ -58,10 +58,10 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
 *   If you're unable to report an offence online, please visit your nearest police station.
 *   The police have instructed to not call the Emergency Response Centers.
 *   If you file a criminal complaint, you must mention the following:
-**  Word "Vastaamo"
-**  Who was the recipient of the ransom note
-**  Where information has been distributed, if you know
-**  Possible ransom request, account number, bitcoin address and whether you have paid the ransom.
+    *  Word "Vastaamo"
+    *  Who was the recipient of the ransom note
+    *  Where information has been distributed, if you know
+    *  Possible ransom request, account number, bitcoin address and whether you have paid the ransom.
 *   The police wants to stress that you should not pay the ransom because it will not guarantee that your information is safe nor prevent misuse of the information.
 
 ### Report the incident to National Cyber Security Centre 
@@ -120,19 +120,19 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
 
 ### Remove your information and prohibit service usage: Klarna and similar billing services
 
-Billing service companies may allow making purchases with very little authenticating information about the invoiced person. Ask the billing service company to remove your personal information, as is your right under GDPR regulations. Klarna is very widely used in Finland by the merchants for online purchases.
+*   Billing service companies may allow making purchases with very little authenticating information about the invoiced person. Ask the billing service company to remove your personal information, as is your right under GDPR regulations. Klarna is very widely used in Finland by the merchants for online purchases.
 
-You can make this request to Klarna by sending email to tietosuoja@klarna.fi or you can use a [web form](https://www.klarna.com/uk/my-privacy-request-form/). For other billing service companies, consult their privacy documentation and web pages.
+*   You can make this request to Klarna by sending email to tietosuoja@klarna.fi or you can use a [web form](https://www.klarna.com/uk/my-privacy-request-form/). For other billing service companies, consult their privacy documentation and web pages.
 
 ### Prohibit telecom operators from providing your information and prohibit changing this without an official ID (Passport or ID card)
 
-You can prohibit the operator (DNA, Telia, Elisa and others) from passing your address and other information. 
-To limit changes without official identification, you will have to visit their service point in person. 
+*   You can prohibit the operator (DNA, Telia, Elisa and others) from passing your address and other information. 
+*   To limit changes without official identification, you will have to visit their service point in person. 
 Contact information:
 
-Elisa: 010 190 240 weekdays 8-18 (mpm/pvm), also online through OmaElisa service.
-DNA: online at Minun Palvelu or by calling customer service at 044 144 044 or using Oma DNA messages.
-Telia: Change your information by signing into Telia services
+*   Elisa: 010 190 240 weekdays 8-18 (mpm/pvm), also online through OmaElisa service.
+*   DNA: online at Minun Palvelu or by calling customer service at 044 144 044 or using Oma DNA messages.
+*   Telia: Change your information by signing into Telia services
 
 
 ### Your Right to be Forgotten from search results
