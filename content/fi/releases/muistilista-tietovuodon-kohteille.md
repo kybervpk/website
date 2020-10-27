@@ -79,6 +79,7 @@ Kaikki ylläolevat tiedot [luokitellaan henkilötiedoiksi](https://tietosuoja.fi
 ### Ota henkilökohtainen luottokielto
 
 *   Näin varmistut, että kukaan ei voi ottaa lainoja nimissäsi. Luottorekistereitä ylläpitää Suomessa kaksi eri tahoa: Asiakastieto ja Bisnode, ja suosittelemme tekemään luottokiellon molempiin. Huomioithan, että luottokielto on voimassa kaksi vuotta kerrallaan ja se pitää muistaa uusia itse. 
+*   Asiakastiedon oma luottokiellon turvamerkintä maksaa 19,95 €, ja sen voi ottaa [Asiakastiedon verkkopalvelussa](https://www.asiakastieto.fi/omatieto/fi/tuotteet/oma-luottokielto).
 *   Vastaamo lupaa hyvittää Asiakastiedon luottokiellosta ja luottotietojen kyselyistä ilmoittavasta Tietovahti-palvelusta aiheutuneet kustannukset tietomurron uhreille. Toimintaohjeet löydät [Vastaamon verkkosivuilta](https://vastaamo.fi/ajankohtaista/asiakastieto.html).
 *   Bisnoden luottokielto maksaa 15,95 €, ja sen voi ottaa [Bisnoden verkkopalvelussa](https://my.bisnode.fi/protection).
 *   Luottokielloilla voit ennaltaehkäistä henkilötietojesi väärinkäytöllä tehtäviä petoksia. Henkilötunnuksella ja muilla henkilötiedoilla rikoksen tekijä voi onnistua tekemään esimerkiksi osamaksukauppoja tai ottamaan muuta luottoa uhrin nimiin. Luottokieltojen tekemisellä voit ehkäistä näitä petoksia. Tämä omaehtoinen määräaikainen luottokielto ei estä sinua itseäsi tekemästä osamaksukauppaa tai ottamaan muuta luottoa. Saat erillisen tositteen, jolla osoitat luottokelpoisuutesi omaehtoisesta luottokiellosta huolimatta.
