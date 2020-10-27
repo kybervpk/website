@@ -133,7 +133,7 @@ Kaikki ylläolevat tiedot [luokitellaan henkilötiedoiksi](https://tietosuoja.fi
 *   Suositeltavaa on piilottaa ainakin osoitetiedot.
 *   Henkilöllisyystodistuksen vaatimiseen liittyvät muutokset voit tehdä ainoastaan operaattorin toimipisteellä henkilökohtaisesti.
 *   Yhteystiedot: 
-    * Elisa: 0600 900 70, Ark. 8-21, la 9-17 2,50 €/puhelu + 2,50 €/alkava min + mpm  
+    * Elisa: [010 190 240](tel:+35810190240) arkisin klo 8-18 (mpm/pvm), voit ottaa yhteyttä myös sähköisesti [OmaElisan kautta](https://verkkoasiointi.elisa.fi/asiakastuki)
     * DNA: muutokset voi tehdä Minun Palvelussani tai olemalla yhteydessä asiakaspalveluun puhelimitse [044 144 044](+35844144044) tai Oma DNA -sovelluksen viestipalvelun kautta.
     * Telia: Voit muuttaa tietojasi kirjautumalla [Telian palveluun](https://www.telia.fi/asiakastuki/liittymat/puhelinliittymat/numero-ja-asiakastiedot).
 
