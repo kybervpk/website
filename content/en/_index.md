@@ -18,6 +18,6 @@ Depending on the needs of the organization requesting assistance, KyberVPK can h
 
 **How do I get help:**
 
-* [Contact us](/contact/).
+* [Contact us]({{< ref "/contact" >}}).
 * We evaluate each case individually and confidentially.
 * The help we provide does not cost you or your business anything.

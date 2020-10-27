@@ -18,6 +18,6 @@ Apua pyyt채v채n organisaation tarpeista riippuen KyberVPK voi auttaa ennaltaehk�
 
 **Kuinka saan apua:**
 
-* [Ota yhteytt채](/contact/).
+* [Ota yhteytt채]({{< ref "/contact" >}}).
 * Arvioimme jokaisen tapauksen yksitellen ja luottamuksella.
 * Tarjoamamme apu ei maksa sinulle tai yrityksellesi mit채채n.
