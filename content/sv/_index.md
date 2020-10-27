@@ -18,6 +18,6 @@ Beroende på behoven hos den organisation som begär hjälp, kan KyberVPK hjälp
 
 **Hur får jag hjälp:**
 
-* [Kontakta oss](/contact/).
+* [Kontakta oss]({{< ref "/contact" >}}).
 * Vi utvärderar varje fall individuellt och konfidentiellt.
 * Hjälpen vi ger kostar inte dig eller ditt företag någonting.
