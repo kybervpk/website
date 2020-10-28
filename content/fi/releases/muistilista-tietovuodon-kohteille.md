@@ -2,12 +2,12 @@
 title: "Muistilista tietovuodon kohteille"
 description: Keräsimme kattavan listauksen ohjeita erityisesti Vastaamon tietomurron kohteille. Nykytiedon mukaan tietomurron kohteena oli Vastaamon asiakasrekisteri marraskuussa 2018. Tietomurron seurauksena asiakkaiden luottamuksellisia tietoja marraskuun loppua 2018 edeltävältä ajalta on vuotanut. On todennäköistä, että Vastaamon järjestelmään on tunkeuduttu myös marraskuun lopun 2018 ja maaliskuun 2019 välisenä aikana.
 date: 2020-10-25T21:00:00+03:00
-lastmod: 2020-10-27T22:34:00+03:00
+lastmod: 2020-10-29T00:20:00+03:00
 aliases:
   - /ajankohtaista/muistilista-tietovuodon-kohteille/
 ---
 
-Keräsimme kattavan listauksen erityisesti Vastaamon tietomurron uhreille. Muistilista on päivitetty 26.10.2020.
+Keräsimme kattavan listauksen erityisesti Vastaamon tietomurron uhreille. Muistilista on päivitetty 28.10.2020.
 
 Nykytiedon mukaan tietomurron kohteena oli Vastaamon asiakasrekisteri marraskuussa 2018. Tietomurron seurauksena asiakkaiden luottamuksellisia tietoja marraskuun loppua 2018 edeltävältä ajalta on vuotanut. On todennäköistä, että Vastaamon järjestelmään on tunkeuduttu myös marraskuun lopun 2018 ja maaliskuun 2019 välisenä aikana. Vastaamon tiedossa ei ole, että tässä yhteydessä tietokanta olisi varastettu, mutta on mahdollista, että yksittäisiä tietoja on tarkasteltu tai kopioitu tuossa aikavälissä.
 
@@ -111,7 +111,7 @@ Kaikki ylläolevat tiedot [luokitellaan henkilötiedoiksi](https://tietosuoja.fi
     4. Tee jokaiseen palveluun oma salasana.
     5. Panosta tärkeisiin salasanoihin, joita käytät unohtuneiden salasanojen palautukseen, kuten sähköpostin salasanaa.
     6. Älä koskaan kerro salasanojasi kenellekään - edes viranomaiset eivät kysy niitä sinulta!
-    7. Ota käyttöön salasananhallintaohjelma, jolloin sinun ei tarvitse muistaa salasanojasi ulkoa. Esimerkiksi suomalainen [F‑Secure ID PROTECTION](https://www.f-secure.com/fi/home/products/id-protection) tai avoimen lähdekoodin [KeePassX](https://www.keepassx.org/) ovat ohjelmia tähän tarkoitukseen.
+    7. Ota käyttöön salasananhallintaohjelma, jolloin sinun ei tarvitse muistaa salasanojasi ulkoa. Esimerkiksi suomalainen [F‑Secure ID PROTECTION](https://www.f-secure.com/fi/home/products/id-protection) tai avoimen lähdekoodin [KeePassXC](https://www.keepassxc.org/) ovat ohjelmia tähän tarkoitukseen.
     *   Lisätietoja [Kyberturvallisuuskeskuksen verkkosivuilta](https://www.kyberturvallisuuskeskus.fi/fi/ajankohtaista/ohjeet-ja-oppaat/pidempi-parempi-nain-teet-hyvan-salasanan).
 *   Ota kaksivaiheinen tunnistautuminen käyttöön kaikissa mahdollisissa palveluissa, kuten sähköposti- ja sosiaalisen median palveluissa. Pankkipalveluissa kaksivaiheinen tunnistautuminen on yleensä pakollinen. Kaksivaiheinen tunnistautuminen varmentaa henkilöllisyytesi kahta eri tunnistautumismenetelmää hyödyntäen. Voit tarkistaa palvelut, joissa kaksivaiheinen tunnistautuminen on mahdollista [Two Factor Auth -verkkosivustolta](https://twofactorauth.org/). Käytä mieluiten erillistä tunnistautumissovellusta, kuten esimerkiksi Google Authenticatoria ([Android](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=fi_FI&gl=FI), [iOS](https://apps.apple.com/fi/app/google-authenticator/id388497605)) tai [Microsoft Authenticatoria](https://www.microsoft.com/en-us/account/authenticator).
 
@@ -128,7 +128,7 @@ Kaikki ylläolevat tiedot [luokitellaan henkilötiedoiksi](https://tietosuoja.fi
 ### Poista nykyiset tiedot ja kiellä palvelun käyttö: Klarna ja vastaavat laskutuspalvelut
 
 *   Laskutuspalvelut saattavat sallia hyvin vähäisillä tiedoilla automaattisesti tuotteiden oston laskua vastaan. Pyydä laskutuspalveluja poistamaan tietosi, voit vedota tietosuoja-asetuksen unohtamisoikeuteen.
-*   Klarnalle voi tehdä pyynnön sähköpostilla osoitteeseen [tietosuoja@klarna.fi](mailto:tietosuoja@klarna.fi) tai [lomakkeella](https://www.klarna.com/fi/tietosuojapyyntoni-lomake/). Muiden laskutuspalveluiden yhteystiedot löytyvät usein heidän verkkosivuiltaan, viimeistään esim. tietosuojaselosteesta.
+*   Klarnalle voi tehdä pyynnön puhelimitse numeroon [(09) 425 99772](tel:+358942599772) (ark. 9.00-17.00). Asiakaspalvelu on poikkeuksellisesti ruuhkautunut, joten jonotusaika on normaalia pidempi. Muiden laskutuspalveluiden yhteystiedot löytyvät usein heidän verkkosivuiltaan, viimeistään esim. tietosuojaselosteesta.
 
 ### Tee osoitetietojen luovutuskielto teleoperaattoreille ja pyydä muutoskieltoa ilman henkilöllisyystodistusta
 
@@ -137,7 +137,7 @@ Kaikki ylläolevat tiedot [luokitellaan henkilötiedoiksi](https://tietosuoja.fi
 *   Henkilöllisyystodistuksen vaatimiseen liittyvät muutokset voit tehdä ainoastaan operaattorin toimipisteellä henkilökohtaisesti.
 *   Yhteystiedot: 
     * Elisa: [010 190 240](tel:+35810190240) arkisin klo 8-18 (mpm/pvm), voit ottaa yhteyttä myös sähköisesti [OmaElisan kautta](https://verkkoasiointi.elisa.fi/asiakastuki)
-    * DNA: muutokset voi tehdä Minun Palvelussani tai olemalla yhteydessä asiakaspalveluun puhelimitse [044 144 044](+35844144044) tai Oma DNA -sovelluksen viestipalvelun kautta.
+    * DNA: muutokset voi tehdä Minun Palvelussani tai olemalla yhteydessä asiakaspalveluun puhelimitse [044 144 044](tel:+35844144044) tai Oma DNA -sovelluksen viestipalvelun kautta.
     * Telia: Voit muuttaa tietojasi kirjautumalla [Telian palveluun](https://www.telia.fi/asiakastuki/liittymat/puhelinliittymat/numero-ja-asiakastiedot).
 
 ### Oikeus tulla unohdetuksi hakukoneissa

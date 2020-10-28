@@ -1,11 +1,11 @@
 ---
 title: "Checklist for the victims of a data breach"
-date: 2020-10-25T21:00:00+03:00
-lastmod: 2020-10-27T22:35:00+03:00
 description: We have collected a comprehensive list of information for the victims of the Vastaamo data breach. If you have been a client of Vastaamo before March 2019 your confidential information may have been stolen. Current information about the data breach can be found at Vastaamo's web pages.
+date: 2020-10-25T21:00:00+03:00
+lastmod: 2020-10-29T00:20:00+03:00
 ---
 
-(This is a translation of [this Finnish KyberVPK article](https://kybervpk.fi/releases/muistilista-tietovuodon-kohteille/), 26th October, 2020)
+(This is a translation of [this Finnish KyberVPK article](https://kybervpk.fi/releases/muistilista-tietovuodon-kohteille/), 28th October, 2020)
 
 We collected a comprehensive list of notes especially for the victims of the [Vastaamo data breach](https://yle.fi/uutiset/osasto/news/psychotherapy_centres_database_hacked_patient_info_held_ransom/11605460). If you have been a client of Vastaamo before the year 2019, your confidential information might have been stolen.
 
@@ -106,7 +106,7 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
     4. Use a unique password for every service.
     5. Be especially careful with important passwords, like the email account password that can be used to reset other passwords.
     6. Never reveal your passwords to anyone! Official authorities will never ask you to disclose your password!
-    7. Start using a password manager software so you won't need to remember your passwords. For example, the Finnish [F-Secure ID Protection](https://www.f-secure.com/fi/home/products/id-protection) or open source [KeePassX](https://www.keepassx.org) are solid programs for this.
+    7. Start using a password manager software so you won't need to remember your passwords. For example, the Finnish [F-Secure ID Protection](https://www.f-secure.com/fi/home/products/id-protection) or open source [KeePassXC](https://www.keepassxc.org) are solid programs for this.
     *   [More information on password security from the Finnish National Cyber Security Centre](https://www.kyberturvallisuuskeskus.fi/en/ncsc-news/instructions-and-guides/longer-better-how-create-strong-password)
 *   Start using two-factor authentication on all services, such as email or social media sites. Two-factor authentication is usually mandatory in banking services. Two-factor authentication confirms your identity using two separate methods. While SMS is possible, a special authentication app is recommended, such as Google Authenticator ([Android](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2),[iOS](https://apps.apple.com/fi/app/google-authenticator/id388497605)) or [Microsoft Authenticator](https://www.microsoft.com/en-us/account/authenticator).
 
@@ -125,7 +125,7 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
 
 *   Billing service companies may allow making purchases with very little authenticating information about the invoiced person. Ask the billing service company to remove your personal information, as is your right under GDPR regulations. Klarna is very widely used in Finland by the merchants for online purchases.
 
-*   You can make this request to Klarna by sending email to tietosuoja@klarna.fi or you can use a [web form](https://www.klarna.com/uk/my-privacy-request-form/). For other billing service companies, consult their privacy documentation and web pages.
+*   You can make this request to Klarna by calling [(09) 425 99772](tel:+358942599772) (weekdays 9.00-17.00). Their customer service is now especially busy, so the queue may be longer than usual. For other billing service companies, consult their privacy documentation and web pages.
 
 ### Prohibit telecom operators from providing your information and prohibit changing this without an official ID (Passport or ID card)
 
@@ -133,8 +133,8 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
 *   To limit changes without official identification, you will have to visit their service point in person. 
 Contact information:
 
-*   Elisa: 010 190 240 weekdays 8-18 (mpm/pvm), also online through OmaElisa service.
-*   DNA: online at Minun Palvelu or by calling customer service at 044 144 044 or using Oma DNA messages.
+*   Elisa: [010 190 240](tel:+35810190240) weekdays 8-18 (mpm/pvm), also online through OmaElisa service.
+*   DNA: online at Minun Palvelu or by calling customer service at [044 144 044](tel:+35844144044) or using Oma DNA messages.
 *   Telia: Change your information by signing into Telia services
 
 
