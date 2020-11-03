@@ -1,17 +1,15 @@
 ---
-title: "Checklist for the victims of a data breach"
+title: "Checklist for victims of a data breach"
 description: We have collected a comprehensive list of information for the victims of the Vastaamo data breach. If you have been a client of Vastaamo before March 2019 your confidential information may have been stolen. Current information about the data breach can be found at Vastaamo's web pages.
 date: 2020-10-25T21:00:00+03:00
-lastmod: 2020-10-29T00:20:00+03:00
+lastmod: 2020-11-03T23:45:00+03:00
 ---
 
-(This is a translation of [this Finnish KyberVPK article](https://kybervpk.fi/releases/muistilista-tietovuodon-kohteille/), 28th October, 2020)
-
-We collected a comprehensive list of notes especially for the victims of the [Vastaamo data breach](https://yle.fi/uutiset/osasto/news/psychotherapy_centres_database_hacked_patient_info_held_ransom/11605460). If you have been a client of Vastaamo before the year 2019, your confidential information might have been stolen.
+We have collected a comprehensive list of notes especially for victims of the [Vastaamo data breach](https://yle.fi/uutiset/osasto/news/psychotherapy_centres_database_hacked_patient_info_held_ransom/11605460). If you have been a client of Vastaamo before the year 2019, your confidential information might have been stolen. The list has been updated on 03.11.2020.
 
 Based on current knowledge, Vastaamo's client registry was breached in November 2018 and there has been a second smaller breach in 2019 before March 2019. According to Vastaamo, there is no indication that the whole database has been leaked in 2019 incident, but it is possible that information regarding some individuals has been copied.
 
-You can follow Vastaamo's official updates [at their website](https://vastaamo.fi/ajankohtaista/). (currently only in Finnish)
+You can follow Vastaamo's official updates [at their website](https://vastaamo.fi/ajankohtaista/). (in Finnish)
 
 ## The stolen data contains the following:
 
@@ -74,27 +72,27 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
 ### Request personal prohibition of automated credit
 
 *   This ensures that nobody can take a loan in your name. Finland has two companies maintaining credit registries: Asiakastieto and Bisnode. We recommend you request for a credit ban from both. Note that the credit ban lasts for two years at a time and you will have to renew it if you wish to continue it.
-*   Asiakastieto will charge 19,95€ for the ban. [You can request it online from Asiakastieto](https://www.asiakastieto.fi/omatieto/en/tuotteet/oma-luottokielto) (currently only in Finnish)
+*   Asiakastieto will charge 19,95€ for the ban. [You can request it online from Asiakastieto](https://www.asiakastieto.fi/omatieto/en/tuotteet/oma-luottokielto) (in Finnish)
 *   Vastaamo promises to reimburse the victims of the data breach for the costs incurred by Asiakastieto's credit ban and the Tietovahti service, which notifies a customer of credit information inquiries. A form for the reimbursement procedure will be made available at the Vastaamo website later. For more information, check the [Vastaamo website](https://vastaamo.fi/ajankohtaista/en.html).
-*   Bisnode credit ban costs 15,95€. [You can request it online from Bisnode](https://my.bisnode.fi/protection) (currently only in Finnish)
+*   Bisnode credit ban costs 13,95€. [You can request it online from Bisnode](https://my.bisnode.fi/protection) (in Finnish)
 *   A credit ban can prevent criminals from using your personal information for frauds. Using the personal identification number and other personal information, a criminal may be able to make small purchases or open other lines of credit in your name. This voluntary credit ban does not prevent you from buying in installments or requesting other credit. You'll receive a separate certificate, which you can personally use to prove your creditworthiness despite the voluntary credit ban.
 
 ### Request prohibition for address change with Posti free-of-charge
 
-*   You can prevent address changes by activating [address change protection from Posti](https://www.posti.fi/fi/asiakastuki/tiedotteet/postin-ohje-psykoterapiakeskus-vastaamon-tietomurtoon-liittyen-nain-teet). (currently only in Finnish)
+*   You can prevent address changes by activating [address change protection from Posti](https://www.posti.fi/fi/asiakastuki/tiedotteet/postin-ohje-psykoterapiakeskus-vastaamon-tietomurtoon-liittyen-nain-teet) (in Finnish).
 *   The ban is requested from [Posti's online customer service portal](https://www.posti.fi/omatpalvelut/feedback?lang=fi) under "Address change protection, Feedback about Mail forwarding or Nearby Mailbox."
 *   The protection prevents address changes and mail delivery suspensions as long as the protection is enabled. A criminal can not then order deliveries or invoices under your name to another address.
-*   [Posti's hints on address changes and improving one's data security](https://www.posti.fi/fi/asiakastuki/tiedotteet/20200615_muuttoilmoitus_ja_tietoturva) (currently only in Finnish)
+*   [Posti's hints on address changes and improving one's data security](https://www.posti.fi/fi/asiakastuki/tiedotteet/20200615_muuttoilmoitus_ja_tietoturva) (in Finnish).
 
 ### Request a registration ban from Finnish Patent and Registration Office (PRH) free-of-charge
 
 *   A registration ban will prevent fraud where you are registered as a responsible person for some company. When you request a registration prohibition from PRH, you can't be registered as responsible for any company or registered organization.
-*   You can request the prohibition as [instructed by the Finnish Patent and Registration Office](https://www.prh.fi/fi/kaupparekisteri/valty_huijauksilta/rekisterointikielto.html) (currently only in Finnish)
+*   You can request the prohibition as [instructed by the Finnish Patent and Registration Office](https://www.prh.fi/fi/kaupparekisteri/valty_huijauksilta/rekisterointikielto.html) (in Finnish).
 
 ### Consider prohibiting passing of your information from Finnish Population Information System
 
 *   If your information has changed after the breach, it may be a good idea to protect your current contact details. This would prevent anyone from obtaining updated information on you from the system.
-*   Finnish Digital and Population Data Services Agency: [Refuse allowing the release of your data](https://dvv.fi/tietojen-luovuttamisen-kieltaminen) (currently only in Finnish)
+*   Finnish Digital and Population Data Services Agency: [Refuse allowing the release of your data](https://dvv.fi/tietojen-luovuttamisen-kieltaminen) (in Finnish).
 
 ### Passwords and two-factor authentication
 
@@ -102,12 +100,12 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
 *   Instructions for creating strong passwords
     1. The longer your password is, the safer it is. Good minimum length is 16 characters.
     2. Use both small and capital letters combined with special and numeric characters.
-    3. Typos, dialects, spoken idioms and other "broken words" make your password stronger.
+    3. Typos, dialects, spoken idioms and other "broken words" make your password / passphrase stronger.
     4. Use a unique password for every service.
     5. Be especially careful with important passwords, like the email account password that can be used to reset other passwords.
     6. Never reveal your passwords to anyone! Official authorities will never ask you to disclose your password!
     7. Start using a password manager software so you won't need to remember your passwords. For example, the Finnish [F-Secure ID Protection](https://www.f-secure.com/fi/home/products/id-protection) or open source [KeePassXC](https://www.keepassxc.org) are solid programs for this.
-    *   [More information on password security from the Finnish National Cyber Security Centre](https://www.kyberturvallisuuskeskus.fi/en/ncsc-news/instructions-and-guides/longer-better-how-create-strong-password)
+    *   [More information on password security from the Finnish National Cyber Security Centre](https://www.kyberturvallisuuskeskus.fi/en/ncsc-news/instructions-and-guides/longer-better-how-create-strong-password).
 *   Start using two-factor authentication on all services, such as email or social media sites. Two-factor authentication is usually mandatory in banking services. Two-factor authentication confirms your identity using two separate methods. While SMS is possible, a special authentication app is recommended, such as Google Authenticator ([Android](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2),[iOS](https://apps.apple.com/fi/app/google-authenticator/id388497605)) or [Microsoft Authenticator](https://www.microsoft.com/en-us/account/authenticator).
 
 ### Check your insurance policy
@@ -117,33 +115,29 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
 ### Make a Subject Access Request to get a copy of your personal data from Vastaamo
 
 *   According to European General Data Protection Regulation (GDPR), you have the right to know what data Vastaamo has collected about you. This can help you decide what you want to do next.
-*   Contact Vastaamo with their [request for access to personal data](https://vastaamo.fi/files/rekisteritietojen_tarkastuspyynto.pdf) -form. More information about Vastaamo Data Protection is available from [their website](https://vastaamo.fi/tietosuoja/). (currently only in Finnish)
+*   Contact Vastaamo with their [request for access to personal data](https://vastaamo.fi/files/rekisteritietojen_tarkastuspyynto.pdf) -form. More information about Vastaamo Data Protection is available from [their website](https://vastaamo.fi/tietosuoja/). (in Finnish)
 *   Understand that it may take several weeks to get an answer.
 
+### Remove your information from billing services and prohibit service usage
 
-### Remove your information and prohibit service usage: Klarna and similar billing services
-
-*   Billing service companies may allow making purchases with very little authenticating information about the invoiced person. Ask the billing service company to remove your personal information, as is your right under GDPR regulations. Klarna is very widely used in Finland by the merchants for online purchases.
-
+*   Billing service companies may allow making purchases with very little authenticating information about the invoiced person. Ask the billing service company to remove your personal information, as is your right under GDPR regulations.
 *   You can make this request to Klarna by calling [(09) 425 99772](tel:+358942599772) (weekdays 9.00-17.00). Their customer service is now especially busy, so the queue may be longer than usual. For other billing service companies, consult their privacy documentation and web pages.
+*   **Update**: [Klarna has informed](https://www.klarna.com/fi/blogi/kommentti-viime-paivien-tapahtumista) (in Finnish) that they are now checking credit bans at Asiakastieto and Bisnode in real time and thus consumers do not need to apply for a separate ban for Klarna purchases.
 
 ### Prohibit telecom operators from providing your information and prohibit changing this without an official ID (Passport or ID card)
 
-*   You can prohibit the operator (DNA, Telia, Elisa and others) from passing your address and other information. 
-*   To limit changes without official identification, you will have to visit their service point in person. 
+*   You can prohibit the operator (DNA, Telia, Elisa and others) from passing your address and other information.
+*   To limit changes without official identification, you will have to visit their service point in person.
 Contact information:
-
-*   Elisa: [010 190 240](tel:+35810190240) weekdays 8-18 (mpm/pvm), also online through OmaElisa service.
-*   DNA: online at Minun Palvelu or by calling customer service at [044 144 044](tel:+35844144044) or using Oma DNA messages.
-*   Telia: Change your information by signing into Telia services
-
+    *   Elisa: [010 190 240](tel:+35810190240) weekdays 8-18, also online through [OmaElisa service](https://verkkoasiointi.elisa.fi/asiakastuki).
+    *   DNA: Online at [Minun Palvelu](https://minunpalveluni.dna.fi/kirjautuminen), by calling customer service at [044 144 044](tel:+35844144044) or using Oma DNA messages.
+    *   Telia: [020 690 400](tel:+35820690400) weekdays 8-18, or you can submit a contact request at [Telia's website](https://www.telia.fi/asiakastuki/lomakkeet/yhteydenottopyynto?form=yhteydenotto&lang=en).
 
 ### Your Right to be Forgotten from search results
 
 *   The GDPR grants you the right to request removal of certain personal information from Internet search engines.
-*   [Google Personal Information Removal Request Form](https://www.google.com/webmasters/tools/legal-removal-request?complaint_type=rtbf&hl=en&rd=1)
-*   [Bing Request to Block Bing Search Results In Europe](https://www.bing.com/webmaster/tools/eu-privacy-request)
-
+*   [Google Personal Information Removal Request Form](https://www.google.com/webmasters/tools/legal-removal-request?complaint_type=rtbf&hl=en&rd=1).
+*   [Bing Request to Block Bing Search Results In Europe](https://www.bing.com/webmaster/tools/eu-privacy-request).
 
 ### Other tips
 
@@ -157,12 +151,12 @@ Contact information:
 
 ### Vastaamo crisis phone
 
-*   Contact number: [044 4141 997](tel:+358444141997), open on Monday to Friday 21, Saturday 10 to 14, 17 to 21 and Sunday 10 to 21
+*   Contact: [044 4141 997](tel:+358444141997), weekdays 8 to 19, or email [tuki@vastaamo.fi](mailto:tuki@vastaamo.fi).
 
 ### National crisis helpline
 
-*   National Crisis Helpline in Arabic and English available Monday and Tuesday from 11 to 15, Wednesday from 13 to 16 and 17 to 21, Thursday from 10 to 15 at [09 2525 0113](tel:+358925250113)
-*   More information from [Mental Health Finland website](https://mieli.fi/en/support-and-help/support-and-help-foreigners)
+*   National Crisis Helpline in Arabic and English available Monday and Tuesday from 11 to 15, Wednesday from 13 to 16 and 17 to 21, Thursday from 10 to 15 at [09 2525 0113](tel:+358925250113).
+*   More information from [Mental Health Finland website](https://mieli.fi/en/support-and-help/support-and-help-foreigners).
 
 ### Church conversational help
 
@@ -181,7 +175,7 @@ Contact information:
 ### The Finnish Red Cross
 
 *   Finnish Red Cross (FRC) crisis helpline at [0800 100 200](tel:+358800100200) from 9 to 21.
-*   More information from [FRC announcement](https://www.punainenristi.fi/uutiset/20201025/punainen-risti-avaa-auttavan-puhelimen-vastaamon-asiakkaiden-tueksi). (currently only in Finnish)
+*   More information from [FRC announcement](https://www.punainenristi.fi/uutiset/20201025/punainen-risti-avaa-auttavan-puhelimen-vastaamon-asiakkaiden-tueksi) (in Finnish).
 
 ### City of Helsinki provides help for residents around the clock
 
@@ -192,14 +186,14 @@ Contact information:
 
 ### Questions and answers to the victims of the data breach
 
-*   [Vastaamo announcements](https://vastaamo.fi/ajankohtaista/). (currently only in Finnish)
+*   [Vastaamo announcements](https://vastaamo.fi/ajankohtaista/) (in Finnish).
 *   [Questions and Answers page of Finnish National Cyber Security Center](https://www.kyberturvallisuuskeskus.fi/en/news/questions-and-answers-victim-identity-theft-or-data-leak).
 
 ## Additional Reading
 
-*   [Office of the Data Protection Ombudsman](https://tietosuoja.fi/jos-joudut-tietoturvaloukkauksen-kohteeksi). (currently only in Finnish)
+*   [Office of the Data Protection Ombudsman](https://tietosuoja.fi/jos-joudut-tietoturvaloukkauksen-kohteeksi) (in Finnish).
 *   [Victim Support Finland instructions](https://www.riku.fi/en/what-to-do-if-your-personal-data-has-been-leaked-online/).
-*   [Instructions from the Confederation of Finnish Industries](https://ek.fi/ajankohtaista/uutiset/tietovuodon-kohteeksi-joutuneen-muistilista/). (currently only in Finnish)
+*   [Instructions from the Confederation of Finnish Industries](https://ek.fi/ajankohtaista/uutiset/tietovuodon-kohteeksi-joutuneen-muistilista/) (in Finnish).
 
 If you have any information that could help the Police investigation, you can send them a tip online. Understand that this Net Tip is not for reporting criminal offences! You can give the tip at the [Police website](https://www.poliisi.fi/nettip).
 
@@ -207,4 +201,4 @@ This document has been created in co-operation with the [Finnish Police](https:/
 
 Are we missing something? Any comments? Don't hesitate to contact us at [media@kybervpk.fi](mailto:media@kybervpk.fi)
 
-_Article will be updated as necessary_
+_The article will be updated as necessary._
