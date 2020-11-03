@@ -2,7 +2,7 @@
 title: "Minneslista till offer för dataläckage"
 description: Vi har samlat en omfattande lista speciellt med tanke på offren för dataintrånget mot Psykoterapicentret Vastaamo. Enligt tillgänglig information riktades dataintrånget i november 2018 mot Vastaamos kundregister. Som en följd av dataintrånget har konfidentiella uppgifter om kunder läckt från tiden före november 2018. Det är sannolikt att Vastaamos datasystem har infiltrerats också mellan slutet av november 2018 och mars 2019.
 date: 2020-10-25T21:00:00+03:00
-lastmod: 2020-11-03T22:45:00+03:00
+lastmod: 2020-11-03T23:45:00+03:00
 ---
 
 Vi har samlat en omfattande lista speciellt med tanke på offren för dataintrånget mot Psykoterapicentret Vastaamo. Minneslistan har uppdaterats 03.11.2020.
@@ -11,7 +11,7 @@ Enligt tillgänglig information riktades dataintrånget i november 2018 mot Vast
 
 Information som Vastaamo har gett ut kan du följa på [deras webbsida](https://vastaamo.fi/ajankohtaista/) (på finska).
 
-## Information som antagligen har läckts: 
+## Information som antagligen har läckts:
 
 *   För- och efternamn
 *   Adress (gatuadress, postnummer, stad, land)
@@ -57,12 +57,12 @@ All information som nämnts ovan klassificeras som [personuppgifter](https://tie
 
 ### Gör en brottsanmälan om informationsläckaget och/eller utpressningen
 
-*   [Centralkriminalpolisens meddelande](https://www.poliisi.fi/centralkriminalpolisen/meddelande/1/0/anvisningar_om_hur_brottsanmalan_ska_lamnas_till_polisen_da_dina_personuppgifter_har_delats_pa_natet_med_anledning_av_dataintranget_mot_vastaamo_eller_da_du_har_fatt_ett_utpressningsbrev_94189)
+*   [Centralkriminalpolisens meddelande](https://www.poliisi.fi/centralkriminalpolisen/meddelande/1/0/anvisningar_om_hur_brottsanmalan_ska_lamnas_till_polisen_da_dina_personuppgifter_har_delats_pa_natet_med_anledning_av_dataintranget_mot_vastaamo_eller_da_du_har_fatt_ett_utpressningsbrev_94189).
 *   Du kan göra en elektronisk brottsanmälan på [polisens webbplats](https://www.poliisi.fi/brott/elektronisk_brottsanmalan). Tjänsten kan användas varje dag mellan kl 06:00 till kl 22:45. Om du inte kommer åt att göra brottsanmälan direkt så försök senare på nytt. Polisens webbtjänst har varit långsam och belastad på grund av det stora antalet besökare. Det är inte nödvändigt att göra brottsanmälan direkt. Brottsutredningen är påbörjad och fortsätter oberoende av när du gör en brottsanmälan. Bli inte orolig om du inte kan anmäla brotten direkt.
 *   Att göra en brottsanmälan kräver att du identifierar dig som privatperson. Blanketten handleder med att uppge nödvändiga uppgifter. Dataintrånget mot Vastaamo går under kategorin “Övriga brott - Annat brott” och händelseplatsen är “Internet”.
 *   Om du har fått ett utpressningsmeddelande, ska du bifoga en skärmdump av meddelandet till anmälan.
 *   Om du inte kan göra en brottsanmälan på internet, kan du göra den vid den lokala polisinrättningen.
-*   Polisen uppmanar att låta bli att ringa till nödcentralen
+*   Polisen uppmanar att låta bli att ringa till nödcentralen.
 *   Polisen betonar och uppmanar att ange följande uppgifter i brottsanmälan:
     *   Ordet Vastaamo.
     *   Namn på den person som utpressningsmeddelandet hade adresserats till.
@@ -109,7 +109,7 @@ All information som nämnts ovan klassificeras som [personuppgifter](https://tie
     2. Använd stora och små bokstäver och specialtecken.
     3. Skriv- och stavfel, slang- och dialektuttryck i en lösenfras och förvrängningar av ord ger ett starkare lösenord/en starkare lösenordsfras.
     4. Skapa ett skilt lösenord för varje tjänst.
-    5. Vissa tjänster är särskilt viktiga att ha starka lösenord till, t.ex. e-posttadressen du använder för att återställa glömda lösenord. 
+    5. Vissa tjänster är särskilt viktiga att ha starka lösenord till, t.ex. e-posttadressen du använder för att återställa glömda lösenord.
     6. Avslöja aldrig dina lösenord för någon. Inte ens myndigheter frågar om dina lösenord!
     7. Ta i bruk en lösenordshanterare så att du inte behöver komma ihåg alla dina lösenord. Exempelvis den finska [F-Secure ID PROTECTION](https://www.f-secure.com/se-sv/home/products/id-protection), eller öppenkällkodslösningen [KeePassXC](https://www.keepassxc.org/).
     *   Mera information angående lösenord finner du på [Cybersäkerhetscentrets webbplats](https://www.kyberturvallisuuskeskus.fi/sv/aktuellt/anvisningar-och-guider/ju-langre-desto-battre-sa-har-skapar-du-ett-bra-losenord).
@@ -125,11 +125,11 @@ All information som nämnts ovan klassificeras som [personuppgifter](https://tie
 *   Vastaamo med en [blankett för begäran om insyn (pdf)](https://vastaamo.fi/files/rekisteritietojen_tarkastuspyynto.pdf) (på finska) via Vastaamos webbplats. Tilläggsinformation angående Vastaamos dataskydd når du via [Vastaamos webbplats](https://vastaamo.fi/tietosuoja/) (på finska).
 *   Observera att svaret kan dröja flera veckor.
 
-### Be företag radera uppgifter om dig och förbjud användning av tjänsten: Klarna och motsvarande faktureringstjänster
+### Be faktureringstjänster radera uppgifter om dig och förbjud användning av tjänsten
 
-*   Faktureringstjänster, till exempel Klarna, kan tillåta köp av produkter mot faktura utifrån mycket få uppgifter. Genom att åberopa rätten att bli bortglömd i enlighet med dataskyddsförordningen kan du be faktureringstjänsten radera uppgifterna om dig.
-*   Du kan be Klarna radera dina uppgifter genom att ringa [(09) 425 99772](tel:+358942599772) (vardagar kl. 9.00-17.00).
-Kontaktuppgifter för olika faktureringstjänster finns ofta på tjänsternas webbplatser, till exempel i dataskyddsbeskrivningen.
+*   Faktureringstjänster kan tillåta köp av produkter mot faktura utifrån mycket få uppgifter. Genom att åberopa rätten att bli bortglömd i enlighet med dataskyddsförordningen kan du be faktureringstjänsten radera uppgifterna om dig.
+*   Kontaktuppgifter för olika faktureringstjänster finns ofta på tjänsternas webbplatser, till exempel i dataskyddsbeskrivningen.
+*   **Uppdatering:** [Klarna meddelar](https://www.klarna.com/fi/blogi/kommentti-viime-paivien-tapahtumista) (på finska) att de nu kontrollerar kreditförbud hos Asiakastieto och Bisnode i realtid och således behöver konsumenterna inte ansöka om ett separat kreditförbud för Klarna-inköp.
 
 ### Ansök om förbud att lämna ut adressuppgifter hos din teleoperatör och begär ändringsförbud utan identitetsbevis
 
@@ -137,15 +137,15 @@ Kontaktuppgifter för olika faktureringstjänster finns ofta på tjänsternas we
 *   Det är bra att be operatören dölja åtminstone adressuppgifterna.
 *   Ändringar som gäller kravet att visa identitetsbevis kan du göra endast genom att personligen besöka operatörens serviceställe.
 *   Kontaktuppgifter:
-    *   Elisa: [010 190 240](tel:+35810190240) vardagar kl. 8-18, eller elektronisk via [OmaElisa](https://verkkoasiointi.elisa.fi/asiakastuki)
-    *   DNA: Förändringar kan du göra i tjänsten [Minun Palveluni](https://minunpalveluni.dna.fi) (på finska), genom att ringa kundtjänsten på nummer [044 144 044](tel:+35844144044) eller genom meddelandetjänsten i Oma DNA-appen
+    *   Elisa: [010 190 240](tel:+35810190240) vardagar kl. 8-18, eller elektronisk via [OmaElisa](https://verkkoasiointi.elisa.fi/asiakastuki).
+    *   DNA: Förändringar kan du göra i tjänsten [Minun Palveluni](https://minunpalveluni.dna.fi) (på finska), genom att ringa kundtjänsten på nummer [044 144 044](tel:+35844144044) eller genom meddelandetjänsten i Oma DNA-appen.
     *   Telia: [020 690 400](tel:+35820690400) vardagar kl. 8-18, eller du kan lämna en kontaktbegäran via [Telias webbsida](https://www.telia.fi/asiakastuki/lomakkeet/yhteydenottopyynto?form=yhteydenotto&lang=sv).
 
 ### Be söktjänster radera personuppgifterna om dig från sökmotorer
 
 *   På basen av integritetsskyddet kan du ha rätt att be Google och Bing radera vissa personuppgifter om dig från sina sökmotorer.
-*   [Googles formulär för begäran om borttagning av personliga uppgifter](https://www.google.com/webmasters/tools/legal-removal-request?complaint_type=rtbf&hl=fi&rd=1)
-*   [Bings formulär](https://www.bing.com/webmaster/tools/eu-privacy-request)
+*   [Googles formulär för begäran om borttagning av personliga uppgifter](https://www.google.com/webmasters/tools/legal-removal-request?complaint_type=rtbf&hl=fi&rd=1).
+*   [Bings formulär](https://www.bing.com/webmaster/tools/eu-privacy-request).
 
 ### Andra tips
 
@@ -156,7 +156,7 @@ Kontaktuppgifter för olika faktureringstjänster finns ofta på tjänsternas we
 *   Om du mottar ett rekommenderat brev, kontrollera först att du känner igen avsändaren innan du kvitterar försändelsen. Avsändaren kan vara en brottsling som vill kontrollera att din adress är giltig.
 
 ## Vem och vilka kan ge hjälp?
- 
+
 ### Vastaamos kristelefon
 
 *   Kontaktuppgifter: [044 4141 997](tel:+358444141997), vardagar kl. 8-19, eller email [tuki@vastaamo.fi](mailto:tuki@vastaamo.fi).
@@ -184,7 +184,7 @@ Kontaktuppgifter för olika faktureringstjänster finns ofta på tjänsternas we
 
 ### Röda Korset
 
-*   Röda Korsets krisjour på nummer [0800 100 200](tel:+358800100200), kl. 9-21 (på finska)
+*   Röda Korsets krisjour på nummer [0800 100 200](tel:+358800100200), kl. 9-21 (på finska).
 *   Mera information i [SPRs meddelande](https://www.punainenristi.fi/uutiset/20201025/punainen-risti-avaa-auttavan-puhelimen-vastaamon-asiakkaiden-tueksi) (på finska).
 
 ### Helsingfors stads social- och hälsovårdssektor bjuder hjälp åt helsingforsbor vid behov dygnet runt
@@ -196,16 +196,16 @@ Kontaktuppgifter för olika faktureringstjänster finns ofta på tjänsternas we
 ### Invånare i Västra Nylands kommuner kan få hjälp från kommunernas social- och krisjour
 
 *   Krisjouren, [09 816 42439](tel:+358981642439).
-*   Tjänsten är avsedd för invånare i Esbo, Hangö, Ingå, Högfors, Grankulla, Kyrkslätt, Lojo, Raseborg, Sjundeå och Vichtis kommuner och vistande i dessa kommuner
+*   Tjänsten är avsedd för invånare i Esbo, Hangö, Ingå, Högfors, Grankulla, Kyrkslätt, Lojo, Raseborg, Sjundeå och Vichtis kommuner och vistande i dessa kommuner.
 
 ### Konsumentförbundets öppna rådgivning för konsumenter och patienter
 
-*   Juridisk rådgivning må-fr kl. 9-12 och 13-16, [09 454 22150](tel:+358945422150) (på finska)
-*   Mera information på [Konsumentförbundets webbplats](https://www.kuluttajaliitto.fi/edunvalvonta/ajankohtaista/tiedote-vastaamon-tietosuojamurron-uhreille-kuluttajaliiton-lakineuvontaa/) (på finska)
+*   Juridisk rådgivning må-fr kl. 9-12 och 13-16, [09 454 22150](tel:+358945422150) (på finska).
+*   Mera information på [Konsumentförbundets webbplats](https://www.kuluttajaliitto.fi/edunvalvonta/ajankohtaista/tiedote-vastaamon-tietosuojamurron-uhreille-kuluttajaliiton-lakineuvontaa/) (på finska).
 
 ### Bekanta dig också med krisjouren i din egen kommun
 
-*   Kolla tillgängligheten till din egen kommuns krisjour på t.ex. din hemkommuns webbplats
+*   Kolla tillgängligheten till din egen kommuns krisjour på t.ex. din hemkommuns webbplats.
 
 ### Frågor och svar till offer
 
