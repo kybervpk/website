@@ -1,7 +1,6 @@
 ---
 title: "Kontakta oss"
 weight: 100
-hidden: false
 menu: "main"
 ---
 Begäran om hjälp och allmän kontakt: contact@kybervpk.fi
