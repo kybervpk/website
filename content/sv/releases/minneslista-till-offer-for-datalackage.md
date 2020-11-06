@@ -2,7 +2,7 @@
 title: "Minneslista till offer för dataläckage"
 description: Vi har samlat en omfattande lista speciellt med tanke på offren för dataintrånget mot Psykoterapicentret Vastaamo. Enligt tillgänglig information riktades dataintrånget i november 2018 mot Vastaamos kundregister. Som en följd av dataintrånget har konfidentiella uppgifter om kunder läckt från tiden före november 2018. Det är sannolikt att Vastaamos datasystem har infiltrerats också mellan slutet av november 2018 och mars 2019.
 date: 2020-10-25T21:00:00+03:00
-lastmod: 2020-11-06T21:00:00+03:00
+lastmod: 2020-11-06T21:45:00+03:00
 ---
 
 Vi har samlat en omfattande lista speciellt med tanke på offren för dataintrånget mot Psykoterapicentret Vastaamo. Minneslistan har uppdaterats 03.11.2020.
@@ -150,7 +150,7 @@ All information som nämnts ovan klassificeras som [personuppgifter](https://tie
 ### Andra tips
 
 *   Har din arbetsepostadress läckts istället för din personliga e-postadress? Kontakta din arbetsgivare, t.ex. personalchefen. I bästa fall får du stöd från din arbetsgivare i denna tråkiga situation.
-*   Överväg behovet av spärrmarkering. En spärrmarkering kan sökas av en person som har grundad och uppenbar anledning att misstänka att deras eller familjens hälsa eller säkerhet är hotad. Sådana kan vara till exempel situationer där ett vittne behöver skyddas, situationer av intim våld eller situationer där en person har ett sådant yrke att de regelbundet utsätts för allvarligt hot om fysiskt våld. Du kan överväga behovet av spärrmarkering med t.ex. polisen.
+*   Överväg behovet av [spärrmarkering](https://dvv.fi/sv/sparrmarkering). En spärrmarkering kan sökas av en person som har grundad och uppenbar anledning att misstänka att deras eller familjens hälsa eller säkerhet är hotad. Sådana kan vara till exempel situationer där ett vittne behöver skyddas, situationer av intim våld eller situationer där en person har ett sådant yrke att de regelbundet utsätts för allvarligt hot om fysiskt våld. Du kan överväga behovet av spärrmarkering med t.ex. polisen.
 *   Kontrollera aktivt ditt elektroniskt fotspår i framtiden. Du kan ta i bruk [Have I been pwned?](https://haveibeenpwned.com/) -tjänsten, som informerar dig om din e-postaddress iakttas i samband med ett dataläckage. Tjänsten underhålls av cybersäkerhetsexperten Troy Hunt. Alternativt kan du ta i bruk den inhemska [F-Secures svenskspråkiga tjänste](https://www.f-secure.com/se-sv/home/free-tools/identity-theft-checker) eller kolla den inhemska [Badrap.io](https://badrap.io/) -tjänsten.
 *   Du kan också ta i bruk tjänsten Google Alerts ([finsk](https://www.google.fi/alerts) / [svensk](https://www.google.se/alerts)) för ditt eget namn. Tjänsten skickar ett e-postmeddelande ifall det sökord du valt förekommer i Googles sökresultat. Relevanta sökord kan vara t.ex. ditt telefonnummer, namn och e-postadress.
 *   Om du mottar ett rekommenderat brev, kontrollera först att du känner igen avsändaren innan du kvitterar försändelsen. Avsändaren kan vara en brottsling som vill kontrollera att din adress är giltig.
