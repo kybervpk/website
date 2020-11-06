@@ -27,8 +27,8 @@ All information som nämnts ovan klassificeras som [personuppgifter](https://tie
 ### Ta hand om dig själv
 
 *   Bli inte orolig. Det är inte sagt att alla ovannämnda uppgifter läckt ut om just dig.
-*   Se en förteckning över organisationer som ger hjälp i sådana här situationer under under [Vem och vilka kan ge hjälp?](#vem-och-vilka-kan-ge-hjälp) Du är inte ensam med den här tråkiga händelsen.
-*   Du är inte ensam. Be dina närstående om hjälp och stöd. Det också finns kamratstöd på internet, t.ex. [Facebook](https://www.facebook.com/groups/1157856877945684/) (på finska).
+*   Se en förteckning över organisationer som ger hjälp i sådana här situationer under [Vem och vilka kan ge hjälp?](#vem-och-vilka-kan-ge-hjälp)
+*   Du är inte ensam med den här tråkiga händelsen. Be dina närstående om hjälp och stöd. Det också finns kamratstöd på internet, t.ex. [Facebook](https://www.facebook.com/groups/1157856877945684/) (på finska).
 
 ### För dagbok över de åtgärder du vidtagit
 
