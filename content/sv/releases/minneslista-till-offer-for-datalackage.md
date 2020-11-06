@@ -2,7 +2,7 @@
 title: "Minneslista till offer för dataläckage"
 description: Vi har samlat en omfattande lista speciellt med tanke på offren för dataintrånget mot Psykoterapicentret Vastaamo. Enligt tillgänglig information riktades dataintrånget i november 2018 mot Vastaamos kundregister. Som en följd av dataintrånget har konfidentiella uppgifter om kunder läckt från tiden före november 2018. Det är sannolikt att Vastaamos datasystem har infiltrerats också mellan slutet av november 2018 och mars 2019.
 date: 2020-10-25T21:00:00+03:00
-lastmod: 2020-11-03T23:45:00+03:00
+lastmod: 2020-11-06T21:45:00+03:00
 ---
 
 Vi har samlat en omfattande lista speciellt med tanke på offren för dataintrånget mot Psykoterapicentret Vastaamo. Minneslistan har uppdaterats 03.11.2020.
@@ -26,9 +26,9 @@ All information som nämnts ovan klassificeras som [personuppgifter](https://tie
 
 ### Ta hand om dig själv
 
-*   Bli inte orolig. Det är inte sagtatt alla ovannämnda uppgifter läckt ut om just dig.
-*   Se en förteckning över organisationer som ger hjälp i sådana här situationer under under [Vem och vilka kan ge hjälp?](#vem-och-vilka-kan-ge-hjälp) Du är inte ensam med den här tråkiga händelsen.
-*   Du är inte ensam. Be dina närstående om hjälp och stöd. Det också finns kamratstöd på internet, t.ex. [Facebook](https://www.facebook.com/groups/1157856877945684/) (på finska).
+*   Bli inte orolig. Det är inte sagt att alla ovannämnda uppgifter läckt ut om just dig.
+*   Se en förteckning över organisationer som ger hjälp i sådana här situationer under [Vem och vilka kan ge hjälp?](#vem-och-vilka-kan-ge-hjälp)
+*   Du är inte ensam med den här tråkiga händelsen. Be dina närstående om hjälp och stöd. Det också finns kamratstöd på internet, t.ex. [Facebook](https://www.facebook.com/groups/1157856877945684/) (på finska).
 
 ### För dagbok över de åtgärder du vidtagit
 
@@ -41,12 +41,12 @@ All information som nämnts ovan klassificeras som [personuppgifter](https://tie
 
 *   Om du har fått ett utpressningsmeddelande, ta skärmdump och spara den på din dator med tanke på utredningen. Spara också själva meddelandet.
 *   Skärmdumpar är viktigat bevis för myndigheterna. Skärmdumpen skall också innehålla avsändarens adress.
-*   Så här tar du en skärmbild i Windows 10: [Microsofts instruktioner](https://support.microsoft.com/sv-se/windows/%C3%B6ppna-sk%C3%A4rmklippverktyget-och-ta-en-sk%C3%A4rmbild-a35ac9ff-4a58-24c9-3253-f12bac9f9d44).
-*   Så här tar du en skärmbild i macOS: [Apples instruktioner](https://support.apple.com/sv-se/HT201361).
+*   Så här tar du en skärmdump i Windows 10: [Microsofts instruktioner](https://support.microsoft.com/sv-se/windows/%C3%B6ppna-sk%C3%A4rmklippverktyget-och-ta-en-sk%C3%A4rmbild-a35ac9ff-4a58-24c9-3253-f12bac9f9d44).
+*   Så här tar du en skärmdump i macOS: [Apples instruktioner](https://support.apple.com/sv-se/HT201361).
 *   Du kan också spara e-postmeddelandet som en PDF-fil.
     *   Instruktioner för Microsoft Office på [Microsofts webbplats](https://support.microsoft.com/sv-se/office/spara-eller-konvertera-till-pdf-eller-xps-i-project-skrivbordsversion-d85416c5-7d77-4fd6-a216-6f4bf7c7c110?ui=sv-se&rs=sv-se&ad=se).
     *   Instruktioner för macOS på [Apples webbplats](https://support.apple.com/sv-se/HT201361).
-*   Se til latt skärmdumpar och PDF-filer innehåller tidsstämpeln, dvs. när e-postmeddelandet har anlänt.
+*   Se till att skärmdumpar och PDF-filer innehåller tidsstämpeln, dvs. när e-postmeddelandet har anlänt.
 *   Du kan också ta ett foto av skärmen med din telefon. Se till att bildkvaliteten är så bra, att texten är läsbar.
 *   Spara kvitton över alla kostnader, t.ex. kreditförbudsservicen.
 
@@ -109,7 +109,7 @@ All information som nämnts ovan klassificeras som [personuppgifter](https://tie
     2. Använd stora och små bokstäver och specialtecken.
     3. Skriv- och stavfel, slang- och dialektuttryck i en lösenfras och förvrängningar av ord ger ett starkare lösenord/en starkare lösenordsfras.
     4. Skapa ett skilt lösenord för varje tjänst.
-    5. Vissa tjänster är särskilt viktiga att ha starka lösenord till, t.ex. e-posttadressen du använder för att återställa glömda lösenord.
+    5. Vissa tjänster är särskilt viktiga att ha starka lösenord till, t.ex. e-postadressen du använder för att återställa glömda lösenord.
     6. Avslöja aldrig dina lösenord för någon. Inte ens myndigheter frågar om dina lösenord!
     7. Ta i bruk en lösenordshanterare så att du inte behöver komma ihåg alla dina lösenord. Exempelvis den finska [F-Secure ID PROTECTION](https://www.f-secure.com/se-sv/home/products/id-protection), eller öppenkällkodslösningen [KeePassXC](https://www.keepassxc.org/).
     *   Mera information angående lösenord finner du på [Cybersäkerhetscentrets webbplats](https://www.kyberturvallisuuskeskus.fi/sv/aktuellt/anvisningar-och-guider/ju-langre-desto-battre-sa-har-skapar-du-ett-bra-losenord).
@@ -122,7 +122,7 @@ All information som nämnts ovan klassificeras som [personuppgifter](https://tie
 ### Skicka en begäran om tillgång till de uppgifter Vastaamo lagrat om dig
 
 *   Enligt dataskyddsförordningen har du rätt att få information om vilka uppgifter Vastaamo har lagrat om dig.
-*   Vastaamo med en [blankett för begäran om insyn (pdf)](https://vastaamo.fi/files/rekisteritietojen_tarkastuspyynto.pdf) (på finska) via Vastaamos webbplats. Tilläggsinformation angående Vastaamos dataskydd når du via [Vastaamos webbplats](https://vastaamo.fi/tietosuoja/) (på finska).
+*   Kontakta Vastaamo med en [blankett för begäran om insyn (pdf)](https://vastaamo.fi/files/rekisteritietojen_tarkastuspyynto.pdf) (på finska) via Vastaamos webbplats. Tilläggsinformation angående Vastaamos dataskydd når du via [Vastaamos webbplats](https://vastaamo.fi/tietosuoja/) (på finska).
 *   Observera att svaret kan dröja flera veckor.
 
 ### Be faktureringstjänster radera uppgifter om dig och förbjud användning av tjänsten
@@ -150,7 +150,7 @@ All information som nämnts ovan klassificeras som [personuppgifter](https://tie
 ### Andra tips
 
 *   Har din arbetsepostadress läckts istället för din personliga e-postadress? Kontakta din arbetsgivare, t.ex. personalchefen. I bästa fall får du stöd från din arbetsgivare i denna tråkiga situation.
-*   Överväg behovet av spärrmarkering. En spärrmarkering kan sökas av en person som har grundad och uppenbar anledning att misstänka att deras eller familjens hälsa eller säkerhet är hotad. Sådana kan vara till exempel situationer där ett vittne behöver skyddas, situationer av intim våld eller situationer där en person har ett sådant yrke att han eller hon regelbundet utsätts för allvarligt hot om fysiskt våld. Du kan överväga behovet av spärrmarkering med t.ex. polisen.
+*   Överväg behovet av [spärrmarkering](https://dvv.fi/sv/sparrmarkering). En spärrmarkering kan sökas av en person som har grundad och uppenbar anledning att misstänka att deras eller familjens hälsa eller säkerhet är hotad. Sådana kan vara till exempel situationer där ett vittne behöver skyddas, situationer av intim våld eller situationer där en person har ett sådant yrke att de regelbundet utsätts för allvarligt hot om fysiskt våld. Du kan överväga behovet av spärrmarkering med t.ex. polisen.
 *   Kontrollera aktivt ditt elektroniskt fotspår i framtiden. Du kan ta i bruk [Have I been pwned?](https://haveibeenpwned.com/) -tjänsten, som informerar dig om din e-postaddress iakttas i samband med ett dataläckage. Tjänsten underhålls av cybersäkerhetsexperten Troy Hunt. Alternativt kan du ta i bruk den inhemska [F-Secures svenskspråkiga tjänste](https://www.f-secure.com/se-sv/home/free-tools/identity-theft-checker) eller kolla den inhemska [Badrap.io](https://badrap.io/) -tjänsten.
 *   Du kan också ta i bruk tjänsten Google Alerts ([finsk](https://www.google.fi/alerts) / [svensk](https://www.google.se/alerts)) för ditt eget namn. Tjänsten skickar ett e-postmeddelande ifall det sökord du valt förekommer i Googles sökresultat. Relevanta sökord kan vara t.ex. ditt telefonnummer, namn och e-postadress.
 *   Om du mottar ett rekommenderat brev, kontrollera först att du känner igen avsändaren innan du kvitterar försändelsen. Avsändaren kan vara en brottsling som vill kontrollera att din adress är giltig.

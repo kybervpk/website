@@ -2,7 +2,7 @@
 title: "Muistilista tietovuodon kohteille"
 description: Keräsimme kattavan listauksen ohjeita erityisesti Vastaamon tietomurron uhreille. Nykytiedon mukaan tietomurron kohteena oli Vastaamon asiakasrekisteri marraskuussa 2018. Tietomurron seurauksena asiakkaiden luottamuksellisia tietoja marraskuun loppua 2018 edeltävältä ajalta on vuotanut. On todennäköistä, että Vastaamon järjestelmään on tunkeuduttu myös marraskuun lopun 2018 ja maaliskuun 2019 välisenä aikana.
 date: 2020-10-25T21:00:00+03:00
-lastmod: 2020-11-03T23:45:00+03:00
+lastmod: 2020-11-06T21:10:00+03:00
 aliases:
   - /ajankohtaista/muistilista-tietovuodon-kohteille/
 ---
@@ -29,7 +29,7 @@ Kaikki ylläolevat tiedot [luokitellaan henkilötiedoiksi](https://tietosuoja.fi
 ### Pidä huolta itsestäsi
 
 *   Älä hätäänny. Välttämättä juuri sinusta ei ole vuotanut kaikkia yllä mainittuja henkilötietoja.  
-*   Katso otsikon [Mistä saat apua henkiseen kriisinkestävyyteen](#mistä-saat-apua-henkiseen-kriisinkestävyyteen) alta listaus tahoista, joiden kanssa voit keskustella asioista. Et ole yksin tämän ikävän asian kanssa.
+*   Katso otsikon [Mistä saat apua henkiseen kriisinkestävyyteen](#mistä-saat-apua-henkiseen-kriisinkestävyyteen) alta listaus tahoista, joiden kanssa voit keskustella asioista.
 *   Et ole yksin tämän ikävän asian kanssa, pyydä rohkeasti apua myös omalta lähipiiriltäsi. Myös verkosta löytyy vertaistukiryhmiä esim. [Facebookista](https://www.facebook.com/groups/1157856877945684/).
 
 ### Pidä yllä päiväkirjaa tekemistä toimistasi

@@ -2,14 +2,14 @@
 title: "Checklist for victims of a data breach"
 description: We have collected a comprehensive list of information for the victims of the Vastaamo data breach. If you have been a client of Vastaamo before March 2019 your confidential information may have been stolen. Current information about the data breach can be found at Vastaamo's web pages.
 date: 2020-10-25T21:00:00+03:00
-lastmod: 2020-11-03T23:45:00+03:00
+lastmod: 2020-11-06T22:00:00+03:00
 ---
 
-We have collected a comprehensive list of notes especially for victims of the [Vastaamo data breach](https://yle.fi/uutiset/osasto/news/psychotherapy_centres_database_hacked_patient_info_held_ransom/11605460). If you have been a client of Vastaamo before the year 2019, your confidential information might have been stolen. The list has been updated on 03.11.2020.
+We have collected a comprehensive list of notes especially for victims of the [Vastaamo data breach](https://yle.fi/uutiset/osasto/news/psychotherapy_centres_database_hacked_patient_info_held_ransom/11605460). If you have been a client of Vastaamo before the year 2019, your confidential information might have been stolen. The list has been updated on 06.11.2020.
 
 Based on current knowledge, Vastaamo's client registry was breached in November 2018 and there has been a second smaller breach in 2019 before March 2019. According to Vastaamo, there is no indication that the whole database has been leaked in 2019 incident, but it is possible that information regarding some individuals has been copied.
 
-You can follow Vastaamo's official updates [at their website](https://vastaamo.fi/ajankohtaista/). (in Finnish)
+You can follow Vastaamo's official updates [at their website](https://vastaamo.fi/ajankohtaista/en.html).
 
 ## The stolen data contains the following:
 
@@ -27,7 +27,8 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
 ### Take care of yourself
 
 *   Don't panic. It's possible that only some of your data has been leaked.
-*   See below under "_Where to get help under crisis?_" for a list of organizations you can talk with about your issues. You are not alone.
+*   See below under [Where to get help under crisis?](#where-to-get-help-under-crisis) for a list of organizations you can talk with about your issues.
+*   You are not alone in this unfortunate situation. Don't be afraid to ask for help from those near and dear to you. There are also support groups on the internet, for example on [Facebook](https://www.facebook.com/groups/1157856877945684/) (in Finnish).
 
 ### Keep a diary of your actions
 
@@ -42,6 +43,10 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
 *   Screenshots are important evidence for the authorities. The screenshot should include the sender address.
 *   How to take screenshots in Windows 10: [Instructions from Microsoft](https://support.microsoft.com/en-us/windows/open-snipping-tool-and-take-a-screenshot-a35ac9ff-4a58-24c9-3253-f12bac9f9d44)
 *   How to take screenshots in Apple macOS: [Instructions from Apple](https://support.apple.com/en-us/HT201361)
+*   You can also save the e-mail as a PDF file.
+    *   [Instructions for Microsoft Office](https://support.microsoft.com/en-gb/office/save-or-convert-to-pdf-or-xps-in-project-desktop-d85416c5-7d77-4fd6-a216-6f4bf7c7c110?ui=en-us&rs=en-gb&ad=gb)
+    *   [Instructions for macOS](https://support.apple.com/en-gb/HT201361)
+*   Make sure that the screenshots and PDFs include timestamps, like when the e-mail arrived.
 *   You can also take a photo of your computer's screen. Make sure that the text is readable from the photo. If it helps you can take multiple pictures to cover the whole screen in enough detail.
 *   Keep receipts from all incurred expenses. For example, services related to credit prohibitions, phone calls to credit agency, bank etc.
 
@@ -53,7 +58,7 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
 ### File a criminal complaint with the police for data leak and/or extortion
 
 *   You can report an offence online on the [website of the Finnish Police](https://www.poliisi.fi/crimes/reporting_an_offence_online). The service is available every day from 6:00 to 22:45. If you are unable to file a report immediately, please try again later. The police website has been under heavier load than usual and it's not necessary to file a report immediately. The investigation will still continue even if all the individuals involved are not able to file a report at once.
-*   Reporting an offence online requires identifying yourself with online banking codes, a chip enabled official ID card, or mobile verification.
+*   Reporting an offence online requires identifying yourself with online banking codes, a chip enabled official ID card, or mobile verification. The report form guides you in filling in the needed information. The Vastaamo databreach goes under the category "Other offences" and the location is "Internet".
 *   If you have received a ransom note, include a screenshot of it as an attachment.
 *   If you're unable to report an offence online, please visit your nearest police station.
 *   The police have instructed to not call the Emergency Response Centers.
@@ -67,22 +72,23 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
 ### Report the incident to National Cyber Security Centre 
 
 *   You can file a report with the [form provided by Finnish Cyber Security Centre](https://www.kyberturvallisuuskeskus.fi/en/report)
-*   Based on the notifications, the NCSC-FI investigates security violations and threats to information security on network services, communications services and added value services, collects information on these incidents, and helps organisations with instructions and sometimes with technical assistance.
+*   Based on the notifications, the NCSC-FI investigates security violations and threats to information security on network services, communications services and added value services, collects information on these incidents, and helps organisations with instructions and sometimes with technical assistance. In addition to general cybersecurity information, they can also offer more technical help.
 
 ### Request personal prohibition of automated credit
 
-*   This ensures that nobody can take a loan in your name. Finland has two companies maintaining credit registries: Asiakastieto and Bisnode. We recommend you request for a credit ban from both. Note that the credit ban lasts for two years at a time and you will have to renew it if you wish to continue it.
-*   Asiakastieto will charge 19,95€ for the ban. [You can request it online from Asiakastieto](https://www.asiakastieto.fi/omatieto/en/tuotteet/oma-luottokielto) (in Finnish)
+*   This ensures that nobody can take a loan in your name. Finland has two companies maintaining credit registries: [Asiakastieto](https://www.asiakastieto.fi/omatieto/en/tuotteet/oma-luottokielto) and [Bisnode Finland](https://finland.bisnode.fi/oma-luottokielto/) (in Finnish). We recommend you request for a credit ban from both. Note that the credit ban lasts for two years at a time and you will have to renew it if you wish to continue it.
+*   Asiakastieto will charge 19,95€ for the ban. [You can request it online from Asiakastieto](https://www.asiakastieto.fi/omatieto/en/tuotteet/oma-luottokielto)
 *   Vastaamo promises to reimburse the victims of the data breach for the costs incurred by Asiakastieto's credit ban and the Tietovahti service, which notifies a customer of credit information inquiries. A form for the reimbursement procedure will be made available at the Vastaamo website later. For more information, check the [Vastaamo website](https://vastaamo.fi/ajankohtaista/en.html).
 *   Bisnode credit ban costs 13,95€. [You can request it online from Bisnode](https://my.bisnode.fi/protection) (in Finnish)
 *   A credit ban can prevent criminals from using your personal information for frauds. Using the personal identification number and other personal information, a criminal may be able to make small purchases or open other lines of credit in your name. This voluntary credit ban does not prevent you from buying in installments or requesting other credit. You'll receive a separate certificate, which you can personally use to prove your creditworthiness despite the voluntary credit ban.
 
 ### Request prohibition for address change with Posti free-of-charge
 
-*   You can prevent address changes by activating [address change protection from Posti](https://www.posti.fi/fi/asiakastuki/tiedotteet/postin-ohje-psykoterapiakeskus-vastaamon-tietomurtoon-liittyen-nain-teet) (in Finnish).
-*   The ban is requested from [Posti's online customer service portal](https://www.posti.fi/omatpalvelut/feedback?lang=fi) under "Address change protection, Feedback about Mail forwarding or Nearby Mailbox."
+*   You can prevent address changes by activating [address change protection from Posti](https://www.posti.fi/en/private/letters-and-mail/delivery-and-change-of-address/moving-private/address-change-protection).
 *   The protection prevents address changes and mail delivery suspensions as long as the protection is enabled. A criminal can not then order deliveries or invoices under your name to another address.
-*   [Posti's hints on address changes and improving one's data security](https://www.posti.fi/fi/asiakastuki/tiedotteet/20200615_muuttoilmoitus_ja_tietoturva) (in Finnish).
+*   Also set a form block. This way, you ensure that no one can report a change to your address with a paper form even if your personal information has been stolen. [Instructions on Posti's website](https://www.posti.fi/en/customer-support/news-releases/postis_instructions_related_to_the_psychotherapy_centre_vastaamo_data_breach).
+*   Instructions for [restricting the disclosure of your contact information](https://www.posti.fi/en/private/letters-and-mail/delivery-and-change-of-address/disclosure-ban).
+*   [Posti's and the DPDSA's tips on address change and improving one's data security](https://www.posti.fi/en/customer-support/news-releases/20200616_change_of_address_data_security).
 
 ### Request a registration ban from Finnish Patent and Registration Office (PRH) free-of-charge
 
@@ -104,7 +110,7 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
     4. Use a unique password for every service.
     5. Be especially careful with important passwords, like the email account password that can be used to reset other passwords.
     6. Never reveal your passwords to anyone! Official authorities will never ask you to disclose your password!
-    7. Start using a password manager software so you won't need to remember your passwords. For example, the Finnish [F-Secure ID Protection](https://www.f-secure.com/fi/home/products/id-protection) or open source [KeePassXC](https://www.keepassxc.org) are solid programs for this.
+    7. Start using a password manager software so you won't need to remember your passwords. For example, the Finnish [F-Secure ID Protection](https://www.f-secure.com/en/home/products/id-protection) or open source [KeePassXC](https://www.keepassxc.org) are solid programs for this.
     *   [More information on password security from the Finnish National Cyber Security Centre](https://www.kyberturvallisuuskeskus.fi/en/ncsc-news/instructions-and-guides/longer-better-how-create-strong-password).
 *   Start using two-factor authentication on all services, such as email or social media sites. Two-factor authentication is usually mandatory in banking services. Two-factor authentication confirms your identity using two separate methods. While SMS is possible, a special authentication app is recommended, such as Google Authenticator ([Android](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2),[iOS](https://apps.apple.com/fi/app/google-authenticator/id388497605)) or [Microsoft Authenticator](https://www.microsoft.com/en-us/account/authenticator).
 
@@ -121,7 +127,7 @@ All of the above are classified as [personal information](https://tietosuoja.fi/
 ### Remove your information from billing services and prohibit service usage
 
 *   Billing service companies may allow making purchases with very little authenticating information about the invoiced person. Ask the billing service company to remove your personal information, as is your right under GDPR regulations.
-*   You can make this request to Klarna by calling [(09) 425 99772](tel:+358942599772) (weekdays 9.00-17.00). Their customer service is now especially busy, so the queue may be longer than usual. For other billing service companies, consult their privacy documentation and web pages.
+*   For contact information of billing service companies, consult their web pages and privacy documentation.
 *   **Update**: [Klarna has informed](https://www.klarna.com/fi/blogi/kommentti-viime-paivien-tapahtumista) (in Finnish) that they are now checking credit bans at Asiakastieto and Bisnode in real time and thus consumers do not need to apply for a separate ban for Klarna purchases.
 
 ### Prohibit telecom operators from providing your information and prohibit changing this without an official ID (Passport or ID card)
@@ -143,8 +149,8 @@ Contact information:
 
 *   Was it your work email instead of your personal email? Contact your employer. For example, talk with your human resources manager. You may get support.
 *   Consider special [non-disclosure for personal safety](https://dvv.fi/en/non-disclosure-for-personal-safety). This is a special protection for cases with a serious threat of physical violence. Talk with the police.
-*   Monitor your digital footprint actively in the future. You can use [Have I been pwned?](https://haveibeenpwned.com/)  -service to notify you if your information has been leaked publicly. The service is maintained by the security expert Troy Hunt. Alternatively, you can use the [Identity Theft Checker from Finnish F-Secure](https://www.f-secure.com/fi/home/free-tools/identity-theft-checker) or the Finnish [Badrap.io](https://badrap.io/) service.
-*   You can use [Google Alerts](https://www.google.fi/alerts) for your own name. The service sends an email if the keyword you provide it appears in Google Search results. Keywords to be used can be e.g. your own phone number, name and email address.
+*   Monitor your digital footprint actively in the future. You can use [Have I been pwned?](https://haveibeenpwned.com/)  -service to notify you if your information has been leaked publicly. The service is maintained by the security expert Troy Hunt. Alternatively, you can use the [Identity Theft Checker from Finnish F-Secure](https://www.f-secure.com/en/home/free-tools/identity-theft-checker) or the Finnish [Badrap.io](https://badrap.io/) service.
+*   You can use [Google Alerts](https://www.google.com/alerts) for your own name. The service sends an email if the keyword you provide it appears in Google Search results. Keywords to be used can be e.g. your own phone number, name and email address.
 *   If you receive a registered letter, authenticate it's sender before you sign it as received. The sender might be a criminal who wants to verify your address.
 
 ## Where to get help in a crisis?
@@ -183,6 +189,10 @@ Contact information:
 *   Crisis Emergency Support of the City of Helsinki phone. [09 310 44222](tel:+358931044222).
 *   More information from [City of Helsinki website](https://www.hel.fi/uutiset/en/social-services-and-health-care/help-and-support-available-for-data-breach-victims).
 *   Check your home municipality for availability of crisis help.
+
+### Check your municipality’s emergency social and crisis services
+
+*   Familiarize yourself with your own municipality's emergency social and crisis services at e.g. your home municipality's website.
 
 ### Questions and answers to the victims of the data breach
 
