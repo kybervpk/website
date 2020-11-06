@@ -2,7 +2,7 @@
 title: "Minneslista till offer för dataläckage"
 description: Vi har samlat en omfattande lista speciellt med tanke på offren för dataintrånget mot Psykoterapicentret Vastaamo. Enligt tillgänglig information riktades dataintrånget i november 2018 mot Vastaamos kundregister. Som en följd av dataintrånget har konfidentiella uppgifter om kunder läckt från tiden före november 2018. Det är sannolikt att Vastaamos datasystem har infiltrerats också mellan slutet av november 2018 och mars 2019.
 date: 2020-10-25T21:00:00+03:00
-lastmod: 2020-11-03T23:45:00+03:00
+lastmod: 2020-11-06T21:00:00+03:00
 ---
 
 Vi har samlat en omfattande lista speciellt med tanke på offren för dataintrånget mot Psykoterapicentret Vastaamo. Minneslistan har uppdaterats 03.11.2020.
