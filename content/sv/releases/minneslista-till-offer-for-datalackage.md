@@ -2,10 +2,10 @@
 title: "Minneslista till offer för dataläckage"
 description: Vi har samlat en omfattande lista speciellt med tanke på offren för dataintrånget mot Psykoterapicentret Vastaamo. Enligt tillgänglig information riktades dataintrånget i november 2018 mot Vastaamos kundregister. Som en följd av dataintrånget har konfidentiella uppgifter om kunder läckt från tiden före november 2018. Det är sannolikt att Vastaamos datasystem har infiltrerats också mellan slutet av november 2018 och mars 2019.
 date: 2020-10-25T21:00:00+03:00
-lastmod: 2020-11-06T21:45:00+03:00
+lastmod: 2020-11-08T18:45:00+03:00
 ---
 
-Vi har samlat en omfattande lista speciellt med tanke på offren för dataintrånget mot Psykoterapicentret Vastaamo. Minneslistan har uppdaterats 03.11.2020.
+Vi har samlat en omfattande lista speciellt med tanke på offren för dataintrånget mot Psykoterapicentret Vastaamo. Minneslistan har uppdaterats 08.11.2020.
 
 Enligt tillgänglig information riktades dataintrånget i november 2018 mot Vastaamos kundregister. Som en följd av dataintrånget har konfidentiella uppgifter om kunder läckt från tiden före november 2018. Det är sannolikt att Vastaamos datasystem har infiltrerats också mellan slutet av november 2018 och mars 2019. Vastaamo vet inte om att databasen skulle ha blivit stulen i samband med detta senare intrång. Det är dock möjligt att enstaka uppgifter har visats och setts på eller kopierats under denna tidsperiod.
 
@@ -182,11 +182,6 @@ All information som nämnts ovan klassificeras som [personuppgifter](https://tie
 *   [Kontaktuppgifter](https://www.riku.fi/sv/kontaktuppgifter/) till svenskspråkig personal på Brottsofferjouren.
 *   Du kan också fylla i kontaktbegäran till ditt närmaste serviceställe [på nätet](https://link.webropolsurveys.com/S/2DC107F19F3A2E71).
 
-### Röda Korset
-
-*   Röda Korsets krisjour på nummer [0800 100 200](tel:+358800100200), kl. 9-21 (på finska).
-*   Mera information i [SPRs meddelande](https://www.punainenristi.fi/uutiset/20201025/punainen-risti-avaa-auttavan-puhelimen-vastaamon-asiakkaiden-tueksi) (på finska).
-
 ### Helsingfors stads social- och hälsovårdssektor bjuder hjälp åt helsingforsbor vid behov dygnet runt
 
 *   Hälsorådgivning, [09 310 10023](tel:+358931010023).
@@ -198,14 +193,14 @@ All information som nämnts ovan klassificeras som [personuppgifter](https://tie
 *   Krisjouren, [09 816 42439](tel:+358981642439).
 *   Tjänsten är avsedd för invånare i Esbo, Hangö, Ingå, Högfors, Grankulla, Kyrkslätt, Lojo, Raseborg, Sjundeå och Vichtis kommuner och vistande i dessa kommuner.
 
-### Konsumentförbundets öppna rådgivning för konsumenter och patienter
-
-*   Juridisk rådgivning må-fr kl. 9-12 och 13-16, [09 454 22150](tel:+358945422150) (på finska).
-*   Mera information på [Konsumentförbundets webbplats](https://www.kuluttajaliitto.fi/edunvalvonta/ajankohtaista/tiedote-vastaamon-tietosuojamurron-uhreille-kuluttajaliiton-lakineuvontaa/) (på finska).
-
 ### Bekanta dig också med krisjouren i din egen kommun
 
 *   Kolla tillgängligheten till din egen kommuns krisjour på t.ex. din hemkommuns webbplats.
+
+### Konsumentförbundets öppna rådgivning för konsumenter och patienter
+
+*   Konsumentförbundets juridisk rådgivning för konsumenter och patienter betjänar på finska i nummret [09 454 22150](tel:+358945422150).
+*   Mera information på [Konsumentförbundets webbplats](https://www.kuluttajaliitto.fi/edunvalvonta/ajankohtaista/neuvoja-tietovuoden-kohteeksi-joutuneille/) (på finska).
 
 ### Frågor och svar till offer
 
