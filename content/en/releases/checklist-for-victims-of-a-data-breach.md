@@ -2,10 +2,10 @@
 title: "Checklist for victims of a data breach"
 description: We have collected a comprehensive list of information for the victims of the Vastaamo data breach. If you have been a client of Vastaamo before March 2019 your confidential information may have been stolen. Current information about the data breach can be found at Vastaamo's web pages.
 date: 2020-10-25T21:00:00+03:00
-lastmod: 2020-11-06T22:00:00+03:00
+lastmod: 2020-11-08T18:45:00+03:00
 ---
 
-We have collected a comprehensive list of notes especially for victims of the [Vastaamo data breach](https://yle.fi/uutiset/osasto/news/psychotherapy_centres_database_hacked_patient_info_held_ransom/11605460). If you have been a client of Vastaamo before the year 2019, your confidential information might have been stolen. The list has been updated on 06.11.2020.
+We have collected a comprehensive list of notes especially for victims of the [Vastaamo data breach](https://yle.fi/uutiset/osasto/news/psychotherapy_centres_database_hacked_patient_info_held_ransom/11605460). If you have been a client of Vastaamo before the year 2019, your confidential information might have been stolen. The list has been updated on 08.11.2020.
 
 Based on current knowledge, Vastaamo's client registry was breached in November 2018 and there has been a second smaller breach in 2019 before March 2019. According to Vastaamo, there is no indication that the whole database has been leaked in 2019 incident, but it is possible that information regarding some individuals has been copied.
 

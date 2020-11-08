@@ -2,12 +2,12 @@
 title: "Muistilista tietovuodon kohteille"
 description: Keräsimme kattavan listauksen ohjeita erityisesti Vastaamon tietomurron uhreille. Nykytiedon mukaan tietomurron kohteena oli Vastaamon asiakasrekisteri marraskuussa 2018. Tietomurron seurauksena asiakkaiden luottamuksellisia tietoja marraskuun loppua 2018 edeltävältä ajalta on vuotanut. On todennäköistä, että Vastaamon järjestelmään on tunkeuduttu myös marraskuun lopun 2018 ja maaliskuun 2019 välisenä aikana.
 date: 2020-10-25T21:00:00+03:00
-lastmod: 2020-11-06T21:10:00+03:00
+lastmod: 2020-11-08T18:45:00+03:00
 aliases:
   - /ajankohtaista/muistilista-tietovuodon-kohteille/
 ---
 
-Keräsimme kattavan listauksen erityisesti Vastaamon tietomurron uhreille. Muistilista on päivitetty 03.11.2020.
+Keräsimme kattavan listauksen erityisesti Vastaamon tietomurron uhreille. Muistilista on päivitetty 08.11.2020.
 
 Nykytiedon mukaan tietomurron kohteena oli Vastaamon asiakasrekisteri marraskuussa 2018. Tietomurron seurauksena asiakkaiden luottamuksellisia tietoja marraskuun loppua 2018 edeltävältä ajalta on vuotanut. On todennäköistä, että Vastaamon järjestelmään on tunkeuduttu myös marraskuun lopun 2018 ja maaliskuun 2019 välisenä aikana. Vastaamon tiedossa ei ole, että tässä yhteydessä tietokanta olisi varastettu, mutta on mahdollista, että yksittäisiä tietoja on tarkasteltu tai kopioitu tuossa aikavälissä.
 
