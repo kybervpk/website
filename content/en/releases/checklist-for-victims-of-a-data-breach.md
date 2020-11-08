@@ -178,11 +178,6 @@ Contact information:
 *   [VSF provides a Contact Request Form as well](https://link.webropolsurveys.com/S/2DC107F19F3A2E71).
 *   [One can contact VSF via chat service](https://www.riku.fi/en/services/rikuchat-online-service/) which is available on weekdays from 9 to 15.
 
-### The Finnish Red Cross
-
-*   Finnish Red Cross (FRC) crisis helpline at [0800 100 200](tel:+358800100200) from 9 to 21.
-*   More information from [FRC announcement](https://www.punainenristi.fi/uutiset/20201025/punainen-risti-avaa-auttavan-puhelimen-vastaamon-asiakkaiden-tueksi) (in Finnish).
-
 ### City of Helsinki provides help for residents around the clock
 
 *   Telephone health advice phone [09 10023](tel:+358910023).
@@ -193,6 +188,11 @@ Contact information:
 ### Check your municipality’s emergency social and crisis services
 
 *   Familiarize yourself with your own municipality's emergency social and crisis services at e.g. your home municipality's website.
+
+### The Consumer's Union of Finland's open counseling for consumers and patients
+
+*   The Consumer's Union of Finland's legal advice for consumers and patients is available in Finnish by phone at [09 454 22150](tel:+358945422150).
+*   More information on [the Consumer's Union of Finland's website](https://www.kuluttajaliitto.fi/edunvalvonta/ajankohtaista/neuvoja-tietovuoden-kohteeksi-joutuneille/) (in Finnish).
 
 ### Questions and answers to the victims of the data breach
 

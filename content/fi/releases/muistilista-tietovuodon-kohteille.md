@@ -181,11 +181,6 @@ Kaikki ylläolevat tiedot [luokitellaan henkilötiedoiksi](https://tietosuoja.fi
 *   Rikosuhripäivystys numerossa [116 006](tel:+358116006) palvelee suomeksi ma–pe kello 9–20 ja ruotsiksi kello 12–14. Puhelu on maksuton.
 *   RIKUchat on auki arkisin kello 9–15 ja lisäksi maanantaisin klo 17–19 osoitteessa [riku.fi/chat](https://riku.fi/chat).
 
-### Suomen Punainen Risti
-
-*   SPR:n kriisipalvelu palvelee numerossa [0800 100 200](tel:+358800100200) klo 9-21.
-*   Lisätietoja [SPR:n tiedotteesta](https://www.punainenristi.fi/uutiset/20201025/punainen-risti-avaa-auttavan-puhelimen-vastaamon-asiakkaiden-tueksi).
-
 ### Helsingin sosiaali- ja terveyspalvelut tarjoaa apua helsinkiläisille tarvittaessa ympäri vuorokauden
 
 *   Terveyspalvelujen neuvonta, p. [09 10023](tel:+358910023).
@@ -197,14 +192,14 @@ Kaikki ylläolevat tiedot [luokitellaan henkilötiedoiksi](https://tietosuoja.fi
 *   Kriisipäivystyksen tavoitat numerosta [09 816 42439](tel:+358981642439).
 *   Palvelu on tarkoitettu Espoon, Hangon, Inkoon, Karkkilan, Kauniaisten, Kirkkonummen, Lohjan, Raaseporin, Siuntion ja Vihdin asukkaille sekä näissä kunnissa oleskeleville joka päivä ympäri vuorokauden.
 
-### Kuluttajaliiton kaikille avoin kuluttajan ja potilaan lakineuvonta
-
-*   Lakineuvonta palvelee ma–pe klo 9–12 ja klo 13–16 numerossa [09 454 22150](tel:+358945422150).
-*   Lisätietoja [Kuluttajaliiton verkkosivuilta](https://www.kuluttajaliitto.fi/edunvalvonta/ajankohtaista/neuvoja-tietovuoden-kohteeksi-joutuneille/).
-
 ### Tutustu myös oman kuntasi kriisipäivystykseen
 
 *   Tarkista oman kotikuntasi kriisipäivystyksen saatavuus esim. kotikuntasi verkkosivuilta.
+
+### Kuluttajaliiton kaikille avoin kuluttajan ja potilaan lakineuvonta
+
+*   Kuluttajaliiton kuluttajan ja potilaan lakineuvonta palvelee tietomurtoon liittyvissä asioissa numerossa [09 454 22150](tel:+358945422150).
+*   Lisätietoja [Kuluttajaliiton verkkosivuilta](https://www.kuluttajaliitto.fi/edunvalvonta/ajankohtaista/neuvoja-tietovuoden-kohteeksi-joutuneille/).
 
 ### Kysymyksiä ja vastauksia uhreille
 
