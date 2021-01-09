@@ -14,7 +14,7 @@ Key competencies:
 * Penetration testing
 * Software development
 
-Day job: Senior Security Specialist at [Nixu Corporation](https://www.nixu.com)
+Day job: Chief Specialist, [National Cyber Security Centre Finland](https://www.kyberturvallisuuskeskus.fi/en/)
 
 Other:
 * Member and activist of Helsinki Hacklab

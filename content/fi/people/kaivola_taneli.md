@@ -14,7 +14,7 @@ Erityisosaaminen:
 * Penetraatiotestaus
 * Ohjelmistokehitys
 
-Päivätyö: Senior Security Specialist, [Nixu Corporation](https://www.nixu.com)
+Päivätyö: Chief Specialist, [Kyberturvallisuuskeskus](https://www.kyberturvallisuuskeskus.fi/en/)
 
 Muuta:
 * Perustajajäsen ja aktivisti, Helsinki Hacklab

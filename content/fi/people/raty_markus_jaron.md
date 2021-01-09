@@ -14,7 +14,7 @@ Erityisosaaminen:
 * Tilannejohtaminen ja kommunikointi 
 * Ihmisten kanssa toimiminen ja tilanteiden purkaminen
 
-Päivätyö: Systems Specialist NOC/SOC, [University of the Arts, Helsinki](https://www.uniarts.fi)
+Päivätyö: Information Security Specialist, [Kyberturvallisuuskeskus](https://www.kyberturvallisuuskeskus.fi/en/)
 
 Osa-aikainen: Consulting ICT Specialist and Network Admin, [Lomakotiyhdistys Ilonpisara](https://www.ilonpisara.net)
 

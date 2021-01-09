@@ -13,7 +13,7 @@ Key competencies:
 * Crisis Management and communication 
 * Dealing with humans and de-escalation
 
-Day job: Systems Specialist NOC/SOC at [University of the Arts, Helsinki](https://www.uniarts.fi)
+Day job: Information Security Specialist, [National Cyber Security Centre Finland](https://www.kyberturvallisuuskeskus.fi/en/)
 
 Part time: Consulting ICT Specialist and Network Admin at [Lomakotiyhdistys Ilonpisara](https://www.ilonpisara.net)
 

@@ -13,7 +13,7 @@ Erityisosaaminen:
 * Tietoturvapoikkeamahallinnan johtaminen
 * Windows & Linux
 
-Päivätyö: Senior DFIR Consultant, [Nixu Corporation](https://www.nixu.com)
+Päivätyö: Information Security Specialist, [Kybertuvallisuuskeskus](https://www.kyberturvallisuuskeskus.fi/en/)
 
 Muuta:
 * Forensiikkakouluttaja, Maanpuolustuskoulutusyhdistys Ry (MPK Ry)
