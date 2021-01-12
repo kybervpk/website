@@ -15,7 +15,7 @@ Erityisosaaminen:
 * Verkot ja järjestelmäarkkitehtuuri
 * Pilvipalvelut (GCP, AWS, DigitalOcean, jne)
 
-Päivätyö: CTO, [Jobilla](https://jobilla.com)
+Päivätyö: Security Specialist (DFIR), [Nixu Corporation](https://www.nixu.com/)
 
 Muuta:
 * Aktiivinen jäsen yhdistyksessä HelSec Ry

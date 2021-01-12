@@ -13,11 +13,12 @@ Key competencies:
 * Incident management / Major incident management
 * Windows & Linux
 
-Day job: Senior DFIR Consultant at [Nixu Corporation](https://www.nixu.com)
+Day job: Information Security Specialist, [Traficom's National Cyber Security Centre Finland](https://www.kyberturvallisuuskeskus.fi/en/)
 
 Other:
-* Forensic instructor at The National Defence Training Association of Finland (MPK Ry)
+* Forensic Instructor at The National Defence Training Association of Finland (MPK Ry)
 * Co-Founder, chairman at HelSec Ry
+* [Turvakäräjät](https://turvakarajat.fi/) Podcast Host
 
 Certifications:
 * CISSP

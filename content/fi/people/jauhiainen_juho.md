@@ -13,11 +13,12 @@ Erityisosaaminen:
 * Tietoturvapoikkeamahallinnan johtaminen
 * Windows & Linux
 
-Päivätyö: Senior DFIR Consultant, [Nixu Corporation](https://www.nixu.com)
+Päivätyö: Information Security Specialist, [Traficomin Kybertuvallisuuskeskus](https://www.kyberturvallisuuskeskus.fi/en/)
 
 Muuta:
 * Forensiikkakouluttaja, Maanpuolustuskoulutusyhdistys Ry (MPK Ry)
 * Puheenjohtaja ja perustaja, HelSec Ry
+* [Turvakäräjät](https://turvakarajat.fi/) Podcast Host
 
 Sertifikaatit:
 * CISSP

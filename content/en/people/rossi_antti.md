@@ -15,7 +15,7 @@ Key competencies:
 * Networks and systems architecture
 * Public cloud (GCP, AWS, Digitalocean, etc)
 
-Day job: CTO at [Jobilla](https://jobilla.com)
+Day job: Security Specialist (DFIR), [Nixu Corporation](https://www.nixu.com/)
 
 Other:
 * Member and activist of HelSec Ry

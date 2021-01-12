@@ -12,6 +12,8 @@ Key competencies:
 * Cloud 
 * WebApp security
 
+Day job: Security Consultant, [F-Secure](https://www.f-secure.com/consulting)
+
 Other:
 * Disobey board member
 * Podcaster
