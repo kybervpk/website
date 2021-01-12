@@ -18,6 +18,7 @@ Päivätyö: Information Security Specialist, [Traficomin Kybertuvallisuuskeskus
 Muuta:
 * Forensiikkakouluttaja, Maanpuolustuskoulutusyhdistys Ry (MPK Ry)
 * Puheenjohtaja ja perustaja, HelSec Ry
+* [Turvakäräjät](https://turvakarajat.fi/) Podcast Host
 
 Sertifikaatit:
 * CISSP
