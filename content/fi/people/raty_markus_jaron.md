@@ -14,7 +14,7 @@ Erityisosaaminen:
 * Tilannejohtaminen ja kommunikointi 
 * Ihmisten kanssa toimiminen ja tilanteiden purkaminen
 
-Päivätyö: Information Security Specialist, [Kyberturvallisuuskeskus](https://www.kyberturvallisuuskeskus.fi/en/)
+Päivätyö: Information Security Specialist, [Traficomin Kyberturvallisuuskeskus](https://www.kyberturvallisuuskeskus.fi/en/)
 
 Osa-aikainen: Consulting ICT Specialist and Network Admin, [Lomakotiyhdistys Ilonpisara](https://www.ilonpisara.net)
 

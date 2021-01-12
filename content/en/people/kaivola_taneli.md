@@ -14,7 +14,7 @@ Key competencies:
 * Penetration testing
 * Software development
 
-Day job: Chief Specialist, [National Cyber Security Centre Finland](https://www.kyberturvallisuuskeskus.fi/en/)
+Day job: Chief Specialist, [Traficom's National Cyber Security Centre Finland](https://www.kyberturvallisuuskeskus.fi/en/)
 
 Other:
 * Member and activist of Helsinki Hacklab

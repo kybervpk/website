@@ -13,7 +13,7 @@ Erityisosaaminen:
 * Tietoturvapoikkeamahallinnan johtaminen
 * Windows & Linux
 
-Päivätyö: Information Security Specialist, [Kybertuvallisuuskeskus](https://www.kyberturvallisuuskeskus.fi/en/)
+Päivätyö: Information Security Specialist, [Traficomin Kybertuvallisuuskeskus](https://www.kyberturvallisuuskeskus.fi/en/)
 
 Muuta:
 * Forensiikkakouluttaja, Maanpuolustuskoulutusyhdistys Ry (MPK Ry)

@@ -13,7 +13,7 @@ Key competencies:
 * Crisis Management and communication 
 * Dealing with humans and de-escalation
 
-Day job: Information Security Specialist, [National Cyber Security Centre Finland](https://www.kyberturvallisuuskeskus.fi/en/)
+Day job: Information Security Specialist, [Traficom's National Cyber Security Centre Finland](https://www.kyberturvallisuuskeskus.fi/en/)
 
 Part time: Consulting ICT Specialist and Network Admin at [Lomakotiyhdistys Ilonpisara](https://www.ilonpisara.net)
 

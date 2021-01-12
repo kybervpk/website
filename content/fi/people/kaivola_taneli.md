@@ -14,7 +14,7 @@ Erityisosaaminen:
 * Penetraatiotestaus
 * Ohjelmistokehitys
 
-Päivätyö: Chief Specialist, [Kyberturvallisuuskeskus](https://www.kyberturvallisuuskeskus.fi/en/)
+Päivätyö: Chief Specialist, [Traficomin Kyberturvallisuuskeskus](https://www.kyberturvallisuuskeskus.fi/en/)
 
 Muuta:
 * Perustajajäsen ja aktivisti, Helsinki Hacklab
