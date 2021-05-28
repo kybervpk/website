@@ -2,12 +2,12 @@
 title: "Muistilista tietovuodon kohteille"
 description: Keräsimme kattavan listauksen ohjeita erityisesti Vastaamon tietomurron uhreille. Nykytiedon mukaan tietomurron kohteena oli Vastaamon asiakasrekisteri marraskuussa 2018. Tietomurron seurauksena asiakkaiden luottamuksellisia tietoja marraskuun loppua 2018 edeltävältä ajalta on vuotanut. On todennäköistä, että Vastaamon järjestelmään on tunkeuduttu myös marraskuun lopun 2018 ja maaliskuun 2019 välisenä aikana.
 date: 2020-10-25T21:00:00+03:00
-lastmod: 2020-11-08T18:45:00+03:00
+lastmod: 2021-05-28T23:40:00+03:00
 aliases:
   - /ajankohtaista/muistilista-tietovuodon-kohteille/
 ---
 
-Keräsimme kattavan listauksen erityisesti Vastaamon tietomurron uhreille. Muistilista on päivitetty 08.11.2020.
+Keräsimme kattavan listauksen erityisesti Vastaamon tietomurron uhreille. Muistilista on päivitetty 28.5.2021.
 
 Nykytiedon mukaan tietomurron kohteena oli Vastaamon asiakasrekisteri marraskuussa 2018. Tietomurron seurauksena asiakkaiden luottamuksellisia tietoja marraskuun loppua 2018 edeltävältä ajalta on vuotanut. On todennäköistä, että Vastaamon järjestelmään on tunkeuduttu myös marraskuun lopun 2018 ja maaliskuun 2019 välisenä aikana. Vastaamon tiedossa ei ole, että tässä yhteydessä tietokanta olisi varastettu, mutta on mahdollista, että yksittäisiä tietoja on tarkasteltu tai kopioitu tuossa aikavälissä.
 
@@ -23,6 +23,13 @@ Vastaamon antamia tietoja voit seurata [heidän verkkosivuiltaan](https://vastaa
 *   Tapaamisissa kirjoitetut muistiinpanot eli potilaskertomukset
 
 Kaikki ylläolevat tiedot [luokitellaan henkilötiedoiksi](https://tietosuoja.fi/mika-on-henkilotieto). On hyvä huomioida, että välttämättä juuri sinusta ei ole vuotanut kaikkia yllä mainittuja tietoja.
+
+Digi- ja väestötietovirasto on julkaissut toukokuussa 2021 suomi.fi-sivustolla tietovuoto-oppaan, josta löytyy ohjeistus tietomurron uhreille. Tästä oppaasta löydät juuri sinun tilanteeseesi sopivat ohjeet sekä palvelut. Opas löytyy verkkopalvelusta kolmella kielellä:  
+* [suomeksi](https://www.suomi.fi/oppaat/tietovuoto)
+* [ruotsiksi](https://www.suomi.fi/guider/informationslacka) 
+* [englanniksi](https://www.suomi.fi/guides/data-leak) 
+
+Myös alla olevat ohjeistukset ovat edelleen voimassa. 
 
 ## Jos epäilet joutuneesi tietovuodon kohteeksi tai sait henkilökohtaisen kiristysviestin, toimi seuraavasti:
 
@@ -158,10 +165,6 @@ Kaikki ylläolevat tiedot [luokitellaan henkilötiedoiksi](https://tietosuoja.fi
 *   Jos saat kirjatun kirjeen, varmista lähettäjä ennen kuin kuittaat sen vastaanotetuksi. Lähettäjä saattaa olla rikollinen, joka haluaa vahvistaa osoitteesi voimassaolon.
 
 ## Mistä saat apua henkiseen kriisinkestävyyteen?
- 
-### Vastaamon kriisipuhelin
-
-*   Yhteystiedot: [044 4141 997](tel:+358444141997), arkisin 8-19, tai sähköpostitse [tuki@vastaamo.fi](mailto:tuki@vastaamo.fi).
 
 ### Valtakunnallinen kriisipuhelin
 
@@ -178,8 +181,8 @@ Kaikki ylläolevat tiedot [luokitellaan henkilötiedoiksi](https://tietosuoja.fi
 ### Rikosuhripäivystys
 
 *   Verkkorikollisuuden uhrit voivat saada käytännön neuvoja rikosasiassa ja keskusteluapua Rikosuhripäivystyksen palveluissa:
-*   Rikosuhripäivystys numerossa [116 006](tel:+358116006) palvelee suomeksi ma–pe kello 9–20 ja ruotsiksi kello 12–14. Puhelu on maksuton.
-*   RIKUchat on auki arkisin kello 9–15 ja lisäksi maanantaisin klo 17–19 osoitteessa [riku.fi/chat](https://riku.fi/chat).
+*   Rikosuhripäivystys numerossa [116 006](tel:+358116006) päivystää suomeksi ma–pe kello 9–20 ja ruotsiksi ma-pe kello 12–14. Puhelu on maksuton.
+*   RIKUchat palvelee arkisin kello 9–15 ja lisäksi maanantai-iltaisin klo 17–19 osoitteessa [riku.fi/chat](https://riku.fi/chat).
 
 ### Helsingin sosiaali- ja terveyspalvelut tarjoaa apua helsinkiläisille tarvittaessa ympäri vuorokauden
 
@@ -201,6 +204,8 @@ Kaikki ylläolevat tiedot [luokitellaan henkilötiedoiksi](https://tietosuoja.fi
 *   Kuluttajaliiton kuluttajan ja potilaan lakineuvonta palvelee tietomurtoon liittyvissä asioissa numerossa [09 454 22150](tel:+358945422150).
 *   Lisätietoja [Kuluttajaliiton verkkosivuilta](https://www.kuluttajaliitto.fi/edunvalvonta/ajankohtaista/neuvoja-tietovuoden-kohteeksi-joutuneille/).
 
+Täältä löydät listan muista valtakunnallisesti auttavista puhelimista https://rednet.punainenristi.fi/node/55049
+
 ### Kysymyksiä ja vastauksia uhreille
 
 *   [Vastaamon omat tiedotteet](https://vastaamo.fi/ajankohtaista/).
@@ -212,6 +217,11 @@ Kaikki ylläolevat tiedot [luokitellaan henkilötiedoiksi](https://tietosuoja.fi
 *   [Rikosuhripäivystyksen ohjeet](https://www.riku.fi/toimi-nain-jos-tietojasi-on-vuodettu-verkkoon/).
 *   [Elinkeinoelämän keskusliiton ohjeet](https://ek.fi/ajankohtaista/uutiset/tietovuodon-kohteeksi-joutuneen-muistilista/).
 *   [Kyberturvallisuuskeskuksen tietovuotoapu](https://www.tietovuotoapu.fi/fi/tietovuotoapu).
+*   Digi- ja väestötietoviraston ohjeet:
+    * [suomeksi](https://www.suomi.fi/oppaat/tietovuoto)
+    * [ruotsiksi](https://www.suomi.fi/guider/informationslacka) 
+    * [englanniksi](https://www.suomi.fi/guides/data-leak)
+
 
 Mikäli sinulla on tietoja, joista voisi poliisille olla jotakin hyötyä, voit lähettää poliisille nettivinkin. Huomioithan, että nettivinkki ei ole rikosilmoitus! Nettivinkin voit tehdä [poliisin verkkosivuilla](https://www.poliisi.fi/nettivinkki).
 

@@ -25,3 +25,4 @@ Other:
 Certifications:
 * OSCP
 * CISSP
+* GXPN
