@@ -219,9 +219,9 @@ Täältä löydät listan muista valtakunnallisesti auttavista puhelimista https
 *   [Elinkeinoelämän keskusliiton ohjeet](https://ek.fi/ajankohtaista/uutiset/tietovuodon-kohteeksi-joutuneen-muistilista/).
 *   [Kyberturvallisuuskeskuksen tietovuotoapu](https://www.tietovuotoapu.fi/fi/tietovuotoapu).
 *   Digi- ja väestötietoviraston ohjeet
-    * www.suomi.fi/oppaat/tietovuoto  
-    * www.suomi.fi/guider/informationslacka  
-    * www.suomi.fi/guides/data-leak
+    * [suomeksi](https://www.suomi.fi/oppaat/tietovuoto)
+    * [ruotsiksi](https://www.suomi.fi/guider/informationslacka) 
+    * [englanniksi](https://www.suomi.fi/guides/data-leak)
 
 
 Mikäli sinulla on tietoja, joista voisi poliisille olla jotakin hyötyä, voit lähettää poliisille nettivinkin. Huomioithan, että nettivinkki ei ole rikosilmoitus! Nettivinkin voit tehdä [poliisin verkkosivuilla](https://www.poliisi.fi/nettivinkki).
