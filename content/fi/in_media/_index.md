@@ -5,6 +5,7 @@ hidden: false
 menu: "main"
 ---
 
+* 30.1.2021: [Laura on töissä alalla, jolla on hyvät palkat ja valtava pula osaajista – kun Vastaamon tietomurto tuli julki, valkohattuhakkerin puhelin alkoi soida | Me Naiset](https://www.is.fi/menaiset/tyo-ja-raha/art-2000007771828.html)
 * 23.4.2020: [Korona-aika herätti huolen etäyhteyksien tietoturvasta– hakkerikollektiivi KyberVPK sammuttaa tietoturvatulipaloja | Lapinkansa.fi](https://www.lapinkansa.fi/korona-aika-heratti-huolen-etayhteyksien-tietoturv/804756)
 * 16.4.2020: [Kyberturvallisuus tärkeämpi kuin koskaan – myös Koronan jälkeen | Jarmo Limnéll](https://puheenvuoro.uusisuomi.fi/jarno-limnell/kyberturvallisuus-tarkeampi-kuin-koskaan-myos-koronan-jalkeen/)
 * 11.4.2020 [Kun sairaalaan tehtiin tietoturvahyökkäys, se oli viimeinen pisara Mikko Kenttälälle ja muille hakkereille, jotka haluavat käyttää taitojaan hyvään | Yle Uutiset](https://yle.fi/uutiset/3-11296321)
