@@ -25,10 +25,9 @@ Vastaamon antamia tietoja voit seurata [heidän verkkosivuiltaan](https://vastaa
 Kaikki ylläolevat tiedot [luokitellaan henkilötiedoiksi](https://tietosuoja.fi/mika-on-henkilotieto). On hyvä huomioida, että välttämättä juuri sinusta ei ole vuotanut kaikkia yllä mainittuja tietoja.
 
 Digi- ja väestötietovirasto on julkaissut toukokuussa 2021 suomi.fi-sivustolla tietovuoto-oppaan, josta löytyy ohjeistus tietomurron uhreille. Tästä oppaasta löydät juuri sinun tilanteeseesi sopivat ohjeet sekä palvelut. Opas löytyy verkkopalvelusta kolmella kielellä:  
-
-www.suomi.fi/oppaat/tietovuoto  
-www.suomi.fi/guider/informationslacka  
-www.suomi.fi/guides/data-leak  
+* [suomeksi](https://www.suomi.fi/oppaat/tietovuoto)
+* [ruotsiksi](https://www.suomi.fi/guider/informationslacka) 
+* [englanniksi](https://www.suomi.fi/guides/data-leak) 
 
 Myös alla olevat ohjeistukset ovat edelleen voimassa. 
 
@@ -218,7 +217,7 @@ Täältä löydät listan muista valtakunnallisesti auttavista puhelimista https
 *   [Rikosuhripäivystyksen ohjeet](https://www.riku.fi/toimi-nain-jos-tietojasi-on-vuodettu-verkkoon/).
 *   [Elinkeinoelämän keskusliiton ohjeet](https://ek.fi/ajankohtaista/uutiset/tietovuodon-kohteeksi-joutuneen-muistilista/).
 *   [Kyberturvallisuuskeskuksen tietovuotoapu](https://www.tietovuotoapu.fi/fi/tietovuotoapu).
-*   Digi- ja väestötietoviraston ohjeet
+*   Digi- ja väestötietoviraston ohjeet:
     * [suomeksi](https://www.suomi.fi/oppaat/tietovuoto)
     * [ruotsiksi](https://www.suomi.fi/guider/informationslacka) 
     * [englanniksi](https://www.suomi.fi/guides/data-leak)
