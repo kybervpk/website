@@ -12,7 +12,7 @@ Erityisosaaminen:
 * OSINT
 * Windows & Linux
 
-Päivätyö: Cyber Security Architect, [Elisa Oyj](https://www.elisa.fi)
+Päivätyö: Principal Offensive Security Lead, Elisa Santa Monica Oy
 
 Muuta:
 * Bug bounty hunter
