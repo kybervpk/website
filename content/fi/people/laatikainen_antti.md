@@ -12,7 +12,7 @@ Erityisosaaminen:
 * Riskienhallinta ja uhkamallinnus
 * Henkilötietojen käsittely, GDPR ja HIPAA
 
-Päivätyö: Senior Security Consultant, [F-Secure Consulting](https://www.f-secure.com/en/consulting)
+Päivätyö: Principas Consultant, Reversec
 
 Muuta:
 * Työura lääketeollisuuden parista tietoturvapäällikön roolissa, tästä johtuen hyvin käytännönläheinen lähestyminen kaikkeen tekemiseen. 
