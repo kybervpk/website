@@ -13,12 +13,11 @@ Erityisosaaminen:
 * Tietoturvapoikkeamahallinnan johtaminen
 * Windows & Linux
 
-Päivätyö: Information Security Specialist, [Traficomin Kybertuvallisuuskeskus](https://www.kyberturvallisuuskeskus.fi/en/)
+Päivätyö: Contractor
 
 Muuta:
 * Forensiikkakouluttaja, Maanpuolustuskoulutusyhdistys Ry (MPK Ry)
-* Puheenjohtaja ja perustaja, HelSec Ry
-* [Turvakäräjät](https://turvakarajat.fi/) Podcast Host
+* Perustaja, HelSec Ry
 
 Sertifikaatit:
 * CISSP
