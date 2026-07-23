@@ -13,7 +13,7 @@ Erityisosaaminen:
 * Media- ja haastatteluvalmennus
 * Orgaaninen ja kaupallinen sosiaalinen media
 
-Päivätyö: Communications Specialist, [K-ryhmä](https://www.kesko.fi) 
+Päivätyö: Head of Communications, Silmäasema
 
 Muuta:
 * Aktiivi, Maanpuolustuskoulutusyhdistys ry (MPK ry)
