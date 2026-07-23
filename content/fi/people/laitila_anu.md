@@ -15,9 +15,8 @@ Erityisosaaminen:
 * (Kriisi) viestintä ja PR
 * Projektien johtaminen 
 
-Päivätyö: Cybersecurity Awareness Business Manager, [Nixu Corporation](https://www.nixu.com)
+Päivätyö: Customer Success Lead at SensorFu 
 
 Muuta:
-* Hallituksen varapuheenjohtaja, Future Female ry
-* Kurssinjohtaja ja kouluttaja, Naisten Valmiusliitto Ry
-* Opiskelija, Jyväskylän Ammattikorkeakoulu (Ylempi AMK-tutkinto, kyberturvallisuus)
+* Hallituksen varapj Kyberpuolustuskilta
+
