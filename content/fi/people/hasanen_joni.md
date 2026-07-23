@@ -9,8 +9,7 @@ profile_img: "/images/joni_hasanen.jpg"
 Erityisosaaminen:
 * Ohjelmistokehitys
 
-Päivätyö: Kehittäjä / itsenäinen, [Zerocopter B.V](https://www.zerocopter.com/)
+Päivätyö: Kehittäjä 
 
 Muuta:
-* Hallituksen jäsen, HelSec Ry
 * Disobey Badge-tiimin jäsen
