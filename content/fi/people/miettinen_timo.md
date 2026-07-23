@@ -11,7 +11,7 @@ Erityisosaaminen:
 * Mobiiliforensiikka
 * Tietoturvapoikkeamien hallinta
 
-Päivätyö: Senior DFIR Consultant, [Nixu Corporation](https://www.nixu.com)
+Päivätyö: Security Consulting Manager, Accenture 
 
 Sertifikaatit:
 * GCIH
