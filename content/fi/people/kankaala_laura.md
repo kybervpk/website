@@ -12,8 +12,8 @@ Erityisosaaminen:
 * Pilvipalvelut 
 * WebAppien tietoturva
 
-Päivätyö: Security Consultant, [F-Secure](https://www.f-secure.com/consulting)
+Päivätyö: Head of Threat Intelligence, F-Secure
 
 Muuta:
-* Disobey hallituksen jäsen
-* Podcaster
+* Speaker
+
