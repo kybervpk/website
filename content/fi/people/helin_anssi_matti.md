@@ -12,7 +12,7 @@ Erityisosaaminen:
 * Pilviympäristöt (erityisesti AWS)
 * Ohjelmistokehitys
 
-Päivätyö: Senior IR Consultant, [F-Secure](https://www.f-secure.com/consulting)
+Päivätyö: Security Operations Lead @ Wolt
 
 Muuta:
 * Jäsen, Helsinki Hacklab ry
