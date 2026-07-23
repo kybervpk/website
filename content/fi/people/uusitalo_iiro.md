@@ -15,7 +15,7 @@ Erityisosaaminen:
 * OSINT
 
 
-Päivätyö: Cloud and Security Specialist, [Solita](https://www.solita.fi)
+Päivätyö: Security Ninja, Supercell
 
 Muuta:
 * Bug bounty hunter
