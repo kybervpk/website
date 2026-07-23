@@ -15,7 +15,7 @@ Erityisosaaminen:
 * Verkot ja järjestelmäarkkitehtuuri
 * Pilvipalvelut (GCP, AWS, DigitalOcean, jne)
 
-Päivätyö: Security Specialist (DFIR), [Nixu Corporation](https://www.nixu.com/)
+Päivätyö: Senior Information Security Specialist, Kyberturvallisuuskeskus 
 
 Muuta:
 * Aktiivinen jäsen yhdistyksessä HelSec Ry
