@@ -10,7 +10,7 @@ Erityisosaaminen:
 * Digital Forensics & Incident Response (DFIR)
 * Penetraatiotestaus (Web ja Mobile)
 
-Päivätyö: Cybersecurity Analyst, [Metso Corporation](https://www.metso.com)
+Päivätyö: Staff Security Engineer at Oura
 
 Muuta:
 * [Team ROT](https://teamrot.fi) -valkohattuhakkeritiimin jäsen
