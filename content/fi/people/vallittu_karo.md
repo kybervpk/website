@@ -12,7 +12,7 @@ Erityisosaaminen:
 * Teollisuus- ja automaatiojärjestelmien turvallisuus
 * Liikenne- ja merenkulkujärjestelmien turvallisuus
 
-Päivätyö: Head of Security, [Awake.ai](https://www.awake.ai)
+Päivätyö: Principal OT security lead, Elisa 
 
 Muuta:
 * Kurssijohtaja, Maanpuolustuskoulutusyhdistys ry (MPK ry)
