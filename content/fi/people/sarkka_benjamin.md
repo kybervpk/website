@@ -13,12 +13,12 @@ Erityisosaaminen:
 * Threat Intelligence & capability mapping 
 * Kriisinhallinta ja kommunikointi
 
-Päivätyö: Head of Cyber Intelligence Analytics, [Nordea Bank](https://www.nordea.com)
+Päivätyö: Head of Cybersecurity assurance, Volvo Group 
 
 Muuta:
 * Perustaja, Disobey Hacking Conference 
 * CEO 10100.fi 
-* Memeber Team Whack 
+* Member of Team Whack 
 
 Sertifikaatit:
 * CISSP
