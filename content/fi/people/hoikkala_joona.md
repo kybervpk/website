@@ -13,11 +13,11 @@ Erityisosaaminen:
 * Code review
 * Penetration testing
 * Secure software development
+* Securing and breaking AI systems
 
-Päivätyö: Software engineering contractor
+Päivätyö: Head of Security Testing, Visma
 
 Muuta:
-* TurkuSec Ry hallituksen jäsen
 * Aktiivinen avoimen lähdekoodin kehittäjä, mukana mm: [Certbot](https://github.com/certbot/certbot/), [acme-dns](https://github.com/joohoi/acme-dns), [ffuf](https://github.com/ffuf/ffuf)
 * Luo aktiivisesti sisältöjä tietoturvayhteisön käyttöön luentojen ja workshopien muodossa.
 
