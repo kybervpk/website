@@ -8,8 +8,9 @@ profile_img: "/images/joni_hasanen.jpg"
 
 Erityisosaaminen:
 * Ohjelmistokehitys
+* Turvallinen ohjelmistokehitys
 
-Päivätyö: Kehittäjä 
+Päivätyö: Turvallinen ohjelmistokehitys 
 
 Muuta:
-* Disobey Badge-tiimin jäsen
+* Disobey-org
