@@ -14,7 +14,7 @@ Erityisosaaminen:
 * Penetration testing
 * Secure software development
 
-Päivätyö: Software engineering contractor
+Päivätyö: Head of Security Testing, Visma
 
 Muuta:
 * Aktiivinen avoimen lähdekoodin kehittäjä, mukana mm: [Certbot](https://github.com/certbot/certbot/), [acme-dns](https://github.com/joohoi/acme-dns), [ffuf](https://github.com/ffuf/ffuf)
