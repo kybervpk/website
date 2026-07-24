@@ -13,6 +13,7 @@ Erityisosaaminen:
 * Code review
 * Penetration testing
 * Secure software development
+* Securing and breaking AI systems
 
 Päivätyö: Head of Security Testing, Visma
 
