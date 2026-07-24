@@ -11,5 +11,5 @@ Erityisosaaminen:
 * Web, Mobile, IoT
 * OSINT
 
-Päivätyö: Senior Security Specialist, [Nixu Corporation](https://www.nixu.com)
+Päivätyö: Red Team Engineer, Visma & CEO of RiverScape Security Oy
 
