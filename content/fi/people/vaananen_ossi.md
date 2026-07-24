@@ -13,7 +13,7 @@ Erityisosaaminen:
 * Ohjelmistokehitys (myös mobiili-)
 * OSINT
 
-Päivätyö: Tietoturvapäällikkö, [Sanoma Media Finland](https://www.sanoma.com/)
+Päivätyö: Lead Incident Responder, Elisa
 
 Muuta:
 * HelSec ry:n perustajajäsen ja järjestäjä
