@@ -12,7 +12,3 @@ Key competencies:
 * Linux
 
 Day job: It specialist at CSC, Funet CERT and email administrator
-
-Other:
-* Helsinki Hacklab board
-* Finnish skeptics board
