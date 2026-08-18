@@ -11,7 +11,7 @@ Erityisosaaminen:
 * Web-sovellusturvallisuus
 * Penetraatiotestaaminen
 
-Päivätyö: Turvallisuusauditoija, [Nixu Corporation](https://www.nixu.com)
+Päivätyö: Senior Security Specialist, Elisa
 
 Other:
 * [LeftOvers](https://leftovers.xyz)-hakkeritiimin jäsen
