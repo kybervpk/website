@@ -8,9 +8,9 @@ profile_img: "/images/joni_hasanen.jpg"
 
 Key competencies:
 * Software development
+* Application Security
 
-Day job: Software engineering / self-employed, [Zerocopter B.V](https://www.zerocopter.com/)
+Day job: Application Security
 
 Other:
-* Board member, HelSec Ry
-* Disobey Badge team member
+* Disobey-org
